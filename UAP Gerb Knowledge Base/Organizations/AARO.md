@@ -17,6 +17,15 @@ In late April 2023, [[Michael Herrera]] testified to AARO in a secure facility a
 
 Herrera's most controversial allegation is that AARO's Historical Report Volume 1 deliberately misrepresented his testimony. He says it falsely attributed two claims to him: that he witnessed an "extraterrestrial vehicle" and that the operators were "US Special Forces." Herrera firmly denies making either statement. He calls the misrepresentation purposeful distortion and rejects the idea that it was an innocent error. He notes that at least one other person present at his SKIF testimony can corroborate that he never used those terms. At the National Press Club and in media interviews, Herrera has publicly testified that he consistently described the craft as clearly man-made with human operators, not extraterrestrial, and that he never identified the armed personnel as US Special Forces.
 
+::wiki-document
+---
+name: "AARO Historical Report Volume 1"
+page: 29
+region: [0.56, 0.66]
+caption: "The passage Herrera disputes: a former U.S. service member who said that in 2009, on a humanitarian and security mission abroad, he encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+---
+::
+
 This alleged pattern of misrepresentation fits broader accusations that AARO, under Kirkpatrick's leadership, actively undermined whistleblower testimony instead of conducting good-faith investigations.
 
 ## Sand Corp Contract and Structural Whistleblower Suppression

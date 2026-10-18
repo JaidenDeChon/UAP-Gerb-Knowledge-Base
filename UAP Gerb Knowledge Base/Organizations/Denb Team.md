@@ -11,6 +11,13 @@ The **DENB Team** is a mysterious group, or an internal US government investigat
 
 The Denb Report is addressed "to all Denb team members" from [[JS (Denb Report Author)|JS]] and dated March 23, 1992. The document is labelled "File UFO 3263," which suggests it is one of many UAP cases the DENB Team studied. The report states that the facts were "gathered from two eyewitness accounts, documentation illegally copied, and a partially destroyed document" by a now-deceased person in 1978. The DENB group received the notes and documents in February 1992.
 
+::wiki-document
+---
+name: "Denb Report"
+caption: "The anonymous memo signed \"JS\" and dated 23 March 1992, \"Research Findings on Chihuahua Disc Crash\", which names its recipients as the team."
+---
+::
+
 Researchers [[Noe Torres]] and [[Ruben Uriarte]] suggest that "DENB" may be the name of a department within the US government. They also suggest that "JS" may be an acronym such as Joint Staff or Joint Services, or possibly an individual's initials. [[Leonard Stringfield]], who reviewed the Denb Report, concluded it was "authoritatively written using correct military terminology" and that it drew clear distinctions between hard evidence and speculation. In his view, both traits were inconsistent with a hoax.
 
 ## UAP Task Force Analogy

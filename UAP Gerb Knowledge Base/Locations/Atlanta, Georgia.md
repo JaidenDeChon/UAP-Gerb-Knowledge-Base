@@ -12,6 +12,13 @@ The [[Denb Report]] names Atlanta, Georgia as the final domestic destination of 
 
 In late August 1974, according to the Denb Report, a CIA-coordinated recovery team staged at [[Fort Bliss]], Texas covertly entered Mexican airspace, retrieved a silver disc from a halted Mexican military convoy (all convoy personnel found dead), sanitized the site with high explosives, and carried the object back to US territory slung beneath a Sea Stallion helicopter. The helicopters waited overnight in the Davis Mountains, approximately 25 miles northeast of [[Valentine, Texas]], then met a small convoy on the road near Van Horn and Kent, Texas, where the disc was transferred to a truck that could be sealed completely. The convoy then drove non-stop by back roads to Atlanta, Georgia.
 
+::wiki-document
+---
+name: "Denb Report"
+caption: "The anonymous 1992 memo signed \"JS\" that names Atlanta as the destination of the sealed truck carrying the disc."
+---
+::
+
 The Denb Report is an anomalous document first published on electronic bulletin boards in 1992. Researcher [[Leonard Stringfield]] independently corroborated it as "authoritatively written using correct military terminology". The report gives Atlanta as the destination but does not say which facility received the disc. Gerb notes that [[Lockheed Martin]] operates a complex at Air Force Plant 6 in Marietta, less than 30 miles outside Atlanta, where Lockheed says it performs [[Lockheed Martin Skunk Works|Skunk Works]] advanced development. Lockheed did C-130 work there from the 1950s. He also points to the Georgia Nuclear Aircraft Laboratory (Air Force Plant 67), which Lockheed ran. It studied whether nuclear-powered aircraft were feasible until it closed in 1971, and the city of Atlanta acquired it. Unconfirmed reports say the disc later went on to [[Wright-Patterson Air Force Base]] or another unnamed base.
 
 ## Implications

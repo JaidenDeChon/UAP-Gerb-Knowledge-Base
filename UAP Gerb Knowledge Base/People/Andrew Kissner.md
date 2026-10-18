@@ -13,6 +13,15 @@ J. Andrew Kissner is described in Gerb's videos as a former New Mexico state leg
 > [!edit] Corrected 16 October 2026
 > Earlier versions stated as fact that Kissner's findings led Schiff to the inquiry, and said the report found the messages destroyed "without proper authorization". The link to Kissner is Gerb's account. The report (GAO/NSIAD-95-187) says the disposition form recorded no one, no date and no authority for the destruction; "without proper authority" is Schiff's description, from his statement on the report.
 
+::wiki-document
+---
+name: "GAO Roswell Report (1995)"
+page: 4
+region: [0.36, 0.49]
+caption: "The report's finding on the destroyed RAAF records: the disposition form does not say what organization or person destroyed them, or when or under what authority."
+---
+::
+
 ## The 1994 Estimate of the Situation
 
 In 1994, Kissner compiled a statement summarizing his research. It drew on interviews with personnel connected to [[White Sands Missile Range|White Sands Proving Ground]], the Naval Research Laboratory and former [[Atomic Energy Commission]] laboratories, as well as former military officers and private defense contractors. The findings covered the period from the alleged 1947 Roswell and White Sands crash retrievals through 1994. Researcher [[Linda Moulton Howe]] presented Kissner's disclosures publicly at the second annual UFO Crash Retrieval Conference in 2004.

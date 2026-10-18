@@ -73,6 +73,24 @@ In the Lockheed video, Gerb summarizes the official explanation as DHS and the o
 > [!edit] Corrected 16 October 2026
 > Earlier versions quoted "skepticism regarding the authenticity" as AARO's stated reason. That wording is Gerb's summary. AARO's Historical Record Report, Vol. 1 cites the program's justification and the information behind the proposal, and is now paraphrased beside it.
 
+::wiki-document
+---
+name: "Kona Blue Documents"
+page: 48
+region: [0.57, 0.84]
+caption: "DHS's termination memo of 12 December 2011, recording that the 8 December review asked whether the justifications for establishing a SAP were adequate."
+---
+::
+
+::wiki-document
+---
+name: "AARO Historical Report Volume 1"
+page: 35
+region: [0.08, 0.57]
+caption: "AARO's account of Kona Blue: the prospective SAP \"was eventually rejected by DHS leadership for lacking merit\", and \"no data or material was transferred to DHS\"."
+---
+::
+
 ## AARO Declassification and Tim Phillips Statements
 
 On July 30, 2025, former AARO Deputy Director Tim Phillips made controversial public statements about Kona Blue. He claimed it was established "as the home for all this paranormal UFO crap" and alleged that multiple whistleblowers had cited Kona Blue to justify their claims to Congress. Phillips gave no examples or evidence for these assertions.

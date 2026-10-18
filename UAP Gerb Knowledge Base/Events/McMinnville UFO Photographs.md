@@ -17,6 +17,13 @@ The object is fairly small in the frame, and there is ongoing debate over whethe
 
 The McMinnville photographs were taken early in the modern UFO era, just three years after the Kenneth Arnold sighting that set off widespread "flying saucer" reports. The Condon Committee (University of Colorado UFO Project) analyzed the images in the late 1960s and concluded they showed "an extraordinary flying object, silvery, metallic, disc-shaped, tens of meters in diameter, and evidently artificial". The Condon Report was generally skeptical, and this was one of the few cases it treated as potentially genuine.
 
+::wiki-document
+---
+name: "Condon Report"
+caption: "The University of Colorado's \"Scientific Study of Unidentified Flying Objects\", which includes the committee's analysis of the McMinnville photographs."
+---
+::
+
 Later analyses have produced mixed results. Some investigators claim evidence of hoaxing, such as suspension wires and inconsistent lighting, while others maintain the photos show an authentic unidentified object. The photographs remain iconic images of the "classic flying saucer" shape.
 
 ## Sources

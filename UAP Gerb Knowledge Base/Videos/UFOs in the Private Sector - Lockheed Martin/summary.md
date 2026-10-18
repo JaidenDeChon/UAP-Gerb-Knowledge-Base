@@ -553,6 +553,15 @@ Because this is, as Gerb puts it, a UAP Gerb video, he turns to the documents. T
 
 The second is an audit. Gerb recalls the passage in the [[Wilson-Davis Memo]] in which the watch committee of the black crash retrieval and reverse-engineering program tells Admiral Wilson they were almost outed by an audit. On 24 July 1986, [[Frank Conahan|Frank C. Conahan]], director of the General Accounting Office's National Security and International Affairs Division, testified before a subcommittee on oversight and investigations that Lockheed had a poor control system for classified special access documents and no oversight from the DoD program office, and that the Defense Investigative Service had not been allowed to carry out its semiannual inspections of the contract in question. An inventory of 40,000 documents turned up 1,460 discrepancies; an estimated 46 documents had been destroyed and 17 transferred out of the company and never found. Gerb considers it "extremely suspicious", and a likely candidate for the audit that led the watch committee to reorganize SAP status in the 1990s to hide itself better.
 
+::wiki-document
+---
+name: "GAO Report on Special Access Contracts (1986)"
+page: 8
+region: [0.61, 0.93]
+caption: "GAO's July 1986 testimony as reprinted in the August report: Lockheed reported 1,460 discrepancies among about 40,000 secret and top secret items, and of the 235 it had investigated, 224 documents were accounted for and 11 unresolved."
+---
+::
+
 Two later statements, Gerb argues, show that Lockheed had a hand in special access programs above even DoD oversight. In June 2004, former Assistant Secretary of Housing and Urban Development [[Catherine Austin Fitts]] wrote "The Black Budget of the United States", arguing that a large proportion of the nation's wealth was being illegally diverted into secret, unaccountable channels to support clandestine domestic military R&D. She said Lockheed Martin Information Systems, then one of the IBM subcontractors hired by the Pentagon to manage systems that failed a GAO audit, handled Department of Justice systems and may have data on siphoned DoD funds. And in 2000, Commander [[Will Miller]], the same Miller who appears in the Wilson-Davis memo, told attorney Peter Gersten that senior officials such as a DIA director are isolated from UAP knowledge: the "keepers of the secrets", he said, reside in DoD middle management and in contractors like [[SAIC]], [[Boeing]] and Lockheed, the comptrollers who monitor the flow of money to certain special access programs.
 
 ## Project Aurora / Astra

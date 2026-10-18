@@ -390,11 +390,25 @@ The video offers three theories for the name. Researcher "Blocked Epistemology" 
 
 The first Majestic document is a Top Secret MAJIC Eyes Only briefing for President-elect [[Dwight D. Eisenhower]], dated 18 November 1952. It describes Operation Majestic 12 as a top secret research and development and intelligence operation reporting only to the President, set up by Truman's classified order of 24 September 1947. That day, Truman's appointment records show a meeting with Forrestal and Bush arranged at Forrestal's suggestion. The document recounts the 1947 wave of sightings and the [[Roswell Crash]], which led to [[Project Sign]], Grudge and [[Project Blue Book]]; these public projects had "very limited interaction" with MJ-12. Gerb connects this to [[Steven Lovekin]]'s account of Roswell debris held in a classified part of Blue Book. The document also describes the December 1950 crash near El Indio, Texas, with [[Atomic Energy Commission]] and [[Sandia National Laboratories]] involvement (see [[1950 El Indio UFO Crash]]), which [[Luis Elizondo]] described in his 2024 book *Imminent*. It closes with a contingency plan for public disclosure.
 
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper for President-elect Eisenhower, dated 18 November 1952 and marked Top Secret MAJIC Eyes Only."
+---
+::
+
 Given to the FBI, the document was circulated to other agencies. None said it had lost the document, and the FBI declared it bogus. [[Stanton Friedman]] found several 18 November 1952 briefings for Eisenhower in Office of the Secretary of Defense files in 1989, none mentioning MJ-12 but confirming the date. Friedman judged that the briefing document, the Truman–Forrestal memo and the Cutler–Twining memo "are almost certainly genuine" and SOM 1-01 "very likely genuine". Gerb also points to other Hillenkoetter documents: a 19 September 1947 memo to the Joint Intelligence Committee requesting a classified project after "we recovered one craft", and an 11 February 1948 "Majestic Black Book" summary for Truman.
 
 ## The Special Operations Manual (SOM 1-01)
 
 SOM 1-01, *Extraterrestrial Entities and Technology, Recovery and Disposal*, arrived in 1994. Aviation writer [[Don Berliner]] received it as undeveloped 35 mm Tri-X film in a small green box, and he and [[Robert Wood]] developed it. The film shows a binder stamped Top Secret MAJIC Eyes Only. The control page reads Kirtland Air Force Base, Unit KB-88, Building 21, "N.Mex", and records changes by MJ-01 and MJ-04, initialled EWL and JRT, from 1954 to 1958. Written in 1954 for "Majestic 12 units" and "authorized personnel", it summarises the group's purpose. MJ-12 regards UFOs as a matter of the very highest national security, and its goals are recovery of all non-terrestrial materials and entities, special teams, secret secure facilities, covert operations with the [[CIA]] at home and abroad, and absolute secrecy. As of 1954 it held that the visitors were a benign presence, far ahead of human science.
+
+::wiki-document
+---
+name: "Special Operations Manual (SOM 1-01)"
+caption: "The disputed MJ-12 manual Extraterrestrial Entities and Technology, Recovery and Disposal, marked Top Secret MAJIC Eyes Only and said to date from 1954."
+---
+::
 
 The manual describes four craft configurations. Gerb notes that the triangle and the "ice cream cone" shape are among the earliest references to forms later reported in the 1976 Tehran and Cash–Landrum cases.
 

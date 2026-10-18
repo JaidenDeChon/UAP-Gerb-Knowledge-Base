@@ -499,6 +499,13 @@ Gerb has covered other alleged underground sites before: the 10-storey [[Defense
 
 The first true mention of DUMBs and UFOs Gerb can find is a 1955 *Look* article, "Is This the Real Flying Saucer?", about a Canadian company building a saucer. It depicted a facility under a hill with a vertical shaft for saucers to leave by. Rumours did not really pick up again until the 1970s, and the earliest of them sit in Leonard Stringfield's *[[Stringfield Status Reports|UFO Crash/Retrieval Status Reports]]* (1978–1994).
 
+::wiki-document
+---
+name: "Stringfield Status Reports"
+caption: "Stringfield's seven crash-retrieval reports, which collect the letters and tips about underground facilities summarized below."
+---
+::
+
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Fort Hood, Texas: 12 February 1974" tone="accent"}
 An anonymous letter described UFO research in a complex below Gray Army Airfield and [[Fort Hood]], shared with ICBM silos in a small mountain, part of which opened onto a jet interceptor runway. A private pilot once saw it during a forced landing. It was said to link to NORAD, Wright-Patterson, Tinker and Carswell, and to use unmarked helicopters codenamed the "Blue Boys", armed with an electronic warfare system to disable UFOs "under controlled conditions".
@@ -681,6 +688,13 @@ The [[Bureau of Reclamation]] bored hundreds of miles of tunnels up to 28.5 feet
 ::
 
 By the same reasoning that dates the bases to 1961–1989, Gerb dates any connective network to the early 1970s, and to 1974 in particular. The National Research Council formed the [[U.S. National Committee on Tunneling Technology]] in 1972 as the "United States focal agency" for tunneling. By 1977 it had six major subcommittees, including deep cavities and tunnel support systems, and partners including Sandia and [[Battelle Memorial Institute]], which Gerb has accused of work at the alleged Dugway DUMB. [[Bechtel Tunneling Report (1974)|Bechtel's 1974 research plan]] called defence demand for underground excavation "large". A 1981–82 workshop with the Army, Air Force, Navy, DOE and National Science Foundation led to a 1982 report calling for 400 miles of tunnels 2,500 to 3,500 feet deep. They were to be up to 16 feet wide, with "interconnecting passageways" for storage and living quarters, powered by fuel cells or reactors, and located, per the *New York Times*, "probably in the desert of the western United States". Boeing studied fuel-cell power for deep ICBM bases in 1984, and by 1988 the committee was publishing on missile systems 3,000 to 8,000 feet down.
+
+::wiki-document
+---
+name: "Bechtel Tunneling Report (1974)"
+caption: "Bechtel's 1974 *Research Program Plan for Meeting Tomorrow's Needs in Tunneling and Excavation*, which says demand for underground excavation for national defense \"is believed to be large\"."
+---
+::
 
 Gerb assumes that some underground missile bases served as clandestine research sites, and notes which contractors built them. [[BDM International]] won a 1985 "intercontinental ballistic missile deep basing communication study". TRW had studied high-speed ground transportation tunnels since 1968. In November 1985 United Technologies' Hamilton Standard division was contracted for life support and chemical-biological protection on small ICBM deep-basing programs. Gerb is most interested in how these contractors are linked by ownership and staff:
 

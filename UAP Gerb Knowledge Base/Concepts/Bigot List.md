@@ -22,6 +22,13 @@ In the [[Wilson-Davis Memo]], Vice Admiral [[Thomas Wilson]], then Deputy Direct
 - No senior Bush or Clinton administration officials were listed
 - Wilson did recognize the names of people from OUSD(AT), the [[National Security Council]], and other Pentagon departments
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 As Deputy Director of DIA, Wilson had statutory oversight and regulatory authority over all DoD special access programs, both acknowledged and unacknowledged. He was still denied access because he was not on the bigot list. The [[Watch Committee]] that oversaw the program told Wilson that membership of the list was decided by special criteria set after a near-exposure incident. Wilson did not meet those criteria, which were not disclosed.
 
 ## "Bigoted" as a SAP Control Marking

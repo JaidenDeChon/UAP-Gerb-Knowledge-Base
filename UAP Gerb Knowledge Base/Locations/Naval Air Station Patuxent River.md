@@ -23,6 +23,14 @@ In *[[Off-World Technologies Division – UAP Technology Reverse Engineering]]*,
 - Former Navy science and technology official [[Nat Kobitz]] told [[Ross Coulthart]] that his discreet inquiries at NAVAIR and Pax River turned up no one who knew anything about Pais or his patents.
 - Pax River, like Crane, has a long history of contracts with [[SAIC]], the contractor Gerb considers the likely private partner at Crane.
 
+::wiki-document
+---
+name: "Craft Using an Inertial Mass Reduction Device"
+page: 1
+caption: "The front page of Pais's patent, US 10,144,532 B2: applicant and inventor of Leonardtown, Maryland, assigned to the Secretary of the Navy, with NAWCAD as attorney of record and the triangular craft drawing."
+---
+::
+
 On this basis Gerb suggests that work on reverse-engineering non-human technology, similar to that of the alleged Crane division, may also be done at Pax River.
 
 ## Sources

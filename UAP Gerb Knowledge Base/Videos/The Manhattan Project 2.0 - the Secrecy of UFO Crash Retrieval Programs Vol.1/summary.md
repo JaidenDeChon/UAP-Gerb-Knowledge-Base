@@ -765,6 +765,13 @@ Also called the Special Group, set up by Eisenhower. Its seats are listed below;
 
 Gerb is careful about Majestic 12's documents. He finds the Eisenhower Briefing Document, stamped 18 November 1952 and the first MJ-12 document to leak, "somewhat convincing" because of [[Stanton Friedman]]'s authentication work and its parallels with the real record: Truman, Forrestal and Bush really met on 24 September 1947, the date of the memo authorizing "Operation Majestic 12"; Forrestal died on 22 May 1949; and Truman's calendar shows an off-record meeting with Walter Bedell Smith on 1 August 1950, the day the briefing says Smith replaced him. Gerb does not claim to know whether Truman created the group, but is "quite confident" that "Maj 12" existed under Eisenhower, hidden in the 5412 Committee. He believes it continued through its successors, including Nixon's 303 Committee, until it went "into a black box" or broke apart in the 1980s.
 
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper dated 18 November 1952, which dates Operation Majestic 12 to Truman's order of 24 September 1947 and has Smith replacing Forrestal on 1 August 1950."
+---
+::
+
 He adds that an element of the NSC still oversees one crash retrieval portfolio, involving DOE, the Air Force, the [[CIA Directorate of Science and Technology|CIA's Directorate of Science and Technology]] and select contractors and FFRDCs, but that it is not the only portfolio. The 2025 documentary *[[The Age of Disclosure]]*, he says, left the NSC out to protect Clapper, who as Director of National Intelligence from 2010 to 2017 allegedly ran it with deputies [[Stephanie O'Sullivan]] and Michael Dempsey. Grusch is quoted: "General Clapper was well aware of the crash retrieval issue, managed the crash retrieval issue," placing people in critical roles "to manage this issue both publicly and... non-publicly." Gerb adds that Clapper likely gave [[Luis Elizondo]] top cover for AATIP "as a way to talk about the onion outside of the onion." He closes the section with Eisenhower's farewell warning about the military-industrial complex, suggesting that presidential control over the UFO portfolio was already slipping by the end of Eisenhower's term.
 
 ## Key Personnel: Bush and Marshall
@@ -853,6 +860,13 @@ The reason was [[Yellow Fruit]] and the Iran-Contra affair. In 1983 a routine Do
 Gerb believes the audit nearly exposed a UFO compartment. SAPs nest as a tier-one umbrella, tier-two compartments and tier-three sub-compartments, and Yellow Fruit was an umbrella with several missions. He compares it to the Navy's [[Project Sanddollar]]: Dr. [[John P. Craven]], chief scientist of the Navy's Special Projects Office, led the 1964 Deep Submergence Systems Project, and in 1965 a naval intelligence officer briefed him into Sanddollar, a program to find and recover items of national security interest from the seafloor. The briefing was so secret that even Craven's staff did not know where he went. Sanddollar sat under several layers of cover programs beneath the Polaris missile program, and Craven's "seventh veil", in which no one could be sure of having reached the innermost compartment, is for Gerb an early statement of the onion. He wagers a UFO program sat under the Yellow Fruit umbrella the way Sanddollar sat under Polaris.
 
 The link to the present runs through the [[Wilson-Davis Memo|Wilson-Davis notes]], which Gerb places at a 2002 meeting between Admiral [[Thomas Wilson]] and [[Eric Davis]] in the parking lot of EG&G. The notes allegedly recount Wilson, using his need-to-know authority, being denied access to a portfolio partly hidden in the acquisition under secretary's office and gatekept by the SAP Oversight Committee's Senior Review Group. The gatekeepers reportedly said they had formed "out of necessity" after "an audit investigation led to them and it wasn't supposed to. Nearly outed." Gerb has doubts about Davis but believes the notes' core facts, and he plays Davis on *American Alchemy* confirming the notes were for internal use. He is "quite confident" that the audit they describe is Yellow Fruit and the mid-1980s DoD audits.
+
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
 
 ### Edward C. Aldridge and SAF/AA
 

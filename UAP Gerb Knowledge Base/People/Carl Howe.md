@@ -17,6 +17,15 @@ In the March 22, 1950 memo from FBI Special Agent in Charge [[Guy Hottel]] to FB
 > [!edit] Corrected 17 October 2026
 > This paragraph used to credit the whole account of the recovered saucers to "Mr. Carl Howe" and to say the information came to Hottel from the investigator. In the memo the recovery details are the Air Force investigator's, only the radar explanation is credited to the redacted "Mr." informant, and the information was furnished to a redacted Special Agent; the ATIC link is Gerb's guess.
 
+::wiki-document
+---
+name: "Hottel Memo"
+page: 2
+region: [0.42, 0.56]
+caption: "The redacted \"Mr.\" informant's paragraph: the saucers were found in New Mexico because \"it is believed the radar interferes with the controling mechanism\", followed by the note that no further evaluation was attempted."
+---
+::
+
 The radar interference theory, which blames UAP crashes on electromagnetic disruption from ground-based radar, became a recurring idea in early UFO literature. It has been offered as an explanation for the 1947 Roswell crash, the alleged 1948 [[Aztec UFO Crash and Recovery]] and other incidents.
 
 ## Identity and Credibility

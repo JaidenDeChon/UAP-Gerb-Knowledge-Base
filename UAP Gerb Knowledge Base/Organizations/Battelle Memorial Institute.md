@@ -18,6 +18,15 @@ On May 5, 1955, ATIC issued [[Project Blue Book Special Report No. 14]], a stati
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Battelle and ATIC jointly published the report, which analyzed 3,200 sightings and concluded UFOs were not advanced craft because no physical matter had ever been recovered. The report is ATIC's and names no contractor, covers 3,201 cases, and treats the lack of physical evidence as one point among several rather than the basis of its conclusion.
 
+::wiki-document
+---
+name: "Project Blue Book Special Report No. 14"
+page: 10
+region: [0.25, 0.53]
+caption: "The summary's conclusion, credited to \"a panel of scientists both in and out of the Air Force\" with no contractor named: it is \"highly improbable\" the reports show technology beyond present-day scientific knowledge."
+---
+::
+
 ## Nitinol Research and the Roswell Connection (1949)
 
 In 1949, [[Wright-Patterson Air Force Base]] contracted Battelle for titanium-alloy research under contract AF 33(038)-3736 (which Gerb reads as 33-38-3736). The progress reports, titled "Research and Development on Titanium Alloys", cover September 1 to October 21, 1949 by Gerb's reading, and he says they deal at length with nitinol, a nickel-titanium alloy with superelastic and shape-memory properties. Nitinol was not publicly discovered until 1961, when Dr. William J. Buehler documented it at the Naval Ordnance Laboratory. According to Gerb, the 1949 Battelle research carried the [[Atomic Energy Commission]]'s "restricted" label rather than a classification, a private-sector classification tier that even people with Special Access Program clearances could not access. It was not declassified until 2010.

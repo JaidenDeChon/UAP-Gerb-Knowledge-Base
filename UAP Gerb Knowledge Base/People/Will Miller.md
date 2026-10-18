@@ -75,6 +75,13 @@ The notes open with Wilson saying that [[Oak Shannon|Oke Shannon]] had asked him
 - the name and location of a senior officer with firsthand knowledge of U.S. government [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] (ARVs);
 - a list of civilian government contractors with knowledge of U.S. work in "alien-derived technologies, crashes, landings, and associated events".
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 Gerb notes that much of this came to seem "somewhat fact" in the 2020s, through [[David Grusch]] and the UAP provisions of the 2024 National Defense Authorization Act. Asked by Murgia about the letter, Miller said he had no recollection of it, or would not discuss it.
 
 ## The "Keepers of the Secrets"

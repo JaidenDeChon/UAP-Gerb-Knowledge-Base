@@ -90,6 +90,13 @@ Gallaudet's 2024 white paper, published through the Sol Foundation, presents a s
 
 The paper concludes that the study of UAP in the ocean should be made a national research priority, and it calls for action to uncover the "unknown unknowns" associated with UAP and USOs.
 
+::wiki-document
+---
+name: "Beneath the Surface (Gallaudet White Paper)"
+caption: "Rear Admiral Gallaudet's 2024 Sol Foundation white paper, which argues that UAP in the ocean should be made a national research priority."
+---
+::
+
 ## Naval Legacy Programs
 
 In Gerb's video on US Navy crash retrieval programs, Gallaudet's openness ends a long line of Navy denials, which Gerb traces back to Office of Naval Research physicist Urner Liddel's 1951 claim that all UFO reports were mirages or balloons. Gerb also cites Gallaudet's statement on the congressional record that, while he is aware of testimony about naval UFO legacy programs, he never directly encountered them and was not briefed on them during his Navy career. Gerb argues this fits programs compartmented within the Navy Special Program. In another video Gerb names Gallaudet, who speaks openly about UAP, as one sign of the Navy's long involvement with the subject, alongside the OPNAV regulations restricting UAP reporting and the [[Wilson-Davis Memo]].

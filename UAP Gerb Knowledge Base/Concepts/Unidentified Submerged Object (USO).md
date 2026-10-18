@@ -27,6 +27,22 @@ Official USO documentation is thin partly because of deliberate regulation, not 
 > [!edit] Attribution clarified 17 October 2026
 > This item used to say the directive carried criminal penalties that included fines and imprisonment, and that the ban covered civilians who had filed reports. JANAP 146(C) (Articles 210a and 308a) cites only the Communications Act of 1934 and 18 U.S.C. 793 and 794 and covers everyone aware of a report; the prison sentence and $10,000 fine are Gerb's, from [[Videos/USO - Unidentified Submerged Objects/summary|USO - Unidentified Submerged Objects]].
 
+::wiki-document
+---
+name: "JANAP 146c"
+page: 21
+region: [0.28, 0.56]
+caption: "Article 308a, the security rule for MERINT reports from ships: everyone aware of a report is governed by the Communications Act of 1934 and the Espionage Laws, and unauthorized revelation of its contents is prohibited."
+---
+::
+
+::wiki-document
+---
+name: "OPNAV 3820"
+caption: "The Chief of Naval Operations' directive requiring Navy \"flying object reports\" to go to the directors of ATIC, USAF Intelligence and Naval Intelligence, citing JANAP 146c as its authority."
+---
+::
+
 As a result of these directives, only 258 of the 13,000+ sightings in Blue Book's 20-year record involved ships, and only 13 of those met the program's own merit standards. The Soviet Union had a parallel system of suppression. After the 1977 Vulga incident, though, [[Fleet Admiral Nikolai Smirnov]] issued a directive making USO reports mandatory for Soviet ships, which in effect created a Soviet version of OPNAV 3820 after the fact.
 
 ## Historical Record

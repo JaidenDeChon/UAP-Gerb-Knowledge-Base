@@ -294,6 +294,13 @@ Gerb argues that three rules, issued within about a year of each other, closed t
 
 ::wiki-document
 ---
+name: "OPNAV 3820"
+caption: "The Navy directive of 23 January 1954 requiring \"flying object reports\" to go to the directors of ATIC, USAF Intelligence and Naval Intelligence, under the authority of JANAP 146c."
+---
+::
+
+::wiki-document
+---
 name: "JANAP 146c"
 page: 15
 region: [0.56, 0.76]
@@ -372,6 +379,13 @@ The paper's three central cases are these:
 - The [[Shelburne Harbor USO Incident|1960 Shelburne Harbor case]]. During a joint US-Canadian minesweeping exercise off [[Shelburne Harbor, Nova Scotia]] (close to, but distinct from, Shag Harbour's 1967 case), Royal Canadian Navy divers reportedly saw two disc-shaped craft on the seabed, with occupants apparently repairing one, and filmed them. Gallaudet writes that he found the story implausible until recent US military whistleblower disclosures.
 
 The paper also lists the range of USO forms in the literature: luminous orbs, silver and grey discs, triangular and cigar-shaped objects, and large lighted craft seen beneath the surface without ever emerging.
+
+::wiki-document
+---
+name: "Beneath the Surface (Gallaudet White Paper)"
+caption: "Rear Admiral Gallaudet's 2024 Sol Foundation white paper, which argues that UAP in the ocean should be made a national research priority."
+---
+::
 
 ## Military USO Encounter Cases
 

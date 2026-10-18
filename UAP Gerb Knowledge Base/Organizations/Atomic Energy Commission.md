@@ -20,6 +20,15 @@ The AEC is linked to [[Avery Technical Center]] at Dugway through the radiologic
 > [!edit] Corrected 17 October 2026
 > This paragraph used to say the AEC conducted radiobiological warfare studies at Avery, showing its work extended into classified military research. The assessment says only that Avery's radiological warfare laboratories used spent AEC fuel elements, mainly for dosimetry and food irradiation.
 
+::wiki-document
+---
+name: "Environmental Assessment Report on Avery Technical Center"
+page: 30
+region: [0.24, 0.45]
+caption: "The 2012 assessment on Avery: its radiological warfare laboratories were used mainly to study dosimetry and irradiate food, with spent fuel elements from the Atomic Energy Commission."
+---
+::
+
 ## Restricted Classification and UAP Material Concealment
 
 The AEC had a "restricted" classification standard, a private-sector tier separate from the standard government Secret or Special Access Program (SAP) designations. It was used to classify the 1949 research that [[Battelle Memorial Institute]] did on [[Nitinol (Nickel-Titanium Alloy)]] for [[Wright-Patterson Air Force Base]]. Under this standard, only personnel inside the contractor with a need to know had access, and even people holding government SAP clearances were shut out. The 1949 Battelle nitinol research was not declassified until 2010.

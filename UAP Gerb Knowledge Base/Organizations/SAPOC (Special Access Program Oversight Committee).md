@@ -24,6 +24,13 @@ Past chairs named by Gerb include Deputy Secretaries of Defense [[John Deutch]] 
 
 According to the Wilson-Davis notes, the UFO portfolio was reorganized in 1994, during Perry's expansion of SAP management and control, into "a special subset of the unacknowledged carve-outs waived programs not belonging to usual SAP divisions." The notes describe a special agreement governing access between the SAPOC's Senior Review Group, a contractor's counsel and a corporate security director (the [[Watch Committee]]). Wilson was told to "drop the matter" because the program did not fall within his oversight. Air Force Major General Michael Kostelnik, described as SAPOC director at the time, is credited in the notes with estimating legacy security budgets at two to three times the program budget, and once six to seven times.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 Gerb treats the SAPOC and SRG as the "skeleton gatekeeping structure and access approval authority" for government access to the legacy programs, with the power to turn away even agency directors and general officers who lacked need-to-know. He distinguishes them from the group that actually controls the programs, which he says has been a quasi-government and industry group of just over two dozen people since 1994. He does suggest that the Watch Committee may be connected to that group. He quotes [[David Grusch]] describing the decision-makers as "career senior executive officials... both in and out of government." He also argues that the SRG has failed to prevent duplication in the legacy portfolio, which is so siloed that separate services allegedly run duplicate exotic programs.
 
 ## Sources

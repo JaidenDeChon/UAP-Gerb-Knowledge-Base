@@ -281,6 +281,13 @@ root:
 ---
 ::
 
+::wiki-document
+---
+name: "OPNAV 3820"
+caption: "The Chief of Naval Operations' directive that sent Navy \"flying object reports\" to the directors of ATIC, USAF Intelligence and Naval Intelligence."
+---
+::
+
 Gerb picks out four ship cases: the [[MV Marala North Atlantic Sighting]], the [[SS City of Alako Hawaiian Islands Sighting]], the [[Ascension Island USO Sighting]] and the [[SS Morgantown Victory Sighting]]. Blue Book left the first unidentified. In the other three, he argues, its explanation does not fit what the witnesses reported:
 
 ::wiki-claim{video="Yn-83KbgRN8" video-title="USO Case Book: Unidentified Submerged Objects Throughout History"}

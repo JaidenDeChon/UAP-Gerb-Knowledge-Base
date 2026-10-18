@@ -226,6 +226,13 @@ Bush appears in multiple independent lines of UAP testimony and documentation:
 - In his 1994 statement, which Gerb treats as an "estimate of the situation", former New Mexico state representative [[Andrew Kissner]] said that from 1947 onward, UFOs recovered from Roswell and White Sands were collected, processed and analyzed by teams operating under Bush. Gerb says this independent line of testimony lines up with Sarbacher's disclosures to Smith.
 - [[William Steinman]]'s 1986 book *UFO Crash at Aztec* argues that Bush led the scientific team at the 1948 [[Aztec UFO Crash and Recovery|Aztec, New Mexico retrieval]], alongside [[Detlev Bronk]], von Neumann and Oppenheimer. Gerb considers Aztec real but faults Steinman for not documenting his sources. In his Aztec video Gerb also traces the oil-finding "doodlebug" at the heart of the case to Geophysical Service Inc.'s wartime magnetic submarine-detection work under Bush's OSRD.
 
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
+
 ## National Advisory Committee for Aeronautics (NACA)
 
 As chairman of NACA from 1939 to 1941, Bush headed the institution that became NASA in 1958. NACA's mandate was to advance aeronautics, so any anomalous flight characteristics fell squarely within its interest. Kissner's sources name NACA among the bodies that played a major role in the months after the 1947 crashes.

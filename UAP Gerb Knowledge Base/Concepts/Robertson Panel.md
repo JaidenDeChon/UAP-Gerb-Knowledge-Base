@@ -40,6 +40,14 @@ The Robertson Panel convened in January 1953, just four months before the allege
 > [!edit] Corrected 17 October 2026
 > Earlier versions said Regulation 200-2 "rerouted UFO reports away from public oversight". The regulation sets where reports go and, in its paragraph 8, what may be released; it now says what it provides (see its transcription).
 
+::wiki-document
+---
+name: "USAF Regulation 200-2"
+page: 3
+caption: "Paragraph 6c of the regulation lists the addressees for reports (Air Defense Command, ATIC and the Director of Intelligence), and paragraph 8 limits what may be released about a local sighting."
+---
+::
+
 ## Declassification and Legacy
 
 The Robertson Panel's report was partially declassified in the 1970s. Later FOIA releases and congressional inquiries showed how far the panel's recommendations were carried out through Pentagon public affairs operations, Air Force debunking efforts, and intelligence community monitoring of civilian UFO organizations. UAP historians regard the panel's influence as foundational to the decades-long suppression of serious scientific engagement with the phenomenon.

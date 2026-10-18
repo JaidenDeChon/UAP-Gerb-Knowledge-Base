@@ -25,6 +25,13 @@ In 1983 researcher [[William Steinman]] sent [[Robert Sarbacher]], a physicist w
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Steinman sent twelve questions and that Sarbacher named Bush as definitely involved "alongside" von Neumann and Oppenheimer. The letter answers five numbered questions, names von Neumann and Bush as definitely involved, and says only "I think" of Oppenheimer.
 
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
+
 In his 1986 book *UFO Crash at Aztec: A Well-Kept Secret*, Steinman went further and named the scientific team he says Bush led at the 1948 Aztec recovery: [[Detlev Bronk]], Lloyd Berkner, Jerome Hunsaker, [[Carl A. Heiland]], Von Neumann and Oppenheimer. Gerb considers the Aztec case real and praises the book, but faults Steinman for not documenting how he arrived at this roster.
 
 ::wiki-claim

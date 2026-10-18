@@ -193,6 +193,13 @@ Ruppelt's book is the main source for the Estimate of the Situation, a Top Secre
 > [!edit] Corrected 16 October 2026
 > This section, with the 1948 timeline entry, the note on his book and Vandenberg's roster note, used to say that Ruppelt wrote that Vandenberg ordered a 1948 Sign "memo" destroyed. Ruppelt's book calls it an Estimate of the Situation and says Vandenberg rejected it, but it doesn't say who ordered the copies burned. The destruction order is Gerb's account.
 
+::wiki-document
+---
+name: "Project Sign Estimate of the Situation (1948)"
+caption: "Project Sign's Top Secret Estimate of the Situation of 1948, known from Edward Ruppelt's account; no copy has been made public."
+---
+::
+
 ## The Robertson Panel
 
 In December 1952, USAF Colonel Donald L. Bower forbade Ruppelt from visiting the CIA's Office of Special Investigations to share compelling UFO data. The CIA's [[Robertson Panel]] sat a month later. Gerb takes the timing as evidence that the panel's conclusions were predetermined, to devalue UFOs and attribute them to misidentified prosaic phenomena.

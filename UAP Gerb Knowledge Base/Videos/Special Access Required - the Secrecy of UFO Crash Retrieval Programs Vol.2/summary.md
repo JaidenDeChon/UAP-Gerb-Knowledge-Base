@@ -438,6 +438,15 @@ The video gives an extended breakdown of the [[Special Access Programs (SAPs)|SA
 
 The term "special access program" was first acknowledged in the 1980s; before that, the equivalents were "black programs," such as the early NRO and Lockheed Skunk Works stealth aircraft. Today SAPs are governed chiefly by Executive Order 13526, which defines a SAP as a program for a specific class of classified information that imposes safeguarding and access requirements beyond those normally required at the same classification level. The intelligence community runs its own equivalent, controlled access programs (CAPs), and the Department of Energy runs its own SAPs under the Atomic Energy Act. Gerb clears up two misconceptions: SAPs are not a way to hide money, and they are not a classification level above top secret. They use the ordinary levels, with tighter access. Well-known examples include the F-117A Nighthawk, B-21 Raider, RQ-180 and Yellow Fruit. Access requires a need-to-know determined by an access approval authority, and read-ins are kept to the minimum needed regardless of rank. Gerb says he knows of a legacy SAP kept so small that a senior scientist also did account management and an industrial security professional also did janitorial work, so that no one else had to be read in.
 
+::wiki-document
+---
+name: "Executive Order 13526"
+page: 23
+region: [0.87, 0.95]
+caption: "The order's definition, section 6.1 (oo): a special access program imposes safeguarding and access requirements beyond those normally required for information at the same classification level."
+---
+::
+
 SAPs nest into umbrellas, compartments and sub-compartments, each grouping similar critical program information. Gerb's examples from Part One are the Polaris submarine program, which housed hidden programs including Sand Dollar, and Yellow Fruit, which housed several classified operations. Names hide information too. A SAP is known by an unclassified two-word nickname, its program identifier (PID), such as Yellow Fruit or [[Kona Blue]], to which the SAP central office may add a classified codeword and control markings such as NOFORN. His example marking is "TS SAR HANGAR BULLY WAIVED": top secret, special access required, the PID, and a waived control. A second example, shown on screen, is the Kona Blue marking with its NOFORN control; "TOP SECRET//KONA BLUE//NOFORN" appears, struck out, across the declassified [[Kona Blue Documents]]. He says whistleblowers have sworn before Congress that legacy SAPs rotate names, possibly monthly, to help trace leaks.
 
 ::wiki-document
@@ -618,6 +627,15 @@ Gerb argues DOE SAPs are harder still to crack, because DOE's classification aut
 > [!edit] Attribution clarified 17 October 2026
 > This paragraph used to give "a sizable amount of atomic energy" as the wording of Section 51. It is Grusch's paraphrase; the Act says "capable of releasing substantial quantities of atomic energy".
 
+::wiki-document
+---
+name: "Atomic Energy Act of 1954"
+page: 11
+region: [0.62, 0.83]
+caption: "Section 51 as enacted: the Commission may declare other material special nuclear material if it finds the material \"capable of releasing substantial quantities of atomic energy\" and the President assents in writing."
+---
+::
+
 ## Program Protection Agencies
 
 If SAP loopholes protect the core, Gerb says, program protection offices are the "antibodies" that swarm to neutralize threats to it. Program protection is legitimate and necessary; his claim is that certain offices inside the same agencies that run legacy work, unlike outside bodies such as the Information Security Oversight Office or the Defense Counterintelligence and Security Agency, are deputized to protect waived programs concerning covert UFO activity.
@@ -652,6 +670,13 @@ Gerb treats disinformation as the onion's surface layer, used since 1947 to stig
 
 > [!edit] Corrected 16 October 2026
 > This paragraph, and the 1948 timeline entry, used to say that Ruppelt wrote that Vandenberg ordered a 1948 Sign memo destroyed. That is Gerb's reading. Ruppelt's book calls the document an Estimate of the Situation and says Vandenberg rejected it, without saying who ordered the copies burned.
+
+::wiki-document
+---
+name: "Project Sign Estimate of the Situation (1948)"
+caption: "Project Sign's Top Secret Estimate of the Situation of 1948, known from Edward Ruppelt's account; no copy has been made public."
+---
+::
 
 ### AARO and Yankee Blue
 

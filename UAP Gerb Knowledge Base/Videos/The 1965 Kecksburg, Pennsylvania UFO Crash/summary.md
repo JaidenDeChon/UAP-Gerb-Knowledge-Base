@@ -544,6 +544,13 @@ Gerb treats the blue-bereted airmen as one of the most important threads in the 
 > [!edit] Corrected 16 October 2026
 > Earlier versions gave the title as *Crash Retrievals of the Third Kind*, as Gerb does. Stringfield's 1978 paper, the first of his Status Reports, is titled *Retrievals of the Third Kind: A Case Study of Alleged UFOs and Occupants in Military Custody*.
 
+::wiki-document
+---
+name: "Stringfield Status Reports"
+caption: "Stringfield's crash-retrieval reports, beginning with the 1978 paper in which he described the Blue Berets."
+---
+::
+
 ::wiki-grid{cols=3}
 ::wiki-panel{title="Stringfield's Blue Berets" tone="accent"}
 The rapid-reaction unit Stringfield heard about from military sources. After a lecture at the University of Dade City, Florida, he met a former member, "Cam", whose comrade had spoken of recovering a "big head" from an alien craft. Between 1985 and 1987 another claimed former member, Jeff Morse, told him that US forces had shot a non-human entity dead at Fort Dix–McGuire Air Force Base.

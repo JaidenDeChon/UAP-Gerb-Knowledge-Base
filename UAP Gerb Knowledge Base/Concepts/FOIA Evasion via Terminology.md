@@ -24,6 +24,15 @@ Meanwhile, some UAP-related information has been disclosed under pressure. This 
 
 Every Fast Walker denial cites Executive Order 13526, which allows the classification of information deemed "critical to National Defense or foreign policy." Because Fast Walkers are kept as a separate classified program with its own terminology, agencies can invoke this order to block disclosure even as they release limited information on atmospheric UAPs.
 
+::wiki-document
+---
+name: "Executive Order 13526"
+page: 3
+region: [0.13, 0.43]
+caption: "Section 1.4, the order's classification categories, among them military plans, weapons systems or operations, intelligence activities, and scientific or technological matters relating to the national security."
+---
+::
+
 ## Historical Precedent
 
 The pattern goes back decades:

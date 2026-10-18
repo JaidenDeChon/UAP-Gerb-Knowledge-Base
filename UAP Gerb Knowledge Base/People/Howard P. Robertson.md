@@ -15,6 +15,15 @@ Panel signatory [[Thornton Page]] later admitted in a signed statement dated Oct
 
 The panel's final recommendation was that all national security agencies should strip UFOs of "special status" and suggest to the public that there is no legitimate evidence for their existence. It also recommended monitoring civilian UFO research organizations as potential channels for public panic or enemy manipulation.
 
+::wiki-document
+---
+name: "Robertson Panel Report"
+page: 28
+region: [0.24, 0.94]
+caption: "The panel's recommendations, signed first by Robertson as chairman: strip UFOs of \"the special status they have been given\", and an integrated program \"to reassure the public of the total lack of evidence of inimical forces behind the phenomena\"."
+---
+::
+
 ## Sources
 
 - [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]

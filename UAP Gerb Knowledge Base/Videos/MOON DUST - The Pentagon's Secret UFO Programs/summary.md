@@ -227,12 +227,26 @@ Ruppelt's own book tells it differently. He took over Grudge in late 1951 and wr
 > [!edit] Clarified 16 October 2026
 > The paragraph above gives Gerb's account, in which Ruppelt himself concluded as director that UFOs were interplanetary. This note was added because in Ruppelt's book the conclusion belongs to Project Sign's 1948 Estimate of the Situation, written three years before he joined the project. The timeline entry and Ruppelt's roster note now credit the claim to Gerb.
 
+::wiki-document
+---
+name: "Project Sign Estimate of the Situation (1948)"
+caption: "Project Sign's Top Secret Estimate of the Situation of 1948, known from Edward Ruppelt's account; no copy has been made public."
+---
+::
+
 ## Moon Dust's Charter
 
 Gerb traces the first mention of Moon Dust to a 1961 US Air Force intelligence document that he reads as the "AFC 1e draft policy". This is the [[AFCIN Intelligence Team Personnel Memo (1961)]], a staff paper of 3 November 1961 from the office AFCIN-1E-O. As Gerb reads it, the paper proposes that the [[USAF 1127th Field Activities Group]] receive collection duties for the USAF's established program for investigating "reliably reported unidentified flying objects" within the United States. It also names one project that had historically held that duty: Moon Dust, with authority to "locate, recover and deliver descended foreign space vehicles". The paper's own subject is keeping the 1127th's field intelligence teams staffed. It describes the UFO program (whose 1127th collection duties AFR 200-2 already set out), Moon Dust and [[Operation Bluefly|Operation Blue Fly]] as three projects already in place, and it cites an earlier Moon Dust paper, ICGL #4 of 25 April 1961. The copy Gerb shows carries a handwritten note: "This draft proposal was not approved and was not forwarded for action."
 
 > [!edit] Attribution clarified 16 October 2026
 > Earlier versions stated as fact that the 1961 document is the first mention of Moon Dust, and that it proposes collection duties for the 1127th and names Moon Dust as the project that had historically held them. Those are Gerb's readings. The memo shows a staffing paper that treats all three projects as existing, cites an April 1961 Moon Dust paper, and carries a note calling it an unapproved draft. The timeline entry now says the same.
+
+::wiki-document
+---
+name: "AFCIN Intelligence Team Personnel Memo (1961)"
+caption: "The AFCIN staff paper of 3 November 1961 that Gerb reads as the \"AFC 1e draft policy\": a study of how to keep the 1127th's field intelligence teams staffed."
+---
+::
 
 A 1967 review for the Assistant Chief of Staff for Intelligence, detailing the 1127th's functions, shows that Moon Dust was more than a proposal. That year it collected 49 fallen Soviet space objects and 17 US ones, and the tally is followed by a large redacted portion of the memo. So Moon Dust, Gerb concludes, had real collection responsibilities for Soviet, American and *redacted* space vehicles.
 
@@ -413,6 +427,13 @@ claims:
 ## The Dark Ages
 
 Gerb's explanation for the denials comes from his earlier video on the [[Wilson-Davis Memo]]. There, Admiral [[Thomas Wilson]] is said to describe special access programs being reorganized in the early 1990s to hide crash retrieval and reverse engineering inside "SAP-X" compartments, where they would be inaccessible to everybody. The senators asked for Moon Dust's records in the mid-1990s, so Gerb asks whether the denials and the destruction of records followed from that reorganization, and answers: "I think so." He finds it quite plausible that the Air Force destroyed most of Moon Dust's files to hide a UFO crash retrieval program.
+
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
 
 He frames the whole stretch from 1969 to 2008, from Project Blue Book to [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]], as the "Dark Ages": a completely hidden era of UFO investigation with no official US government investigation group, in which the Air Force kept denying Moon Dust. In his words, "That is where our paper trail ends."
 

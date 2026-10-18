@@ -510,6 +510,13 @@ In 2004, former Assistant Secretary of Housing and Urban Development [[Catherine
 
 In the Wilson-Davis notes, the "Watch Committee" that guarded the legacy portfolio told Vice Admiral [[Thomas Wilson]] it had been reorganized after an audit in the 1990s "almost blew their cover", putting the programs under the Special Access Program Oversight Committee's Senior Review Group. "Here is where we circle back," Gerb says:
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 ::wiki-cue{t=1043 video="E-GleS2aGj0" video-title="UFO Legacy Programs - Northrop Grumman" entry-title="The TRW settlement"}
 ::
 

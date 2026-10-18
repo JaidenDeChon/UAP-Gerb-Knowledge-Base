@@ -10,6 +10,15 @@ tags:
 > [!edit] Corrected 16 October 2026
 > Earlier versions said both pilots lost all of their avionics. The defense attaché's report says only the first F-4 lost all instrumentation; the second lost its weapons control panel and its UHF and interphone communications.
 
+::wiki-document
+---
+name: "DIA Tehran UFO Report (1976)"
+page: 4
+region: [0.51, 0.83]
+caption: "The defense attaché's report: the first F-4 losing all instrumentation and communications at 25 NM, then the second F-4's radar lock, and a second object coming out of the first and heading straight for it."
+---
+::
+
 ## UAP Significance
 
 The Tehran incident is considered one of the clearest documented cases of Avionics Jamming by an unidentified aerial object. In 1976, Major [[Parviz Jafari]] of the Imperial Iranian Air Force was among the pilots scrambled to intercept the UAP after it was detected hovering over Tehran. The first pilot to approach the object lost all instruments and communication and was forced to turn back. Jafari then closed to within 70 miles of the craft at Mach 1. He saw it shift instantly about 10° to his right, a sideways jump of roughly 26 miles in under a second.

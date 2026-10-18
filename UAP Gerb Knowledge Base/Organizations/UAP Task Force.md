@@ -11,6 +11,13 @@ The Unidentified Aerial Phenomena Task Force (UAPTF) was a U.S. Department of De
 
 The [[Alleged Leaked UAP Task Force Report]] is an allegedly leaked classified document that surfaced online in 2021 or 2022. It purports to come from a longer classified version of a UAPTF report prepared for Congress. One page is a cockpit communications log from Appendix F, Section 4B, "DoD 1992 through 2017 High Value Witness Interviews". Gerb argues that the log describes the encounter in the [[Flyby Footage]]. A second page, from Section 5, "Behavioral Data Analysis", covers 1,292 cases and names [[K Shakoya]], [[M. Harmon]] and [[S. McCaron]]. It dates its latest contribution to 2020, while the Task Force was operating.
 
+::wiki-document
+---
+name: "Alleged Leaked UAP Task Force Report"
+caption: "Disputed pages said to come from a classified UAP Task Force report, which circulated online in 2021 or 2022: a cockpit communications log from Appendix F, Section 4B, and a \"Behavioral Data Analysis\" page from Section 5."
+---
+::
+
 Gerb says his exhaustive searches for the named researchers and for the reports the page mentions (the "Blackout Flower report" and the "Layer Three Behavioral Assessment") turned up almost nothing. He assumes the names are pseudonyms or have had their first names removed.
 
 ## Operational Methods

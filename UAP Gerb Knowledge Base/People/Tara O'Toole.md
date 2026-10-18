@@ -11,6 +11,14 @@ Tara O'Toole is an American physician and biosecurity specialist who served as U
 
 According to the declassified [[AARO]] history of Kona Blue, O'Toole was briefed on the proposal in May 2011 and established it as a DHS prospective special access program in July 2011; it was terminated in February 2012. A document cleared by the Defense Office of Prepublication and Security Review and entered into the record of the November 2024 House Oversight hearing by Representative [[Tim Burchett]] likewise says she was approached to set up the program, into which Lockheed vice president [[James T. Ryder]] proposed transferring 1950s crash retrieval material. AARO's account says DHS and other agencies shut the proposal down over doubts that the materials were authentic, while UAP Gerb's Lockheed video attributes its end to the CIA's [[Glenn Gaffney]].
 
+::wiki-document
+---
+name: "Kona Blue Documents"
+page: 36
+caption: "Joel Wall's memo of 11 July 2011 asking Under Secretary O'Toole to approve Kona Blue as a DHS Science & Technology prospective special access program, with her signature on the approval line."
+---
+::
+
 ## Sources
 
 - [[Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]

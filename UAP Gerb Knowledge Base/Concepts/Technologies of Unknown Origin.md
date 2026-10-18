@@ -9,6 +9,15 @@ tags:
 
 "Technologies of unknown origin" (TUO) is the term the UAP Disclosure Act of 2023, the [[Schumer Amendment (NDAA)|Schumer amendment]] to the annual defense bill, used for physical material associated with UAP. Its definition covers "any materials or meta-materials, ejecta, crash debris, mechanisms, machinery, equipment, assemblies or sub-assemblies, engineering models or processes, damaged or intact aerospace vehicles, and damaged or intact ocean-surface and undersea craft associated with unidentified anomalous phenomena or incorporating science and technology that lacks prosaic attribution or known means of human manufacture." Gerb uses the phrase throughout his videos for whatever the [[Legacy Programs|legacy programs]] are said to retrieve, exploit and reverse-engineer.
 
+::wiki-document
+---
+name: "Schumer Amendment (NDAA)"
+page: 1
+region: [0.37, 0.51]
+caption: "Definition (18) as printed in the Congressional Record of 13 July 2023 (right column): \"technologies of unknown origin\", from meta-materials and crash debris to damaged or intact aerospace vehicles and undersea craft."
+---
+::
+
 ## In the Schumer amendment
 
 In his video on [[Karl Nell]], Gerb walks through the amendment's definitions with Nell. A legacy program, in the bill's terms, is any federal, state, local, commercial, academic or private-sector effort to collect, exploit or reverse-engineer technologies of unknown origin or biological evidence of non-human intelligence. Nell says the TUO definition is what the bill's eminent-domain clause turns on: it would have let the federal government take such technology and biological evidence, including from private corporations. Gerb notes that some of the arguments against using the clause concern property rights, which to him points to private companies holding UAP material. In his account these provisions were "watered down and gutted" before the bill passed.

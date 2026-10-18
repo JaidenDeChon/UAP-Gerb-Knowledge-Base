@@ -696,6 +696,13 @@ Gerb also links the case to three others. The geometric markings recall the hier
 
 If Sharp's sources are right, recovered craft are stored at naval and ONR sites before exploitation. Gerb reviews reported cases, chiefly from Leonard Stringfield's *[[Stringfield Status Reports|UFO Crash/Retrieval Status Reports]]*, which he considers the best crash-retrieval work by any investigator. He sets aside [[China Lake Naval Air Weapons Station|China Lake]] and [[Randy Anderson]]'s account of NSWC Crane, which he has covered before.
 
+::wiki-document
+---
+name: "Stringfield Status Reports"
+caption: "Stringfield's seven crash-retrieval reports (1978 to 1994), the source of most of the naval cases below, among them RK's Great Lakes account in Status Report III."
+---
+::
+
 ::wiki-grid{cols=3}
 ::wiki-panel{title="NAS Sunnyvale, California, 1952"}
 CPO radar observer Derward "Buddy" Hack walked through the door of a briefly unguarded hangar and saw a massive saucer with rows of windows. Returning guards forced him out and threatened him. His family, including his mother, confirmed the story to Stringfield after a 1978 tip: "It was certainly no aircraft of ours."

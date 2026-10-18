@@ -15,6 +15,13 @@ Schwartz wrote a now-defunct blog post titled "Top Secret Spy Satellite Spot UFO
 
 [[Bob Fish]], a former USG contractor with direct access to DSP program personnel, specifically referred to Schwartz's blog in his 2015 email to [[John Podesta]] and stated that "much of the information on this site is correct." Because it came from a cleared insider with firsthand knowledge of DSP operations, this endorsement lent significant credibility to Schwartz's research and his conclusions about satellite-based UFO tracking.
 
+::wiki-document
+---
+name: "Bob Fish Email to John Podesta"
+caption: "Bob Fish's email to John Podesta of March 2015, published by WikiLeaks in 2016, naming the USAF DSP satellite program as a collector of hard data on UFOs."
+---
+::
+
 Fish's confirmation suggested that Schwartz had accurately described aspects of how DSP infrared sensors detect [[Fast Walkers]] and how that data is processed and classified. That kind of information would typically be protected under national security protocols.
 
 ## Sources

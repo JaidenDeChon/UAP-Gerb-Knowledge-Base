@@ -60,6 +60,13 @@ items:
 
 According to the report, IMCON was established in 2017 with the primary mission of "collecting imagery intelligence on unidentified aerial phenomena (UAP) and ARV/RV reproduction vehicles". Gerb's NRO video reads the report's cases as products of NRO overhead infrared collection, and he believes that [[NRO Sentient]], begun in 2010 and built out by 2016, is a primary resource of the program. He also notes the report's description of IMCON's holdings as scattered across imagery databases in various organizations and services, which leaves the program's ownership fragmented. In his 80-year timeline Gerb places IMCON's creation within the National Security Council in 2017 and credits Brown and Grusch with confirming that it existed. In the 29 Palms video he cites the report's black triangles over INDOPACOM as an example of reproduction vehicles in the record.
 
+::wiki-document
+---
+name: "Immaculate Constellation Report"
+caption: "The undated, unsigned report on the alleged USAP Immaculate Constellation that Gerb's videos attribute to Brown, entered into the House Oversight hearing record on 13 November 2024."
+---
+::
+
 ## Legacy Security and Whistleblowers
 
 In a clip played in Gerb's *Special Access Required Vol.2*, Brown speaks about an individual whose name and photograph are redacted, most recently at [[Northrop Grumman]], and whose title he gives as "deputy SAPCO for DARPA". He calls this person "a nexus point for legacy security" and "part of the dirty tricks department": people bring names "that need to be handled" to him, and he matches them to the capabilities to act on them. The result, Brown says, is "an ecosystem flooded with disinformation and psychological operations and targeted attacks against whistleblowers and their allies." He says he cannot reveal everything because he is communicating it on behalf of others. Gerb sets the clip beside [[David Grusch]]'s account of reprisals as an example of what the video calls [[Administrative Terrorism|administrative terrorism]].

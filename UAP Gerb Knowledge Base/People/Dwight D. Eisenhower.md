@@ -203,6 +203,15 @@ entries:
 
 Eisenhower's Executive Order 10501 of November 1953 standardized the modern three-tier U.S. classification system of confidential, secret and top secret by abolishing a fourth "restricted" level (not to be confused with the DOE's restricted data). In Gerb's account, program managers, "quite peeved", made up for the lost level with their own ad hoc protections, above all top secret codeword read-on access, as seen in the early NRO. These informal controls became the de facto security mechanism for UFO legacy programs through the 1950s, 1960s and 1970s, the period Gerb calls the "wild wild west" era, and they bred black programs such as the 1958 Greenbrier congressional bunker. Gerb sees the start of the idea of special access here; [[Richard Nixon]]'s Executive Order 11652 of 1972 later formalized it.
 
+::wiki-document
+---
+name: "Executive Order 10501"
+page: 1
+region: [0.76, 0.93]
+caption: "Section 1 of the order as printed on 10 November 1953: defense information is limited to three categories, Top Secret, Secret or Confidential, and no other designation may be used."
+---
+::
+
 ## NSC 5412 Committee
 
 In Gerb's analysis, Eisenhower's most significant contribution to the structure of UFO legacy programs was NSC 5412 of 15 March 1954. It defined covert operations for U.S. policy, made the CIA the agency that carried them out, and set up the 5412 Committee, or "Special Group", to review and approve them. Its seats were the Deputy Under Secretary of State, the Deputy Secretary of Defense, the President's Special Assistant for National Security Affairs and the Director of Central Intelligence as action officer.
@@ -215,6 +224,13 @@ His evidence is the overlap in membership. Gordon Gray, named as a member of Maj
 
 The first Majestic 12 document to leak, reaching television producer [[Jaime Shandera]] on undeveloped film in 1984, is a Top Secret briefing for President-elect Eisenhower dated 18 November 1952, naming Admiral [[Roscoe H. Hillenkoetter]] as briefing officer. It describes Operation Majestic 12 as a research and development and intelligence operation reporting only to the President, set up by Truman's order of 24 September 1947, and recounts the [[Roswell Crash]] and the [[1950 El Indio UFO Crash|December 1950 crash near El Indio, Texas]], whose remains it says went to the [[Atomic Energy Commission]]'s facility at Sandia. The FBI declared it bogus. [[Stanton Friedman]] found several real 18 November 1952 briefings for Eisenhower in Office of the Secretary of Defense files, none mentioning MJ-12, and judged the document almost certainly genuine. Gerb finds it "somewhat convincing" because of Friedman's work and its parallels with real meetings and appointments, while cautioning that the Majestic documents mix fact, hoaxes and possible disinformation.
 
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper for President-elect Eisenhower, dated 18 November 1952, which names Admiral Hillenkoetter as briefing officer."
+---
+::
+
 ## Eisenhower Loses Control
 
 [[Steven Lovekin]], a technical specialist at the [[White House Army Signaling Agency]] from 1959 under Eisenhower and Kennedy, told researcher [[Grant Cameron]] that he went to Camp David with Eisenhower several times, and one night overheard him on the phone discussing the [[1952 UFOs Over Washington DC]]; UFOs were "a very very important concern of his." Lovekin said the problem grew too large for one agency and was parceled out across the government to keep it secret and cheap, so that Eisenhower was sold out without knowing it and spent months frustrated as the matter slid into the control of corporations. Later in his term, Lovekin said, the President began to be kept out of the information. Gerb sees this as the moment the legacy program David Grusch describes broke away from government oversight.
@@ -226,6 +242,15 @@ Gerb also mentions a story, which he has not examined in depth, that Eisenhower 
 ## Atomic Energy Act of 1954
 
 The [[Atomic Energy Act of 1954]], signed by Eisenhower, is where, in Gerb's phrase, the classification "teeth grew into fangs." Section 51 defines special nuclear material so vaguely that, according to David Grusch, recovered non-human material could be "transclassified" into a nuclear secret. Section 142 gave the statutory authority for what was named transclassified foreign nuclear information (TFNI) in 2010. Because these categories are statutory, Gerb argues, no presidential executive order can declassify them, and the Schumer amendment's UAP language names them directly.
+
+::wiki-document
+---
+name: "Atomic Energy Act of 1954"
+page: 11
+region: [0.62, 0.83]
+caption: "Section 51 of the Act Eisenhower signed: the Commission may declare other material special nuclear material if it finds it \"capable of releasing substantial quantities of atomic energy\" and the President assents in writing."
+---
+::
 
 ## Other Ties in Gerb's Videos
 

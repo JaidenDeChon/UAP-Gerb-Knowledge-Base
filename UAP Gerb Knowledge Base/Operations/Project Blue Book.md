@@ -31,6 +31,15 @@ In public, Blue Book presented UFO investigation in a largely dismissive light. 
 
 In 1953, a year after Blue Book was set up and immediately after the [[Robertson Panel]]'s mandate to suppress public interest in UFOs, the Air Force issued Regulation 200-2. It restricted reporting procedures so that every confirmed UFO report filed by Air Force personnel went directly to Air Force intelligence instead of to Blue Book. As a result, the most credible sightings bypassed the public investigation and went into classified channels, and the American public and Congress never saw the strongest evidence.
 
+::wiki-document
+---
+name: "USAF Regulation 200-2"
+page: 3
+region: [0.25, 0.57]
+caption: "Paragraph 6c of the regulation: electrical reports went to Air Defense Command, the Air Technical Intelligence Center and the Director of Intelligence at Headquarters USAF, and written reports to the Director of Intelligence with a copy to ATIC."
+---
+::
+
 ## Special Report No. 14
 
 In May 1955 [[Air Force Technical Intelligence Center|ATIC]] issued [[Project Blue Book Special Report No. 14]], a statistical study of the 3,201 cases in Blue Book's files up to the end of 1952, coded onto IBM punched cards with the help of an outside panel of scientists. The report does not name the panel, which was [[Battelle Memorial Institute]] working under [[Project Stork]]. It found it "highly improbable" that any of the reports represented technology beyond present-day scientific knowledge, and stressed that no case had produced valid evidence of physical matter. In [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]], Gerb sets that finding against Battelle's 1949 work on [[Nitinol (Nickel-Titanium Alloy)|nitinol]] for Wright-Patterson.
@@ -77,6 +86,13 @@ At the 1966 hearing of the House Armed Services Committee, Blue Book's head, [[H
 ## Termination
 
 Project Blue Book was shut down in December 1969 on the recommendation of the [[Condon Committee]], whose report (the Condon Report) concluded that further study of UFOs had no scientific value. For seventeen years the program had been the public face of Air Force UFO investigation. After it closed, no official US government body investigated UFO reports for decades.
+
+::wiki-document
+---
+name: "Condon Report"
+caption: "The University of Colorado's \"Scientific Study of Unidentified Flying Objects\", which recommended that the Air Force end its UFO investigations."
+---
+::
 
 However, NORAD's parallel tracking and the later [[Fast Walkers]] designation suggest that classified UFO monitoring went on long after Blue Book closed, under different organizations and classification rules.
 

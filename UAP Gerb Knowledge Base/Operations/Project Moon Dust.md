@@ -17,6 +17,13 @@ The best-known early official record of Moon Dust is a staff paper from the Air 
 > [!edit] Corrected 16 October 2026
 > Earlier versions said the 1961 memo proposed giving the 1127th collection responsibility for UFOs and listed Moon Dust as the project that had historically held that duty, and called it the first official mention of Moon Dust. That is Gerb's reading. The memo is about staffing the 1127th's intelligence teams, describes the UFO program, Moon Dust and Blue Fly as already established, and cites an April 1961 Moon Dust paper (ICGL #4).
 
+::wiki-document
+---
+name: "AFCIN Intelligence Team Personnel Memo (1961)"
+caption: "The AFCIN staff paper of 3 November 1961, which lists Moon Dust, Blue Fly and UFO investigation among the peacetime projects of the 1127th's intelligence teams."
+---
+::
+
 A 1967 review for the Assistant Chief of Staff for the Intelligence Community, describing the functions of the 1127th USAF Field Activities Group, confirms that Moon Dust was operational. That year, Moon Dust captured 49 fallen Soviet space objects and 17 US space objects. A large redacted portion of the memo follows, indicating further classified collection categories.
 
 ## UFO Investigation and Collection Operations
@@ -78,6 +85,13 @@ In 1994, Senator Domenici asked the Air Force for 11 documents about Moon Dust. 
 ## Alleged SAP Reorganization and Compartmentalization
 
 The Air Force's denials and its claims of document destruction came during a critical period in UAP program history. According to the [[Wilson-Davis Memo]], Admiral [[Thomas Wilson]] stated that in the early 1990s, Special Access Programs for crash retrieval and reverse engineering were reorganized and hidden within deeper compartments (SAP-X structures), which made them effectively inaccessible even to senior intelligence officials. The reorganization happened at precisely the time the Senators requested Moon Dust documents, in the mid-1990s.
+
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
 
 The timing suggests the Air Force may have destroyed Moon Dust files and denied the program existed as part of a wider effort to compartmentalize UAP crash retrieval operations after the SAP reorganization. It also fits the "Dark Ages" period from 1969 ([[Project Blue Book]] closure) to 2008 (AATIP establishment), when official USG UFO investigation appeared to stop in public while continuing in classified channels.
 

@@ -76,6 +76,13 @@ Gerb suggests that this paper and the later Michigan State research on $21 trill
 
 In the [[Wilson-Davis Memo]], Admiral [[Thomas Wilson]] relayed that the "watch committee", the group that controlled access to the UAP legacy programs, told him their programs were reorganized after an audit in the 1990s nearly exposed them. Fitts's research covers the same period of irregular accounting by defense contractors. Gerb argues that it points to a financial mechanism that could have made UAP program funding look to auditors like routine contract overcharging, as in the [[TRW]] lawsuit that [[Northrop Grumman]] settled in 2003.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 ## Sources
 
 - [[Videos/Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs/summary|Deep Underground Military Bases (D.U.M.Bs.) - UFO Legacy Programs]]

@@ -153,6 +153,13 @@ In autumn 1983, [[William Steinman]] sent questions to [[Robert Sarbacher]], a p
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Steinman sent twelve questions in November 1983, and gave Gerb's two readings without the letter's own words. Steinman's questions were in letters of 12 September and 14 October 1983, and the letter says "I think" of Oppenheimer. Sarbacher also said he had no association with the people involved in the recoveries and did not know the crash dates. He had been invited to discussions about recoveries at the Research and Development Board but could not attend, and he saw official reports, though no photographs, in his Pentagon office. In a recorded call the same year, [[Stanton Friedman]] asked whether the crash discussed at a meeting at Wright Field happened in 1947, when Oppenheimer would presumably have been involved. Sarbacher answered "very likely."
 
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
+
 Other accounts put Oppenheimer on the scene. Steinman's 1986 book *UFO Crash at Aztec* names him on Bush's scientific team at the 1948 [[Aztec UFO Crash and Recovery|Aztec, New Mexico recovery]], with von Neumann and [[Detlev Bronk]]; Gerb faults Steinman for not documenting his sources and wonders whether the name came from Sarbacher or from the [[Interplanetary Phenomenon Unit]] papers. The disputed IPU report of 22 July 1947 says AEC scientists including Oppenheimer were on the Roswell retrieval team. Among the Majestic-12 documents, [[Ryan S. Wood]] says the alleged White Hot Report lists Oppenheimer on its mission roster, and the source known as [[Thomas Cantwheel]] is said to have supplied an Eisenhower-to-Oppenheimer memo.
 
 If Oppenheimer was involved in UAP analysis, the timing would place his participation between 1947 (the year of the Roswell crash and other alleged recoveries) and 1954 (when his security clearance was revoked). During this period Oppenheimer held some of the highest security clearances in the US government and advised on the most sensitive national security matters. His expertise in theoretical physics, particularly his work on nuclear reactions and quantum mechanics, would have applied directly to understanding novel propulsion or energy systems.

@@ -28,6 +28,15 @@ ATIC's 1955 [[Project Blue Book Special Report No. 14]], a statistical analysis 
 > [!edit] Corrected 16 October 2026
 > Earlier versions called it Battelle's report, an analysis of 3,200 sightings that concluded no physical matter had ever been recovered from any UFO. The report is ATIC's, names no contractor, covers 3,201 cases, and speaks only of the cases it studied.
 
+::wiki-document
+---
+name: "Project Blue Book Special Report No. 14"
+page: 10
+region: [0.40, 0.54]
+caption: "The report's closing judgment: \"It is emphasized that there has been a complete lack of any valid evidence of physical matter in any case of a reported unidentified aerial object.\""
+---
+::
+
 The nitinol case also shows how the [[Atomic Energy Commission]]'s "restricted" classification standard let private contractors hold classified UAP-related research outside the reach of congressional oversight and standard SAP clearance frameworks. [[David Grusch]] cited this feature of the system in explaining how crash retrieval programs have been concealed.
 
 ## Shape Memory Alloy

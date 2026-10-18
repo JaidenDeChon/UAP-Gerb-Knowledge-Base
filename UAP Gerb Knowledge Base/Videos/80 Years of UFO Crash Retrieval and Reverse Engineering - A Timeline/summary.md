@@ -510,6 +510,20 @@ Gerb checks this period against a [[Wilbert Smith Memo|memo]] that [[Wilbert B. 
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Sarbacher described the lightweight materials and insect-like crews "in interviews at the time and later". Gerb ties his account to both the 1950 interview and the 1980s, but the passage he reads is from Sarbacher's letter of 29 November 1983; Smith's 1950 memo does not mention materials or crews.
 
+::wiki-document
+---
+name: "Wilbert Smith Memo"
+caption: "Wilbert Smith's top secret Department of Transport memo of 21 November 1950, subject \"Geo-Magnetics\", to the Controller of Telecommunications."
+---
+::
+
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
+
 ### 1953: Kingman as a tracer
 
 Gerb puts the May 1953 [[1953 Kingman, Arizona Crash Retrieval|Kingman, Arizona retrieval]] alongside Roswell and Magenta as the most consequential crashes in history. He explains why with a medical image: like dye injected into a vein, Kingman lets him follow people, offices and material forward through the decades. [[Arthur Stansel Jr.]], a World War II Army veteran, Wright Field engineer and project engineer on [[Operation Upshot-Knothole]], swore that on 21 May 1953 he was taken by bus to an oval, roughly 30-foot craft made of a metal like brushed aluminum near Kingman, and that he glimpsed biological remains in a tent. He named two men. According to Stansel's diary, [[Edward Bushnell Doll]], technical director for two [[Armed Forces Special Weapons Project (AFSWP)|AFSWP]] programs at the tests, was in charge of the retrieval. Doll had joined TRW's [[Space Technology Laboratories (STL)|Space Technology Laboratories]] by 1955 and rose to senior vice president of TRW Systems Group, the unit that [[Northrop Grumman]] folded into its Mission Systems sector in 2002. The scientific study was led by [[Eric Henry Wang]], chief of the special studies office of the [[Air Research and Development Command (ARDC)|Air Research and Development Command]] at Wright-Patterson. In 1956 his department moved to the Sandia complex at Kirtland, inside the [[Air Force Special Weapons Center (AFSWC)|Air Force Special Weapons Center]], whose office of primary responsibility was later absorbed into the [[Air Force Research Laboratory]]. As for the wreckage, Gerb says it resurfaced in 2011 as part of the material [[Lockheed Martin]] tried to transfer under [[Kona Blue]]. He bases this on rumours and on indirect confirmation from [[Hal Puthoff]].
@@ -590,6 +604,15 @@ The video alleges that in 1994, amid concern about President Clinton's instincts
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions of this paragraph and the timeline entry said the GAO report found the messages destroyed without authorization, and the entry that it found them destroyed "decades earlier". The report (GAO/NSIAD-95-187) says only that the disposition form recorded no one, no date and no authority for the destruction; "without proper authority" and the 40-year estimate are Schiff's, from his statement on the report. The GAO review ran from March 1994, so it was under way before 1995.
+
+::wiki-document
+---
+name: "GAO Roswell Report (1995)"
+page: 4
+region: [0.36, 0.49]
+caption: "The report's finding on the destroyed RAAF records: administrative records and outgoing messages were destroyed, and the disposition form does not say by whom, when or under what authority."
+---
+::
 
 The 21st century brings a faster run of consolidations and near-exposures. Northrop Grumman bought TRW in December 2002, and the [[National Air and Space Intelligence Center (NASIC)|National Air and Space Intelligence Center]] was formed in February 2003. In 2004-2005, prime contractors such as Northrop Grumman allegedly began paying for their own breakaway UFO programs out of Independent Research and Development (IRAD) funds. [[Dick Cheney]] left office in January 2009, and the leadership of the [[James Clapper]] era took over. From 2009 to 2012 an Air Force "Go Public" campaign was conceived within the [[Hidden Wing]] at Edwards Air Force Base and then abandoned. Gerb says the effects of a 2007 briefing embargo at MITRE were fully felt from 2011 onward. Also in 2011, [[James T. Ryder]] of [[Lockheed Martin Space Systems]] attempted the [[Kona Blue]] technology transfer, which allegedly involved Kingman-derived materials and was blocked by CIA officials [[Glenn Gaffney]] and [[Mary K. Sturtevant]]. The [[AATIP (Advanced Aerospace Threat Identification Program)|Advanced Aerospace Threat Identification Program]] (c. 2009/2012-2017) is alleged to have partly served a Clapper-era partial-disclosure initiative linked to [[John Podesta]] and [[To The Stars Academy]]. In 2017 the [[Immaculate Constellation (IMCON)|Immaculate Constellation]] unacknowledged special access program was established; whistleblowers [[Matt Brown]] and David Grusch have confirmed it.
 

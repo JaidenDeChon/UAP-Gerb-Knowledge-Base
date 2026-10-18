@@ -686,6 +686,15 @@ Gerb treats J. P. Cahn as the "hero of the hoax" whose honesty deserves the same
 > [!edit] Attribution clarified 16 October 2026
 > This paragraph used to say as fact that Cahn wrote to Hoover on 25 April 1951. That is Gerb's account. The letter in the FBI's file is from the California Attorney General's office, signed by Arthur H. Sherry, and does not name Cahn.
 
+::wiki-document
+---
+name: "FBI File on Silas Newton"
+page: 3
+region: [0.03, 0.42]
+caption: "The head of the 25 April 1951 letter to Hoover about Newton, on the letterhead of California's Office of the Attorney General, with Arthur H. Sherry named among its officers."
+---
+::
+
 ::wiki-claim{video="QJxbyu-9Tj0" video-title="The 1948 Aztec, New Mexico UFO Crash Retrieval"}
 ---
 label: "Cahn's exposé"
@@ -930,6 +939,20 @@ Gerb argues that one of the book's most important effects was to expose two insi
 
 > [!edit] Attribution clarified 16 October 2026
 > Earlier versions said Sarbacher told Steinman the recovery meetings were held at Wright-Patterson with Bush, von Neumann and Oppenheimer. That is Gerb's account; Sarbacher's letter of 29 November 1983 names no place and says only "I think" of Oppenheimer.
+
+::wiki-document
+---
+name: "Wilbert Smith Memo"
+caption: "Wilbert Smith's top secret Department of Transport memo of 21 November 1950, subject \"Geo-Magnetics\", to the Controller of Telecommunications."
+---
+::
+
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
 
 Steinman traced that man to [[Eric A. Walker]], Penn State president, founder of its Applied Research Laboratory, and the RDB's executive secretary from 1950 to 1952 (Gerb's Sarbacher and Kecksburg videos say 1950 to 1951). Friedman found an early-1950s Army document on "indoctrination for special intelligence for Mr. Eric Arthur Walker," and Walker later worked on Project Azorian. His replies to Steinman were strange: a cut-up letter reading "Stop. Don't try and find me," then, in a 30 August 1987 phone call, "Yes, I attended meetings concerning that subject matter," along with the admission that he had known of MJ-12 for 40 years. He told Henry Azadehdel he had been at the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg recovery]]. Gerb believes Walker, who joined the Research and Development Board a year after Aztec, knew a great deal about it.
 

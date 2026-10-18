@@ -393,6 +393,13 @@ The story first appeared in 1965, in a weekly newspaper in Mechanicsburg, Pennsy
 > [!edit] Corrected 16 October 2026
 > Earlier versions said, following Gerb, that the 1977 affidavit dates the event to 1948. In Kevin Randle's transcription it gives no date at all; it names the F-94 and Dyess Air Force Base. The 1948 date is in the earlier article.
 
+::wiki-document
+---
+name: "Willingham Affidavit"
+caption: "Robert Willingham's 1977 affidavit for Todd Zechel, known from Kevin Randle's transcription, describing a crash on the Texas–Mexico border."
+---
+::
+
 ### The sighting
 
 On a spring day in 1955, Willingham and other F-86 pilots flew out of [[Carswell Air Force Base]] to escort B-47s on the Texas leg of a New York–Texas–Washington State Cold War simulation exercise. His call sign was "Willie Eddie". By radio, the squadron heard that [[DEW Radar Systems|distant early warning radar]] in Canada had picked up fast-moving unknowns heading south toward Texas. A B-47 pilot then reported an unknown on radar coming south from the northwest. Willingham saw "a bright big object, like a star" approach to within 35 to 40 miles. He estimated its speed at 2,000 mph, about four times his F-86's 685 mph, and compared its bright surface to magnesium steel. [[George Smithson]] and other pilots said in the debrief that they had seen it. The object turned 90 degrees toward the Mexican border, gave off "a lot of sparks" and tilted down at about 45 degrees. Willingham wondered whether the sharp turn had damaged its hull.
@@ -480,6 +487,13 @@ Gerb rules out poor reporting in the book, since it quotes Willingham directly. 
 ### What the document says
 
 The Eisenhower Briefing Document, which Gerb calls the "alleged 1952 MJ-12 memo", follows its description of Roswell with a second case. On 6 December 1950 an object of similar origin struck the earth at high speed along the El Indio area of the border. It was so nearly obliterated that little was left when the search team arrived. The remains, recovered between El Indio and [[Guerrero, Mexico]], were taken to the Atomic Energy Commission's facility at Sandia, New Mexico, for study. Gerb concedes there "really isn't too much to be found out about this case".
+
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper dated 18 November 1952, which describes a 6 December 1950 impact on the border near El Indio, Texas."
+---
+::
 
 ### The witness at El Indio
 

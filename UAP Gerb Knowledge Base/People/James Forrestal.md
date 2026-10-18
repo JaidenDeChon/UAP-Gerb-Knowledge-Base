@@ -127,6 +127,13 @@ On 29 January 1947 Forrestal, then Navy Secretary, and Secretary of War Robert P
 
 The [[Majestic 12]] documents place Forrestal at the group's founding. The [[Eisenhower Briefing Document]], dated 18 November 1952, says Operation Majestic 12 was set up by a classified executive order of [[Harry Truman]] on 24 September 1947, on the recommendation of [[Vannevar Bush]] and Forrestal. It includes a Truman memo of that date authorizing Forrestal and Bush to proceed. Truman's appointment records show that he did meet Forrestal and Bush that day, at Forrestal's suggestion, one of several parallels with the historical record that make the document "somewhat convincing" to Gerb. [[Stanton Friedman]] judged the Truman–Forrestal memo "almost certainly genuine". [[Ryan S. Wood]] says the documents show it was really Forrestal and Bush who came together to form the group.
 
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper for President-elect Eisenhower, dated 18 November 1952, which says Operation Majestic 12 was set up by Truman's order of 24 September 1947 on the recommendation of Bush and Forrestal."
+---
+::
+
 An alleged [[Interplanetary Phenomenon Unit]] report of 22 July 1947 says [[George C. Marshall]] was the only cabinet member who knew of the crashed UFOs, but that Forrestal would be briefed on certain aspects.
 
 ## Death

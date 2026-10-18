@@ -17,6 +17,13 @@ In spring 1955, USAF Reserve Colonel [[Robert Willingham]] and a group of F-86 S
 
 Case 5 of the Condon Report documents a September 19, 1957 incident in which a large bright fireball, alternating red and white, pursued a Carswell-based RB-47 reconnaissance aircraft for over 600 miles. The fireball was picked up at the same time by the plane's radar, by Carswell ground radar, and by the aircraft's own ECM equipment, which registered a signal at 2,800 megacycles. Pilot Lewis D. Chase described it as appearing "as big as a barn" and moving at speeds far beyond those of aircraft. After the plane landed, intelligence personnel removed all ECM graphic and radar data from it.
 
+::wiki-document
+---
+name: "Condon Report"
+caption: "The University of Colorado's \"Scientific Study of Unidentified Flying Objects\", whose Case 5 is the RB-47 encounter it dates 19 September 1957."
+---
+::
+
 ### El Indio Debris Connection
 
 UFO researcher [[Todd Zechel]] reportedly obtained a declassified USAF document stating that a foreign object recovered on December 6 or 7, 1950, was transported to Carswell AFB. That date is consistent with the [[El Indio, Texas]] crash date in the alleged [[Majestic 12]] Eisenhower Briefing Document. No public proof of this document has been produced.

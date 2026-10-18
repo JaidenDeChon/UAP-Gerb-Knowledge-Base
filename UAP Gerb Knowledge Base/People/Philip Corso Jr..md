@@ -13,6 +13,13 @@ According to Corso Jr., he at first had no plans to make his father's manuscript
 
 Corso Jr. revealed that his father went through *The Day After Roswell* and highlighted everything he did not say or did not like in the published version. Corso Sr. gave up halfway through the book, frustrated by the many inaccuracies, creative liberties and sensational details that co-author Burns had added and that were not in the original manuscript.
 
+::wiki-document
+---
+name: "The Day After Roswell"
+caption: "The 1997 book by Philip J. Corso and William J. Birnes that Corso Jr. released his father's manuscript to correct."
+---
+::
+
 *Dawn of a New Age* is Corso Sr.'s own, unfiltered account of his experiences with UAP crash retrieval materials, the [[U.S. Army Foreign Technology Division]] and Technology Seeding programs. It does not have the 130 extra pages of embellishments found in the bestselling book.
 
 ## Preserving His Father's Legacy

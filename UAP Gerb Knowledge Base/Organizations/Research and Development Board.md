@@ -27,6 +27,13 @@ Sarbacher's testimony placed the R&D Board at the center of the US government's 
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Sarbacher named all three men as "definitely involved" and placed the discussions at the R&D Board. The letter says "I think" of Oppenheimer and does not say where the discussions were held.
 
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
+
 ## Connection to the Wright Field Meeting
 
 The alleged [[Wright Field Crash Retrieval Meeting]] of 1949–1950, which [[Eric A. Walker]] attended and Sarbacher referred to, is believed to have been organized under the R&D Board or a closely related body, the Defense Research Board. The meeting brought the nation's top scientists together to discuss recovered UAP materials, occupants, and how to reverse engineer them.

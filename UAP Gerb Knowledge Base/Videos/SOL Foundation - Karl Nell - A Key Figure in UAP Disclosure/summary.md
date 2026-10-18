@@ -191,6 +191,13 @@ If the arms-race claim is true, and Russia or China are close to breakthroughs i
 
 The slide that partially leaked in November 2023 is titled "Way Forward: UAP Campaign Plan Lines of Effort". Gerb calls it "absurdly perplexing". Its end state is a post-disclosure world with proper oversight restored, catastrophic disclosure avoided and scientific understanding advanced. It gets there through five major phases (plus a Phase 0 already behind it) run across four lines of effort: the public sector, philosophical investigation, scientific research and the private sector.
 
+::wiki-document
+---
+name: "UAP Campaign Plan - Way Forward"
+caption: "Karl Nell's slide \"Way Forward: UAP Campaign Plan Lines of Effort\", shown at the SOL Foundation symposium in November 2023: phases from narrative shaping to an open-ended end state, across four lines of effort."
+---
+::
+
 - **Phase 0**, shaping the narrative, was done successfully by [[AATIP (Advanced Aerospace Threat Identification Program)|AATIP]], the DoD videos, the 2017 *New York Times* article and the UAP Task Force. Gerb points out that [[AARO]] isn't listed and imagines [[Sean Kirkpatrick]] "seething".
 - **Phase 1**, government acceptance, targeted 1 January 2024. Gerb judges it all but complete. It ends with the Schumer legislation: UAP is now largely a bipartisan issue, and "reactive hypothesis generation" is appearing, such as a newly published paper arguing that some UAP are plasma-based pre-life.
 - **Phase 2** aims to correlate signatures by 1 January 2026 and to harness academia, as the SOL Foundation does. The slide marks it still at risk, which Gerb puts down to the lingering stigma around serious academic research.

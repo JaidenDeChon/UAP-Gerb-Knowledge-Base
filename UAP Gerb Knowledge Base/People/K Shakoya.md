@@ -7,6 +7,13 @@ tags:
 
 K. Shakoya is one of three names that appear on the "Behavioral Data Analysis" page of the [[Alleged Leaked UAP Task Force Report]], a set of purported pages from a classified [[UAP Task Force]] report that circulated online in 2021 or 2022. According to the page, Shakoya made its most recent contribution, dated 2020, while the UAP Task Force was operating (2017 to 2022). Gerb takes that date as a sign that the document may be an internal Task Force report.
 
+::wiki-document
+---
+name: "Alleged Leaked UAP Task Force Report"
+caption: "Disputed pages said to come from a classified UAP Task Force report, which circulated online in 2021 or 2022; its \"Behavioral Data Analysis\" page names M. Harmon, S. McCaron and K. Shakoya."
+---
+::
+
 ## Attributed findings
 
 The page analyses 1,292 UFO cases and concludes that UAP, or UA/SP (unidentified aerial and submerged phenomena), are either remote or autonomous drones or a form of mechanical life. It says an "organic species" has been deploying them, and that their rapidly improving flight performance indicates a "stepped virtual evolution process". Shakoya is credited with the finding that gradual changes in UA/SP appearance and behaviour reflect generational changes.

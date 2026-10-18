@@ -24,6 +24,15 @@ Inside what he took for a small clean room, "white coats" were analysing a craft
 
 Gerb places the building at Avery's building 1010 (test operations), identified in a July 2012 [[Environmental Assessment Report on Avery Technical Center|environmental assessment]]. He believes the technicians were scientists from Army Test and Evaluation Command and the [[Battelle Memorial Institute]], and that the guards were industrial security specialists rather than contract guards.
 
+::wiki-document
+---
+name: "Environmental Assessment Report on Avery Technical Center"
+page: 33
+region: [0.08, 0.32]
+caption: "The top of the assessment's Table 2-1, listing 1010 Test Operations, built in 1952, as the \"Operation headquarters for the 388th\"."
+---
+::
+
 Guards took MS to the Garrison building at [[Ditto Technical Center]], where two men in black suits, whom he took for FBI or CIA, questioned him for six hours. He insisted he had seen nothing and was only doing his job, and was released. He continued to work at Dugway under his confidentiality agreement.
 
 ## GP and the underground facility

@@ -15,6 +15,13 @@ Astronaut Edgar Mitchell asked for the meeting and put Admiral Wilson in touch w
 
 According to the Wilson-Davis Memo, Wilson used his J2 position to search Pentagon records for information on UAP-related special access programs. He reportedly found a program run by a private aerospace contractor and tried to gain access to it, but the program's security gatekeepers turned him down, saying he lacked a verified need-to-know. Given his seniority, Wilson was astonished to be told this. The memo records Wilson's frustration that a sitting Director of Intelligence for the Joint Chiefs could be locked out of an unacknowledged program held by a defense contractor.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 ## Significance
 
 The event is frequently cited as evidence that unacknowledged SAPs related to UAP have escaped congressional and senior military oversight, and that private-sector contractors, not government agencies, are the true custodians of retrieved craft. Wilson's alleged encounter with these gatekeepers fits the arrangement [[David Grusch]] described in his 2023 congressional testimony.

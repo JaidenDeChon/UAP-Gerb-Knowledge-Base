@@ -21,6 +21,13 @@ The Immaculate Constellation report was released to Congress and the American pu
 > [!edit] Corrected 16 October 2026
 > Earlier versions said the report's historical data went back to 2009, as Gerb says in his black-triangle video. The report gives no date for the triangle footage; its only date range is the 1991 to 2022 span of its HUMINT dataset.
 
+::wiki-document
+---
+name: "Immaculate Constellation Report"
+caption: "The undated, unsigned whistleblower report describing the alleged USAP Immaculate Constellation, entered into the record of the House Oversight hearing of 13 November 2024."
+---
+::
+
 ## Possible Connection to MITRE's Reverse-Engineering Portfolio
 
 Gerb's investigation into [[MITRE Corporation|MITRE]] speculatively links IMCON's 2017 establishment to MITRE's alleged loss of control over a Navy-administered UFO technology reverse-engineering program that same year. It theorizes that [[James Clapper]] may have sought to fold MITRE's reverse-engineered assets into the National Security Council's broader crash-retrieval and surveillance portfolio for better situational awareness. Gerb calls this connection unconfirmed, but consistent with IMCON's timing relative to both MITRE's alleged 2017 leadership transition and the roughly contemporaneous 2010–2011 origins of [[NRO Sentient]].

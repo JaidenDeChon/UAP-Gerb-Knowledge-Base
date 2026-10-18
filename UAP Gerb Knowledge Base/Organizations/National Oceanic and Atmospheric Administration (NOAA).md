@@ -13,6 +13,13 @@ Gallaudet served as Assistant Secretary of Commerce for Oceans and Atmosphere (t
 
 After leaving government service, Gallaudet drew on his NOAA experience and scientific credibility in his 2024 white paper *Beneath the Surface*, which argued that the study of USOs should be raised to the level of a national research priority. In his view, NOAA's ocean observation equipment, such as its satellites, buoys and research vessels, could be redirected or supplemented to investigate maritime UAP systematically, instead of such encounters being treated as isolated incidents to be suppressed.
 
+::wiki-document
+---
+name: "Beneath the Surface (Gallaudet White Paper)"
+caption: "Rear Admiral Gallaudet's 2024 Sol Foundation white paper, which argues that UAP in the ocean should be made a national research priority."
+---
+::
+
 ## Relevance to USO Observation
 
 NOAA runs a large network of ocean monitoring equipment, including:

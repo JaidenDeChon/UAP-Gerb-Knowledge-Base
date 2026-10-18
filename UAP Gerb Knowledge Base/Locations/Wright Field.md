@@ -23,6 +23,13 @@ In 1948 Wright Field was combined with nearby Patterson Field to form Wright-Pat
 > [!edit] Corrected 16 October 2026
 > Earlier versions said both the letter and the Friedman call placed the meetings at Wright Field around 1949–1950, and that Sarbacher named all three men as definitely involved. The letter names no place or date and is less sure of Oppenheimer; the Wright Field location comes from the Friedman call.
 
+::wiki-document
+---
+name: "Sarbacher Letter"
+caption: "Robert Sarbacher's letter of 29 November 1983 to William Steinman, answering his questions about the recovered flying saucers."
+---
+::
+
 In his conversation with Friedman, Sarbacher described a meeting at Wright Field about a crash that had occurred "out west," likely referring to the 1947 Roswell incident or other contemporaneous New Mexico recoveries. He mentioned an attendee from Philadelphia who "acted very smug" about his involvement. That attendee was later identified as [[Eric A. Walker]], Executive Secretary of the Defense Research Board from 1950 to 1951.
 
 In interviews with [[William Steinman]] between 1987 and 1990, [[Eric A. Walker]] independently confirmed that he attended the Wright Field meeting described by Sarbacher, and that it concerned crash retrievals and body recovery efforts.

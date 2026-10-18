@@ -12,6 +12,13 @@ The **1950 El Indio UFO Crash** is an alleged UAP impact and retrieval operation
 
 The MJ-12 Eisenhower Briefing Document was allegedly prepared in 1952 to brief President-Elect Dwight D. Eisenhower. According to the document, a UFO of similar origin to the 1947 [[Roswell Crash|Roswell Incident]] impacted the Earth at high speed on December 6, 1950, along the Texas-Mexico border between El Indio and Guerrero. The craft hit the ground so fast that it was nearly obliterated. Recovered materials were reportedly taken to the [[Atomic Energy Commission]]'s facility at [[Sandia National Laboratories]] in Albuquerque, New Mexico, for study.
 
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper dated 18 November 1952, which describes a 6 December 1950 impact between El Indio and Guerrero and says the remains went to the Atomic Energy Commission's facility at Sandia."
+---
+::
+
 The document's authenticity is disputed. Gerb says it likely mixes disinformation with factual information, which is also the view of researcher Stanton Friedman.
 
 ## Dennis Stacy Investigation and Witness Testimony

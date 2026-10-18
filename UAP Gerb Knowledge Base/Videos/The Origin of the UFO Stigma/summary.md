@@ -276,6 +276,15 @@ Gerb stresses who received Sign's reports: every one had to be sent to the [[Arm
 > [!edit] Corrected 16 October 2026
 > This paragraph, the timeline entry and the comparison table used to say as fact that a full 707-page Grudge report was published in 1960 and that Grudge's records were updated until 1999, and that Grudge was tasked with explaining sightings away. Those are Gerb's claims. The report (Technical Report No. 102-AC 49/15-100) is dated August 1949 and the National Archives' scan of it runs to 412 pages; no 1960 edition turned up in the search for a copy.
 
+::wiki-document
+---
+name: "Project Grudge Report"
+page: 9
+region: [0.08, 0.49]
+caption: "The report's conclusions: the objects pose \"no direct threat to the national security of the United States\", and reports result from misinterpreted conventional objects, \"a mild form of mass hysteria or 'war nerves'\", hoaxes and \"psychopathological persons\"."
+---
+::
+
 Gerb's example is the [[Lubbock Lights]]. Four engineering professors in [[Lubbock, Texas]] watched several flights of 20 to 30 lights crossing the sky at great speed in a perfect semicircle. Grudge put the case down to a flock of migrating birds, an explanation Gerb calls unsubstantiated and one the witnesses themselves rejected. Hynek later described Grudge as "less science and more of a public relations campaign".
 
 ## Blue Book and the Robertson Panel (1952-1965)
@@ -435,6 +444,13 @@ responses:
 ::
 
 The news media praised the report almost universally. Some reviews likened continued belief in UFOs to belief in a flat Earth, ghosts or Bigfoot; others predicted interest would fade within a few generations. Project Blue Book was terminated in December 1969. UFOs were now lumped in with ghosts, Bigfoot and conspiracy, and the word became synonymous with "tin foil hat" cranks rather than accredited physicists like Hynek and McDonald who wanted to study it.
+
+::wiki-document
+---
+name: "Condon Report"
+caption: "The University of Colorado's \"Scientific Study of Unidentified Flying Objects\", which recommended that the Air Force end its UFO investigations."
+---
+::
 
 ## Five programs, one pattern
 

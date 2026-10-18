@@ -26,11 +26,25 @@ The [[Special Operations Manual (SOM 1-01)]], an alleged 1954 Majestic 12 manual
 
 The manual also sets packaging and shipping rules for EBEs and states that "loss of EBE life is acceptable". Its classification table sends deceased entities to the [[Blue Room]] at [[Wright-Patterson Air Force Base]].
 
+::wiki-document
+---
+name: "Special Operations Manual (SOM 1-01)"
+caption: "The disputed 1954 MJ-12 manual that describes the two EBE types and how recovered entities were to be handled."
+---
+::
+
 Gerb ties EBE-1 to two other cases. In his Corso video he notes that EBE-1 closely matches the body Corso described at Fort Riley. In his Aztec video he says the bodies described in the 1948 [[Aztec UFO Crash and Recovery|Aztec]] case, with no digestive or reproductive organs and a colourless fluid in place of blood, sound almost identical to EBE-1.
 
 ## Background
 
 The Eisenhower Briefing Document, which reached researchers on a roll of film in December 1984 and is dated 18 November 1952, says Bronk's team suggested "Extra-terrestrial Biological Entities", or "EBEs", as the standard term for the creatures until a more definitive name could be agreed.
+
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper for President-elect Eisenhower, dated 18 November 1952, in which Bronk's team suggests the term \"Extra-terrestrial Biological Entities\", or \"EBEs\"."
+---
+::
 
 ## Sources
 

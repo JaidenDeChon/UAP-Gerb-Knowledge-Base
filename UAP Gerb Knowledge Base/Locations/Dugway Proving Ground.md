@@ -37,6 +37,15 @@ Avery Technical Center is a 40-acre area bordering Michael Army Airfield. Its bu
 > [!edit] Corrected 17 October 2026
 > This paragraph used to say Avery did radiobiological warfare studies for the Atomic Energy Commission and to number the tunnel entrance 102, as Gerb does in the video. The 2012 environmental assessment ([[Environmental Assessment Report on Avery Technical Center]]) says radiological warfare laboratories using AEC spent fuel, and numbers the tunnel entrance 1002.
 
+::wiki-document
+---
+name: "Environmental Assessment Report on Avery Technical Center"
+page: 33
+region: [0.08, 0.78]
+caption: "Table 2-1 of the 2012 assessment: Avery's buildings and their use by the 388th RANS, among them 1002 Avery Tunnel Entrance, 1010 Test Operations, 1012 Photo Operations & Maintenance, 1016 Classified Storage and 1038 General Storage."
+---
+::
+
 Michael Army Airfield is shared between Dugway and Hill Air Force Base's 388th Range Squadron. It is used for aerospace testing, including the Lockheed Martin X-33 hypersonic vehicle program, and lies within the West Desert Test Center.
 
 [[Ditto Technical Center]] holds the main operations of the West Desert Test Center, including the Garrison building where witness "MS" was interrogated after his 2009 encounter.

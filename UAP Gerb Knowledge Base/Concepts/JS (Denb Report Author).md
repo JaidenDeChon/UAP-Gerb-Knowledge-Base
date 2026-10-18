@@ -14,6 +14,13 @@ The report closes with this statement:
 
 > "The facts that are known have been gathered from two eyewitness accounts, documentation illegally copied, and a partially destroyed document. This was done in 1978 by a person who is now dead. Only in February of this year [1992] did the notes and documents come into the hands of our group."
 
+::wiki-document
+---
+name: "Denb Report"
+caption: "The memo JS signed on 23 March 1992, which sets out a minute-by-minute account of an alleged 1974 disc recovery and says how its facts were gathered."
+---
+::
+
 ## Identity Hypotheses
 
 ### Acronym Hypothesis

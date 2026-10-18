@@ -22,6 +22,13 @@ According to the leaked documents, Majestic 12 had twelve members who reported d
 
 The [[Eisenhower Briefing Document]] states that MJ-12 was established as a "top secret Research and Development/Intelligence operation reporting only to the President of the United States." According to SOM 1-01, as of 1954 the group did not consider non-human intelligence a threat. The manual says the group regarded it as a benign presence, though one with technology far beyond human science.
 
+::wiki-document
+---
+name: "Special Operations Manual (SOM 1-01)"
+caption: "The disputed 1954 manual for \"Majestic 12 units\", which sets out the group's goals of recovering and studying craft and entities of non-terrestrial origin."
+---
+::
+
 ## Original and Subsequent Members
 
 ### Original Twelve (1947)
@@ -41,6 +48,13 @@ The Eisenhower Briefing Document names the founding members:
 - General Walter B. Smith, who replaced Forrestal on August 1, 1950; he was Ambassador to the USSR and the second CIA Director
 
 Truman's appointment calendar confirms an off-the-record meeting with Walter B. Smith on August 1, 1950, the same date on which, according to the Eisenhower Briefing Document, he replaced Forrestal.
+
+::wiki-document
+---
+name: "Eisenhower Briefing Document"
+caption: "The disputed MJ-12 briefing paper dated 18 November 1952, which lists the group's twelve members and names Smith as Forrestal's replacement on 1 August 1950."
+---
+::
 
 ### Extended Network
 

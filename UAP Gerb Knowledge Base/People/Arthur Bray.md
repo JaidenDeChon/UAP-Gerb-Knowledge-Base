@@ -11,6 +11,13 @@ Arthur Bray, a former Canadian military pilot from Ottawa, is a UFO researcher a
 
 In 1950 Smith, a senior radio engineer at Canada's Department of Transport, wrote to its Controller of Telecommunications asking for Canada's first official UFO investigation, into magnetism as a means of propulsion. The memo relayed claims from a source in Washington: that the subject was the most highly classified in the US government, rating higher even than the H-bomb; that flying saucers exist; that their modus operandi was unknown but a small group headed by [[Vannevar Bush]] was making a concentrated effort to learn it; and that US authorities considered the matter of tremendous significance. The memo led to Canada's [[Project Magnet]] and [[Project Second Story]]. It was classified top secret until 15 September 1969, and in 1978 Bray and [[Stanton Friedman]] obtained copies.
 
+::wiki-document
+---
+name: "Wilbert Smith Memo"
+caption: "Wilbert Smith's top secret Department of Transport memo of 21 November 1950, subject \"Geo-Magnetics\", to the Controller of Telecommunications."
+---
+::
+
 Bray also uncovered, in Smith's estate, Smith's handwritten notes of his September 1950 meeting with Sarbacher, a consultant to the Pentagon's Research and Development Board. Gerb cites the notes, together with Sarbacher's own confirmation in 1983, as the evidence that Sarbacher was Smith's Washington source. In the notes, Sarbacher tells Smith that the contents of [[Frank Scully]]'s *Behind the Flying Saucers* are fundamentally correct, and names Bush as head of the study group.
 
 ## Sources

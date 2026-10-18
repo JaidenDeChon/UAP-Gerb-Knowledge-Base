@@ -7,6 +7,13 @@ tags:
 
 M. Harmon is one of three names that appear on the "Behavioral Data Analysis" page of the [[Alleged Leaked UAP Task Force Report]], a set of purported pages from a classified [[UAP Task Force]] report that circulated online in 2021 or 2022. The other names on the page are [[S. McCaron]] and [[K Shakoya]]. The page describes an analysis of 1,292 UFO cases by joint elements of ONI, NSA, DHS and SAP-cleared Department of Defense experts.
 
+::wiki-document
+---
+name: "Alleged Leaked UAP Task Force Report"
+caption: "Disputed pages said to come from a classified UAP Task Force report, which circulated online in 2021 or 2022; its \"Behavioral Data Analysis\" page names M. Harmon, S. McCaron and K. Shakoya."
+---
+::
+
 ## Identity
 
 In his analysis of the [[Flyby Footage]], Gerb said that an exhaustive search for the names on the page, and for the "Blackout Flower report" and "Layer Three Behavioral Assessment" it mentions, had turned up almost nothing. He assumed the names were pseudonyms or had had their first names removed. He found no candidate for M. Harmon.

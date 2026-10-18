@@ -286,6 +286,15 @@ Records of Wang are hard to find, Gerb says, but his role in special studies app
 
 Gerb sets Kingman inside a year in which the government was already tightening its hold on UFO reporting. The [[Robertson Panel]], held to quell public interest in UFOs, began in January 1953, four months before the crash. Three months after it, the Air Force issued [[USAF Regulation 200-2]], which sent all UFO reports to Air Force intelligence rather than [[Project Blue Book]], the official investigation of the day. Gerb argues this stove-piped reporting, so that fewer credible reports reached Congress and the public and the UFO stigma grew. The regulation certainly relates to the Robertson Panel, he says, but it is also quite plausible that it was meant to keep a tight lid on crash retrievals such as Kingman and possibly Roswell.
 
+::wiki-document
+---
+name: "USAF Regulation 200-2"
+page: 3
+region: [0.25, 0.57]
+caption: "Paragraph 6c of the regulation: electrical reports went to Air Defense Command, the Air Technical Intelligence Center and the Director of Intelligence at Headquarters USAF, and written reports to the Director of Intelligence with a copy to ATIC."
+---
+::
+
 The other thread is the AEC's presence. The [[Atomic Energy Act of 1954]], Gerb says, has been used to misclassify UFO material as "transclassified foreign nuclear material", avoiding declassification and restricting knowledge to those with a need to know, and the Schumer legislation in the 2024 National Defense Authorization Act states that the act has been used by the Defense Department and legacy programs to protect UFO records and materials. He adds the testimony of [[Robert Jacobs]] and [[Robert Salas]] of [[Malmstrom Air Force Base]] on the [[UFO-Nuclear Connection]]: a UFO active near the Nevada test range after eleven nuclear detonations in 1953 is, to him, far from surprising.
 
 ## The Second Whistleblower: Bill Uhouse

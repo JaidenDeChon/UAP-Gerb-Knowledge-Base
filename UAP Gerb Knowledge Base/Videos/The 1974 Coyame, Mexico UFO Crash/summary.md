@@ -285,6 +285,13 @@ events:
 
 Gerb reads the Denb Report aloud in full because, he says, it remains the best analysis of the case. What follows is its account, attributed throughout to JS.
 
+::wiki-document
+---
+name: "Denb Report"
+caption: "The anonymous 1992 memo Gerb reads aloud, \"Research Findings on Chihuahua Disc Crash\", signed only \"JS\"."
+---
+::
+
 ### Radar and the flight profile
 
 At 2207 hours on 25 August 1974, US Air Defense radar detected an unknown object approaching from the Gulf of Mexico at 2,200 knots, on a bearing of 325 degrees at 75,000 feet. That course would have crossed the coast about 40 miles southwest of [[Corpus Christi, Texas]]. After about 60 seconds, 155 miles southeast of Corpus Christi, the object slowed to about 1,700 knots, turned to a heading of 290 degrees and began a slow descent. It entered Mexican airspace about 40 miles southwest of [[Brownsville, Texas]], levelled off at 45,000 feet and then descended to 20,000 feet. It came down in level steps, each held for about five minutes, rather than in a smooth curve. Two military radar sites tracked it for about 500 miles until it disappeared near Coyame, over barren and sparsely populated country. No civilian radar reported it, although it should have been within range of Brownsville's.

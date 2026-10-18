@@ -25,6 +25,15 @@ Gerb argues that the NRO plays three roles in the legacy programs:
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions said Sentient flagged a possible tic-tac-shaped object. The briefing notes only "a rough similarity" to the tic-tac shape and rates its confidence in the detection "relatively low".
+
+::wiki-document
+---
+name: "Recent Sentient Highlights"
+page: 2
+caption: "The briefing's bottom-line slide: Sentient's detection of a small (<10m) possible airborne object on 6 May 2021, its \"rough similarity\" to the \"tic tac\" shape, and the \"relatively low\" confidence in the detection."
+---
+::
+
 - Crash retrieval. Gerb alleges the NRO is the umbrella authority of a siloed crash-retrieval task force using parallel tier 1 units, [[160th Special Operations Aviation Regiment|160th SOAR]] transport and Department of Energy teams such as [[NEST (Nuclear Emergency Support Team)|NEST]]. An anonymous witness who says he served on a rapid reaction team at the [[Nevada National Security Site (Nevada Test Site)]] described briefing binders marked "Joint Operations Task Force, NRO" and an ID badge bearing the NRO's name. [[Steve Wilson|Colonel Steve Wilson]] earlier claimed an NRO "Delta" team retrieved UFOs under [[Project Pounce]].
 - Operating derivative craft. Gerb argues the NRO would be among the first agencies to use [[Alien Reproduction Vehicle (ARV)|alien reproduction vehicles]] for reconnaissance in denied airspace, citing [[Edgar Fouche]]'s claim that the TR-3B was operated by the NRO, NSA and CIA.
 

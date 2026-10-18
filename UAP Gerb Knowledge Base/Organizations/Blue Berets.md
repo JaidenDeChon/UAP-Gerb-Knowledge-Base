@@ -21,6 +21,13 @@ In his 1978 paper *[[Stringfield Status Reports|Retrievals of the Third Kind: A 
 > [!edit] Corrected 16 October 2026
 > Earlier versions gave the title as *Crash Retrievals of the Third Kind*, as Gerb does. Stringfield's 1978 paper, the first of his Status Reports, is titled *Retrievals of the Third Kind: A Case Study of Alleged UFOs and Occupants in Military Custody*.
 
+::wiki-document
+---
+name: "Stringfield Status Reports"
+caption: "Stringfield's crash-retrieval reports, the first of them his 1978 MUFON paper *Retrievals of the Third Kind*, where he describes the Blue Berets."
+---
+::
+
 ### Witness Accounts from Blue Beret Members
 
 Stringfield claimed to have met a former member of the Blue Berets during a lecture at the University of Dade City, Florida. The man, known as "Cam," described the unit's structure and operations, including covert deployments behind enemy lines in Vietnam. Cam said he had never taken part in a UFO crash retrieval himself, but he knew a fellow Blue Beret who had been involved in recovering a "big head" from an alien craft.

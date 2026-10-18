@@ -17,6 +17,15 @@ At the subcommittee hearing on July 24, 1986, Conahan presented findings from a 
 - Approximately 46 documents had been destroyed and could not be accounted for.
 - 17 documents had been transferred out of the company and were never recovered.
 
+::wiki-document
+---
+name: "GAO Report on Special Access Contracts (1986)"
+page: 6
+region: [0.03, 0.52]
+caption: "The opening of GAO's 24 July 1986 testimony to the House Subcommittee on Oversight and Investigations, reprinted in the August report and credited there to Martin M. Ferber: its review \"confirmed the existence of serious problems\" in accounting for the special access program's classified documents."
+---
+::
+
 ## Significance in UAP Research
 
 Gerb connects Conahan's testimony to the account in the [[Wilson-Davis Memo]] in which [[Thomas Wilson]] is told that the "watch committee" overseeing UAP crash retrieval and reverse engineering programs had to reorganize and improve security on their special access programs (SAPs) after nearly being exposed by an audit. The 1986 GAO audit came only a few years before the early-1990s reorganization Wilson described, so the timing fits. In this reading, the destroyed documents and the unaccounted transfers out of Lockheed's most classified facility are consistent with efforts to conceal the existence of UAP legacy programs housed within Lockheed's Skunk Works structure.

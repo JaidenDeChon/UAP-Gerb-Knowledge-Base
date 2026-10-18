@@ -20,6 +20,15 @@ Avery Technical Center was set up for radiological studies and research into han
 
 An unclassified environmental assessment from July 2012, titled "Environmental Assessment of the Continued Exclusive Use of Department of the Army Land Located at US Army Dugway Proving Ground by Members of the US Air Force", describes Avery's structure and operations in detail. It states that Army Test and Evaluation Command personnel and the Air Force's 388th Range Squadron operate the facility jointly.
 
+::wiki-document
+---
+name: "Environmental Assessment Report on Avery Technical Center"
+page: 30
+region: [0.24, 0.61]
+caption: "The assessment's \"Avery Area\" entry: about 40 acres, the focus of 388th RANS operations, built in the early 1950s for radiological studies, with radiological warfare laboratories that irradiated food using spent Atomic Energy Commission fuel elements."
+---
+::
+
 ## Infrastructure and Key Buildings
 
 Avery Technical Center uses an internal rail system to transport radioactive materials. The rail line draws interest because of allegations of underground tunnel connections and craft transport. The facility has many numbered buildings, though many developed or unclassified structures are not marked or detailed in public documentation.
@@ -33,6 +42,15 @@ Identified buildings include:
 
 > [!edit] Corrected 17 October 2026
 > This item used to number the tunnel entrance Building 102, as Gerb reads it in the video. Table 2-1 of the 2012 assessment (scan page 33) numbers it 1002.
+
+::wiki-document
+---
+name: "Environmental Assessment Report on Avery Technical Center"
+page: 33
+region: [0.08, 0.78]
+caption: "Table 2-1: the Avery Area's buildings, their current use by the 388th RANS and their construction dates, from 1002 Avery Tunnel Entrance (1952, \"Not used by the 388th\") to 1010 Test Operations and 1016 Classified Storage."
+---
+::
 
 ## Absence from Public Documentation
 

@@ -490,6 +490,15 @@ Gerb also looks at three more Navy and laboratory threads:
 > [!edit] Clarified 16 October 2026
 > Earlier versions gave only the video's 2017 date. The dates now given come from the patent, US 10,144,532 B2 ([[Craft Using an Inertial Mass Reduction Device]]).
 
+::wiki-document
+---
+name: "Craft Using an Inertial Mass Reduction Device"
+page: 1
+region: [0.08, 0.47]
+caption: "The patent's front-page details: Salvatore Cezar Pais of Leonardtown, Maryland, assignee the Secretary of the Navy, filed 28 April 2016, first published 2 November 2017 and granted 4 December 2018."
+---
+::
+
 ## Other Consciousness-Linked Accounts
 
 In his closing remarks Gerb adds a second witness. Martin, who came forward on a page run by a presenter named Courtney, says he took part in remote-viewing programs as a child. He describes eight scientists bringing a briefcase into a room and opening it to reveal a clear, basketball-sized sphere that, he was told, "chose" who it interacted with. Gerb says he is now in contact with Martin. He also asks viewers to recall whistleblower Jason Sans, who came forward on Twitter after an earlier whistleblower, "Steve," had outlined his story. Gerb calls himself a "nuts and bolts" researcher who is uneasy with this territory, from technology that interacts with consciousness to the "P3" assets described by [[Michael Herrera]]. He says he is working with RA on drawings and possibly 3D models of the objects.

@@ -16,6 +16,15 @@ Project Sign was the first official United States Government program to systemat
 
 Project Sign was set up after General Twining's 1947 memo asserting that flying discs were real, physical phenomena. The memo was addressed to the Commanding General of the Army Air Forces, to the attention of Brigadier General George Schulgen of Air Force intelligence. (The name is garbled in the channel's videos, which render it as "George Shugen" and "George Lugan.") The project was first named "Project Saucer" before it received its official designation.
 
+::wiki-document
+---
+name: "Twining Memo"
+page: 1
+region: [0.34, 0.83]
+caption: "Twining's letter of 23 September 1947, \"AMC Opinion Concerning 'Flying Discs'\", addressed to the Commanding General, Army Air Forces, for the attention of Brig. Gen. George Schulgen, with the opinion that the phenomenon is \"something real and not visionary or fictitious\"."
+---
+::
+
 Sign had a high-level mandate and oversight. All Project Sign reports had to be sent to three major organizations: the [[Army and Navy Research and Development Board]], the [[USAF Scientific Advisory Group]] (the Air Force's civilian scientific advisory body, renamed the USAF Scientific Advisory Board in the late 1940s; the two videos use the two names interchangeably), and the [[Atomic Energy Commission]]. The distribution list shows that concern about UFOs reached across agencies at the highest levels of government and military leadership. It also shows a link to nuclear-adjacent institutions that continued through later programs.
 
 ## Gorman Dogfight Investigation
@@ -29,6 +38,13 @@ Project Sign first put forward conventional explanations such as weather balloon
 ## Findings
 
 Project Sign's written report concluded that some UFO reports describe actual objects but that their origins cannot be determined. Captain [[Edward J. Ruppelt]], who later directed Sign's successors ([[Project Grudge]] and [[Project Blue Book]]), wrote in his 1956 book that Sign had gone further in private. In the late summer or early autumn of 1948 it sent up a Top Secret [[Project Sign Estimate of the Situation (1948)|Estimate of the Situation]] concluding that UFOs were interplanetary. No copy of the Estimate has been made public, and its existence rests on Ruppelt's account and on later ones. Ruppelt also wrote that the Gorman dogfight was one of three classic UFO incidents in 1948 that "proved to Air Force intelligence specialists that UFOs were real."
+
+::wiki-document
+---
+name: "Project Sign Estimate of the Situation (1948)"
+caption: "Project Sign's Top Secret Estimate of the Situation of 1948, known from Edward Ruppelt's account; no copy has been made public."
+---
+::
 
 ## Termination
 

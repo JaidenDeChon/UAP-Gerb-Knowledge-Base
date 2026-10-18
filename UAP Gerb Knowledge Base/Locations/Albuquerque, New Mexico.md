@@ -11,6 +11,13 @@ Albuquerque is New Mexico's largest city and the home of Kirtland Air Force Base
 
 Researchers trying to identify the people whose initials appear on the document control page of the [[Special Operations Manual (SOM 1-01)|Special Operations Manual]] searched Albuquerque city phone directories from the years 1954–1957. The search was part of a wider effort to authenticate the document by matching the personnel it lists to verifiable New Mexico addresses from that period.
 
+::wiki-document
+---
+name: "Special Operations Manual (SOM 1-01)"
+caption: "The disputed MJ-12 manual whose control page gives Kirtland Air Force Base and the initials researchers searched for in Albuquerque directories."
+---
+::
+
 ## Kirtland Air Force Base and Sandia
 
 Albuquerque is the home city of [[Kirtland Air Force Base, New Mexico|Kirtland Air Force Base]], which houses Sandia National Laboratories, a nuclear weapons research facility managed by the Department of Energy. Research into the UFO legacy program has identified Kirtland and Sandia as important sites for classifying and storing UAP-related materials, and it names Kirtland as the location of the alleged Aphotech program.

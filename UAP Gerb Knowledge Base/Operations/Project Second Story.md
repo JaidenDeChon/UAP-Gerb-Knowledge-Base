@@ -15,6 +15,13 @@ Smith's memo led directly to Canada authorizing two parallel UAP programs:
 1. [[Project Magnet]], a scientific investigation into UAP propulsion, directed by Smith.
 2. Project Second Story, an investigation of strategy and policy meant to recommend how the government should respond to the UFO phenomenon.
 
+::wiki-document
+---
+name: "Wilbert Smith Memo"
+caption: "Wilbert Smith's top secret Department of Transport memo of 21 November 1950, subject \"Geo-Magnetics\", to the Controller of Telecommunications."
+---
+::
+
 ## Objectives
 
 Project Second Story sought to:

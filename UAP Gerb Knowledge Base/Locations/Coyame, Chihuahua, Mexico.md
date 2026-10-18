@@ -13,6 +13,13 @@ On August 25, 1974, an unidentified object tracked by US Air Defense radar at 2,
 
 The area is remote. It lies over 500 miles from the point over the Gulf of Mexico where the object was first detected, and about 60 miles from the nearest populated area, which made it an ideal place for a covert cross-border recovery. The Denb Report notes the crash site was "over a barren and sparsely populated area of northern Mexico," which let the US recovery team operate without civilian witnesses.
 
+::wiki-document
+---
+name: "Denb Report"
+caption: "The anonymous 1992 memo signed \"JS\" that is the source of this account of a crash and recovery near Coyame in August 1974."
+---
+::
+
 ## Field Investigation
 
 UAP researchers [[Noe Torres]] and [[Ruben Uriarte]] conducted field investigations in the Coyame region and reported finding alleged aircraft debris near the supposed crash site. In 2012, at a festival in nearby Presidio, Texas, witnesses including school teacher Johnny Chambers reported seeing a strange fireball (a "big explosion in the sky") on the Mexican side of the border near the Coyame area in summer 1974. They said military helicopters returned to the US from Mexico within a day.

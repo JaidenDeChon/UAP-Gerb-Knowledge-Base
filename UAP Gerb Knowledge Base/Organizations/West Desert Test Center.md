@@ -24,6 +24,15 @@ Avery Technical Center is a 40-acre restricted facility bordering Michael Army A
 > [!edit] Corrected 17 October 2026
 > This paragraph used to say Avery did radiobiological warfare studies for the Atomic Energy Commission and to number the tunnel entrance 102, as Gerb does in the video. The 2012 environmental assessment ([[Environmental Assessment Report on Avery Technical Center]]) says radiological warfare laboratories using AEC spent fuel, and numbers the tunnel entrance 1002.
 
+::wiki-document
+---
+name: "Environmental Assessment Report on Avery Technical Center"
+page: 30
+region: [0.24, 0.61]
+caption: "The 2012 assessment's \"Avery Area\" entry: about 40 acres, built for radiological studies and the handling of radioactive materials, with radiological warfare laboratories that used spent Atomic Energy Commission fuel elements and an internal rail system."
+---
+::
+
 Michael Army Airfield is shared by the Army and the Air Force and is used for aerospace testing, including past support for the Lockheed Martin X-33 hypersonic program. It is operated jointly with Hill Air Force Base's 388th Range Squadron.
 
 ## Mission and Acknowledged Programs

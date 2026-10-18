@@ -19,6 +19,16 @@ Legislative and executive milestones in SAP development include:
 - Reagan's EO 12356 (1982) standardized and expanded the SAP framework and tightened oversight. It effectively ended the "wild wild west" era, in which legacy programs freely exploited top-secret codeword access with minimal accountability. The DCSA's SAP training course cites EO 12356 as the formal acknowledgment of SAPs.
 - In the Yellow Fruit case (1983), an internal DoD audit exposed an unacknowledged SAP run out of the Army's Special Operations Division. The audit triggered significant SAP oversight reforms and nearly exposed connected activities.
 - In May 1993 the General Accounting Office reported that the Navy and Air Force gave no due process to people whose SAP access was denied or revoked, and that DoD had kept cases from unacknowledged programs, about 10 to 20 percent of all SAPs, out of its review ([[GAO Report on Special Access Program Due Process (1993)|GAO/NSIAD-93-162]]). Gerb suggests that audits like this one pushed the legacy programs toward the 1994 restructuring.
+
+::wiki-document
+---
+name: "GAO Report on Special Access Program Due Process (1993)"
+page: 13
+region: [0.44, 0.65]
+caption: "GAO on the cases it was not given: DoD said unacknowledged programs made up about 10 to 20 percent of all SAPs, so GAO reviewed only acknowledged programs, and found no meaningful due process from the Navy and Air Force."
+---
+::
+
 - In the Clinton/Perry SAPOC Reorganization (1994), Deputy Secretary of Defense William Perry greatly expanded SAPCO (Special Access Program Central Office) and SAPOC (Special Access Program Oversight Committee) and established the Senior Review Group (SRG). The most sensitive legacy activities moved into this quasi-government and industry oversight panel of approximately two dozen individuals. The Wilson-Davis notes describe this structure as the gatekeeping body that denied Admiral Thomas Wilson access to the crash retrieval portfolio. Gerb's "80 Years" timeline video attributes the reorganization to fear of President Bill Clinton's appetite for disclosure. It also cites [[David Grusch]]'s comment on the Judicial Watch podcast that the CIA and other agencies held a "tremendous burnback and shred party" in 1994 to destroy physical records connected to the programs.
 
 ## Types of SAPs
@@ -42,6 +52,15 @@ SAP governance runs from the top down. At the base are component-level SAP Centr
 ## Department of Energy SAPs
 
 DOE SAPs draw authority from Executive Order 13526, as DoD SAPs do, and independently from the [[Atomic Energy Act of 1954]], a statutory basis that is not subject to unilateral presidential declassification. Gerb argues this makes DOE SAPs an especially airtight way to keep programs secret. He cites the DOE's [[Office of Intelligence and Counterintelligence|Office of Intelligence and Counterintelligence]] (OICI) as the agency's internal program-protection and counterintelligence apparatus for such programs.
+
+::wiki-document
+---
+name: "Executive Order 13526"
+page: 16
+region: [0.32, 0.55]
+caption: "Section 4.3 (a): unless the President authorizes otherwise, only the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General and the Director of National Intelligence may create a special access program."
+---
+::
 
 ## Sources
 

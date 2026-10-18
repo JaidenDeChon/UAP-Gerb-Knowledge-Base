@@ -13,6 +13,13 @@ McDonald was one of several credible researchers who asked for access to the [[C
 
 McDonald called the final [[Condon Report]] "inadequate" and said publicly that it "represents an examination of only a tiny fraction of the most puzzling UFO reports of the past two decades" and that its "quality of scientific argument is wholly unsatisfactory." He and Hynek testified together that the committee had ignored important evidence and could not explain 25–30% of the cases it examined.
 
+::wiki-document
+---
+name: "Condon Report"
+caption: "The University of Colorado's \"Scientific Study of Unidentified Flying Objects\", the final report McDonald called inadequate."
+---
+::
+
 ## Sources
 
 - [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]

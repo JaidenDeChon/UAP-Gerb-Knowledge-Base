@@ -22,6 +22,15 @@ Joey went on to play a broader investigative role in the Herrera case beyond the
 
 The UAP Gerb episode covering Joey's investigation also addresses a dispute between Joey's findings and the way [[AARO Historical Report Volume 1]] characterized Herrera's account. Joey and Gerb argue that the report misrepresented material elements of Herrera's testimony, particularly whether Herrera identified the operators as U.S. Special Forces and whether he described the craft as extraterrestrial or reverse-engineered.
 
+::wiki-document
+---
+name: "AARO Historical Report Volume 1"
+page: 29
+region: [0.56, 0.66]
+caption: "The report's summary of the account: a former U.S. service member who said that in 2009 he encountered \"U.S. Special Forces\" loading containers onto a large extraterrestrial spacecraft."
+---
+::
+
 ## Sources
 
 - [[Videos/Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)/summary|Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)]]

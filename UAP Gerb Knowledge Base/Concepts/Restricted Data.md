@@ -32,6 +32,15 @@ Section 142 of the [[Atomic Energy Act of 1954]] created Transclassified Foreign
 
 The Schumer UAP disclosure amendment (UAPDA) explicitly states that UFO legacy programs have misclassified UAP materials, data, files, programs, and discoveries as TFNI. That lets non-nuclear materials and programs benefit from the most restrictive statutory classification framework in the US government.
 
+::wiki-document
+---
+name: "Schumer Amendment (NDAA)"
+page: 1
+region: [0.52, 0.69]
+caption: "Finding (4) in the Congressional Record of 13 July 2023 (left column): UAP records have not been declassified \"due in part to exemptions under the Atomic Energy Act of 1954\" and \"an over-broad interpretation of 'transclassified foreign nuclear information'\"."
+---
+::
+
 ## "Special Nuclear Material" as a Classification Vehicle
 
 Section 51 of the 1954 Act lets the Atomic Energy Commission declare further material to be "special nuclear material" if it finds the material "capable of releasing substantial quantities of atomic energy" and the President assents in writing. [[David Grusch]] paraphrases this as "anything that gives off a sizable amount of atomic energy" and has noted that it is vague enough to cover recovered non-human materials with radiological properties, which allows them to be classified under DOE statutory authority: "They're basically treating this as nuclear secrets because it gives off nuclear radiation... what legal gymnastics are you saying this stuff is a US nuclear secret? You're transclassifying it into a nuclear secret."

@@ -14,6 +14,13 @@ According to the Wilson-Davis memo, between June and December 1997, after Wilson
 
 When Wilson spoke to Gansler in January 1998, he learned that someone had read Gansler into the program. Gansler told Wilson, "UFOs are real, so-called alien abductions not real," and would say nothing more on the topic.
 
+::wiki-document
+---
+name: "Wilson-Davis Memo"
+caption: "The leaked 15-page notes, dated 16 October 2002, that purport to record Eric Davis's conversation with Vice Admiral Thomas Wilson about a contractor-run crash retrieval program."
+---
+::
+
 The statement suggests Gansler had direct knowledge of recovered UFO craft or materials. He separated physical UFO craft, which he called real, from alien abduction claims, which he said were not. He was willing to acknowledge to Wilson that UFOs were real but refused to discuss them further. As Under Secretary of Defense for Acquisition and Technology he had oversight of defense contractor programs, which is consistent with the memo's claim that the crash retrieval program was housed within a contractor.
 
 ## Sources
