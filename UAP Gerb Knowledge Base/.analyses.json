@@ -547,8 +547,8 @@
         "AARO Historical Report Volume 1"
       ],
       "handed_out": "2026-10-18T02:14:28Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T02:21:32Z",
+      "leads": 4
     },
     "S038-documents": {
       "lens": "documents",
@@ -556,8 +556,8 @@
         "GAO Roswell Report (1995)"
       ],
       "handed_out": "2026-10-18T02:14:32Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T02:21:32Z",
+      "leads": 3
     },
     "S039-documents": {
       "lens": "documents",
@@ -565,8 +565,8 @@
         "Robertson Panel Report"
       ],
       "handed_out": "2026-10-18T02:14:36Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T02:21:32Z",
+      "leads": 3
     },
     "S040-documents": {
       "lens": "documents",
@@ -574,8 +574,8 @@
         "Craft Using an Inertial Mass Reduction Device"
       ],
       "handed_out": "2026-10-18T02:14:40Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T02:21:32Z",
+      "leads": 1
     },
     "S041-documents": {
       "lens": "documents",
@@ -583,8 +583,8 @@
         "GAO Report on Special Access Contracts (1986)"
       ],
       "handed_out": "2026-10-18T02:14:44Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T02:21:32Z",
+      "leads": 2
     },
     "S042-documents": {
       "lens": "documents",
@@ -592,8 +592,8 @@
         "GAO Report on Special Access Program Due Process (1993)"
       ],
       "handed_out": "2026-10-18T02:14:48Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T02:21:32Z",
+      "leads": 2
     },
     "S043-documents": {
       "lens": "documents",
@@ -601,7 +601,7 @@
         "Hottel Memo"
       ],
       "handed_out": "2026-10-18T02:14:52Z",
-      "ingested": null,
+      "ingested": "2026-10-18T02:21:32Z",
       "leads": 0
     },
     "S044-documents": {
@@ -610,8 +610,8 @@
         "Twining Memo"
       ],
       "handed_out": "2026-10-18T02:14:56Z",
-      "ingested": null,
-      "leads": 0
+      "ingested": "2026-10-18T02:21:32Z",
+      "leads": 1
     }
   },
   "leads": [
@@ -5147,6 +5147,1033 @@
       "weakest_link": "Only the part of the citation that Wood reads aloud is in the vault. The image Gerb put on screen may carry a further paragraph (citations usually continue 'During this period...') that could mention UFO material, and the Woods may hold a second, Holloman-era certificate that does use the words; the Peru and Kecksburg remarks could also be Gerb loosely recalling Wood rather than quoting the page. Checkable: the citation image is in the video at the Section 17 / Blue Room segment and Wood offered to supply it; majesticdocuments.com may host it. Whether LeMay himself signed an AF Commendation Medal for an ADC master sergeant is also unverified and is not needed for the claim. The 4602d disbandment date (July 1957) rests on two secondary snippets (Minot B-52 investigation endnotes, mirrored) citing Jacobs, not on a primary record.",
       "impact": 4,
       "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0074",
+      "slice": "S037-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "corroboration",
+      "headline": "AARO's own report never ruled on Michael Herrera's account",
+      "claim": "AARO's Historical Report Volume 1 (March 2024) lists Herrera's 2009 claim among the interviewee claims on page 29, but none of its findings (pages 30-33) or its executive-summary results (page 8) deal with it. The page-32 finding that people took as AARO explaining Herrera away ('The UAP with Peculiar Characteristics Refers to an Authentic, Non-UAP-Related SAP') answers a different interviewee. The report's own text shows this: page 29 lists a man who said that in the 1990s he overheard talk of 'aliens' at a materials test and, on another occasion, saw a UFO 'at a U.S. military facility' with 'a peculiar flight pattern'. The findings take his two claims one after the other (page 31 'Aliens Observing Material Test', then page 32 'Peculiar Characteristics'), and the executive summary describes the second as a claim to have seen a test 'at a USG facility'. Herrera's encounter was in the Indonesian jungle. Joey and Gerb argued from the differences in detail that page 32 isn't Herrera. The document itself names who it is about, and it leaves Herrera's claim unresolved: the report says it reached conclusions on only 'the majority' of claims, leaves the rest for Volume II, and says some are 'still under evaluation'. This fits Herrera's own account that AARO promised to follow up with satellite imagery and never contacted him again.",
+      "entities": [
+        "AARO Historical Report Volume 1",
+        "Michael Herrera",
+        "2009 Indonesia UFO Encounter (Herrera)",
+        "AARO",
+        "Joey Is Not My Name",
+        "Sean Kirkpatrick"
+      ],
+      "videos": [
+        "Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)",
+        "Michael Herrera - Insights into UAP Encounter and Black Program Insiders"
+      ],
+      "evidence": [
+        {
+          "source": "Documents/Transcriptions/AARO Historical Report Volume 1 (Transcription).md",
+          "quote": "An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered “U.S. Special Forces” loading containers onto a large extraterrestrial spacecraft.",
+          "note": "Page 29, in the list of claims under 'Primary Narrative'. Herrera's claim is listed here and never again.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/AARO Historical Report Volume 1 (Transcription).md",
+          "quote": "The interviewee also reported that on another occasion in the 1990s he observed an “unidentified flying object” at a U.S. military facility. The interviewee described the object as exhibiting a peculiar flight pattern.",
+          "note": "Page 29, two bullets above Herrera's. This interviewee also claims he overheard that 'aliens' were present at a materials test. This is the claim the page-32 finding answers.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/AARO Historical Report Volume 1 (Transcription).md",
+          "quote": "At the time the interviewee said he observed the event, DoD was conducting tests of a platform protected by a SAP.",
+          "note": "Page 32, 'The UAP with Peculiar Characteristics Refers to an Authentic, Non-UAP-Related SAP'. It comes right after the page-31 finding on the same man's 'aliens' claim.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/AARO Historical Report Volume 1 (Transcription).md",
+          "quote": "An interviewee claim that he witnessed what he believed to be the testing of extraterrestrial technology at a USG facility almost certainly was an observation of an authentic, non-UAP-related, technology test that strongly correlated in time, location, and description provided in the interviewee’s account.",
+          "note": "Page 8, executive summary, 'Test of Off-World Technology'. The summary's version of the page-32 finding puts the sighting at a USG facility. No summary item covers a 2009 encounter abroad.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/AARO Historical Report Volume 1 (Transcription).md",
+          "quote": "AARO investigated and reached conclusions on the majority of the claims made in these narratives.",
+          "note": "Page 30, opening of 'Findings'. The same paragraph says the unresolved allegations will be reported in Volume II. Page 10 adds: 'Some claims are still under evaluation.'",
+          "verified": true
+        },
+        {
+          "source": "Videos/Michael Herrera - UFO Whistleblower (ft. Joeyisnotmyname)/transcript.md",
+          "quote": "on page 32 under the section the UAP with peculiar characteristics refers to an authentic non UAP related sap some people are confusing this statement as describing Michael Herrera",
+          "note": "Gerb rejects the page-32 reading because the details differ (precise time, a military facility). He doesn't point to the 1990s interviewee or say that Herrera's claim gets no finding.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Michael Herrera - Insights into UAP Encounter and Black Program Insiders/transcript.md",
+          "quote": "they said they had access to that it's been more than a year and they have yet to have any contact me from Arrow saying that yes we have imager where can you point out",
+          "note": "Herrera says AARO promised to check satellite imagery and never followed up. That fits a claim the report left open.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'historical report', 'peculiar', 'Volume 2/two/II', 'unresolved', and 'military facility' near Herrera. Only the Joeyisnotmyname video discusses page 32, and only through the differences in detail. No transcript ties page 32 to the 1990s interviewee or says that Volume 1 gives no finding on Herrera. The SAIC and Special Access Required Vol.2 videos say only that AARO misquoted him, citing his MFR.",
+      "weakest_link": "It's an argument from silence. The report anonymises interviewees, so it never says outright which finding answers which claim. Another finding could be meant to cover Herrera implicitly, for example the page-33 Section VI line that 'at least one interviewee claimed to have seen a captured UAP' before its blanket conclusion that no program involved off-world technology. The pairing of page 32 with the 1990s interviewee rests on the findings following the same man's two claims in order, plus the executive summary's 'at a USG facility'. That reading is strong, but it is an inference. It can be checked from the public PDF, pages 8 and 28-33. Volume II, if published, would settle it.",
+      "impact": 4,
+      "support": 4,
+      "slip": false
+    },
+    {
+      "id": "L0075",
+      "slice": "S037-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "timeline",
+      "headline": "AARO's report dates the CIA's block on Lockheed's material handover to 2010, before Kona Blue existed",
+      "claim": "Gerb repeatedly says that the CIA's Glenn Gaffney (head of the CIA's Directorate of Science and Technology) killed Lockheed VP James Ryder's 2011 handover of recovered material through Kona Blue. Gerb's Lockheed video adds that an earlier 2008/09 attempt was shut down by Clapper. AARO's Historical Report Volume 1, a source Gerb cites for this story, tells it differently. Interviewees said an organisation held off-world material in 2009 and 2010. An insider from the facility tried in 2010 to set up a meeting to return it. A 'former named senior CIA official' stopped the transfer. Page 28 also records that the company's CIA partnership ended in 1989, the same year the AAWSAP insider in Gerb's own clip gives ('since before it got shut down in '89'). In that clip the Gaffney conversation happened 'during the OSAP' and was about releasing material to DIA's contractor BAASS. The DHS Kona Blue records show the Kona Blue meetings only starting in June 2011. So the AARO account and the insider clip both put the CIA official's block in the AAWSAP period (2010), more than a year before Kona Blue existed. That doesn't fit Gerb's version, in which the Kona Blue transfer is the one Gaffney killed.",
+      "entities": [
+        "AARO Historical Report Volume 1",
+        "Glenn Gaffney",
+        "Kona Blue",
+        "Kona Blue Documents",
+        "James T. Ryder",
+        "Lockheed Martin",
+        "AAWSAP",
+        "James Clapper"
+      ],
+      "videos": [
+        "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline"
+      ],
+      "evidence": [
+        {
+          "source": "Documents/Transcriptions/AARO Historical Report Volume 1 (Transcription).md",
+          "quote": "attempted to set up a meeting to return material to the USG in 2010, but that the former CIA official stopped the transfer from industry to the USG.",
+          "note": "Page 31, 'Former CIA Official Involvement in Movement of Alleged Material Recovered from a UAP Crash Denied on the Record'. The same section dates the alleged program at the named facility to 2009-2010.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/AARO Historical Report Volume 1 (Transcription).md",
+          "quote": "The interviewee also stated that the CIA had a partnership with the company that ended in 1989 and wanted all material returned to the CIA.",
+          "note": "Page 28. The next bullet (pages 28-29) gives the 2009-2010 possession and the CIA official who 'quashed the proposal to remove the material from the corporation'.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "To release to us their collection of crash retrieval materials that they've had since before it got shut down in '89.",
+          "note": "The AAWSAP insider in Gerb's clip (the speaker names BAASS and EarthTech as 'us') says the executives' conversation with Gaffney took place 'during the OSAP', before Kona Blue.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Kona Blue Documents (Transcription).md",
+          "quote": "| DHS S&T 2011 Meetings: | Attendance |",
+          "note": "Page 34. The meeting log that follows starts on 6/10/2011. Kona Blue didn't exist in 2010.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "2011, of course, is the year of our thwarted technology transfer.",
+          "note": "Gerb dates Gaffney's block to 2011, and the 80 Years video ties it to Kona Blue.",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "This technology transfer agreement or TTA was ultimately thwarted by CIA's director of science and technology deputy director Glenn Gaffne as well as Mary Sturivant",
+          "note": "Said under the 2011 Kona Blue entry.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "But per the reporting of Chris Sharp and actually the Aerrow historical report volume one, there seemed to be one initial attempt to divest these materials from Loheed Martin to possibly an OAP-L like entity.",
+          "note": "Gerb knows the AARO report covers the episode, but he files it as a separate earlier attempt that he believes Clapper shut down.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for Gaffney/Gaffne, 'CIA official', 'technology transfer', '2010', '1989', 'historical report'. Gerb places Gaffney's block in 2011 with Kona Blue (Lockheed, 80 Years and NRO videos). One NRO-video line says 'the attempted transfer 2010/201', and the Gaffney page notes that other videos say 2008. No transcript sets the AARO report's 2010 date against Kona Blue's June 2011 start, or notes that the report puts the CIA official in the AAWSAP-era attempt.",
+      "weakest_link": "The AARO report anonymises everything: it never names Lockheed, Gaffney or Kona Blue. Matching its 'former named senior CIA official' and 'facility' to Gaffney and Lockheed is an inference, though the 2010 date, the CIA role and the 1989 detail make it likely. AARO's account also comes from the same interviewees (probably the AAWSAP circle), so it is not independent of the insider clip. It is the same story told to AARO, not a separate confirmation. Gerb's own dating varies (2008, 2010/2011, 2011), so a reviewer could call this drift rather than a firm position. Still, he consistently attaches Gaffney to the Kona Blue transfer, and no single slip explains that. The Burchett packet's 'proposed waived PAP Senator Reid was championing' could refer to Reid's June 2009 request to make AAWSAP a SAP (AARO page 23) rather than to Kona Blue. That reading would support this lead but needs the packet itself, which isn't in the vault. All of this can be checked against the public AARO PDF, the DHS Kona Blue release and Sharp's Liberation Times reporting.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0076",
+      "slice": "S037-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "AARO's report already answered the Lockheed transfer story with the CIA official's signed denial and a replica explanation",
+      "claim": "Gerb treats Lockheed's attempt to hand over recovered material, and the CIA's block on it, as a central and largely established episode. He cites the AARO report for it. He also says Gaffney 'has denied to reporters' any involvement. The report goes further on two points Gerb never relays. First, the named former CIA official gave AARO a signed Memorandum for the Record denying any knowledge of the transfer or of any extraterrestrial material, and the industry insider said to have been stopped also denied the allegation. Second, AARO offers an explanation for the whole story. A private organisation tried to replicate the 'Art's Parts'-type magnesium-bismuth sample (later analysed by the Army under a 2019 agreement) 'at the same specific location' where the interviewee said the transfer talks happened. AARO assesses that the reverse-engineering claim 'almost certainly was conflated with this material fabrication'. Whatever its merits, this is the government's on-record counter-account of the Lockheed story, and Gerb's videos never present it or argue against it.",
+      "entities": [
+        "AARO Historical Report Volume 1",
+        "Glenn Gaffney",
+        "Lockheed Martin",
+        "James T. Ryder",
+        "AARO"
+      ],
+      "videos": [
+        "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Documents/Transcriptions/AARO Historical Report Volume 1 (Transcription).md",
+          "quote": "The official signed a Memorandum for the Record (MFR) attesting to the truthfulness of his statements.",
+          "note": "Page 31. The paragraph also says that the person alleged to have stopped the transfer 'denied these allegations', and that the official had 'no knowledge of any extraterrestrial material in the possession of the USG or any other organization'.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/AARO Historical Report Volume 1 (Transcription).md",
+          "quote": "made an attempt to replicate the sample at the same specific location cited by the interviewee",
+          "note": "Page 33. The sentence ends 'as the location where the interviewee alleged to have participated in discussions about transferring UAP crash materials.'",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/AARO Historical Report Volume 1 (Transcription).md",
+          "quote": "The claim that extraterrestrial technology was being reverse-engineered almost certainly was conflated with this material fabrication.",
+          "note": "Page 33, AARO's assessment.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/AARO Historical Report Volume 1 (Transcription).md",
+          "quote": "The organization that owned the material negotiated an agreement in 2019 with the U.S. Army to analyze the samples.",
+          "note": "Page 32. Shows the sample's timeline. AARO doesn't date the replica attempt.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "Uh Glen Gaffne, I think he has denied to reporters that he was involved in this material transfer. However, of course, he is going to say that.",
+          "note": "Gerb's only mention of a denial is to reporters, with no mention of the signed AARO statement or the replica explanation.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'replica', 'replicat', 'bismuth', 'Art's Parts', 'memorandum for the record' and 'signed' near Gaffney, and 'conflat'. No transcript mentions AARO's replica explanation or the CIA official's signed MFR. The only replica hits are unrelated (ARVs, Aztec, Dugway).",
+      "weakest_link": "As in the timeline lead, the report is anonymised, so linking its facility and official to Lockheed and Gaffney is an inference. AARO's explanation is also itself weak on timing: talks in 2010 can't have been inspired by a replica unless the replica came first, and AARO never dates it ('Prior to AARO's acquisition of the sample'). The post would have to present AARO's counter-account fairly without endorsing it. This is a document-against-video omission rather than a factual clash. Its value is that Gerb cites this very report for the episode while leaving out the parts that cut against it. It can be checked against the public PDF, pages 31-33.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0077",
+      "slice": "S037-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The AARO report doesn't say Clapper shut down an early Lockheed transfer",
+      "claim": "In his Lockheed video Gerb says, 'running this off the top of my head', that the AARO report and Sharp describe an initial 2008/09 attempt to move Lockheed material to a DIA program, shut down with James Clapper's involvement. In the AARO report Clapper appears only once in this context. As Under Secretary of Defense for Intelligence he recommended against Senator Reid's June 2009 request to make AAWSAP a Special Access Program, and Deputy Secretary Lynn declined it. The report's only transfer episode is the 2010 one stopped by a former senior CIA official. Gerb probably merged the two passages.",
+      "entities": [
+        "AARO Historical Report Volume 1",
+        "James Clapper",
+        "AAWSAP",
+        "Lockheed Martin"
+      ],
+      "videos": [
+        "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "I'm running this off the top of my head, but I believe that uh James Clapper was involved in shutting this down if I'm trying to remember correctly.",
+          "note": "Gerb hedges as he says it.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/AARO Historical Report Volume 1 (Transcription).md",
+          "quote": "Deputy Secretary Lynn declined to do so based on the recommendation of then-Under Secretary of Defense for Intelligence, James R. Clapper, Jr., that such a designation was not justified.",
+          "note": "Page 23. About making AAWSAP a SAP, not about any material transfer.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/AARO Historical Report Volume 1 (Transcription).md",
+          "quote": "former named senior CIA official quashed the proposal to remove the material from the corporation.",
+          "note": "Page 29. The only transfer block the report describes, and it is credited to a CIA official, not Clapper.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched transcripts for Clapper near Lockheed/transfer. Only this Lockheed passage connects them.",
+      "weakest_link": "Gerb explicitly hedges, so this is a clear slip: footnote material, not a post. Sharp's reporting (not in the vault) might itself mention Clapper, in which case only the AARO attribution is wrong.",
+      "impact": 2,
+      "support": 4,
+      "slip": true
+    },
+    {
+      "id": "L0078",
+      "slice": "S038-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "corroboration",
+      "headline": "A 1947 FBI teletype in the GAO's Roswell report says the object was flown to Wright Field, and that Wright Field hadn't confirmed it was a balloon",
+      "claim": "Gerb says in several videos that the Roswell material went to Wright Field (now Wright-Patterson), but his support is witness testimony, Tom DeLonge's account of General McCasland, and inference ('supposedly', 'highly likely'). The 1995 GAO report on Roswell, which Gerb cites in four videos, reproduces in its appendix II the FBI Dallas teletype of 8 July 1947. That contemporaneous record, from the FBI and not from any witness, states that the disc and balloon were 'BEING TRANSPORTED TO WRIGHT FIELD BY SPECIAL PLANE FOR EXAMINAT[ION]', and that while the Eighth Air Force official said the object resembled a weather balloon with a radar reflector, 'TELEPHONIC CONVERSATION BETWEEN THEIR OFFICE AND WRIGHT FIELD HAD NOT ... BORNE OUT THIS BELIEF'. The GAO letter's own summary of the teletype (page 6) drops that clause and presents only the balloon description, and GAO then found no Air Materiel Command (Wright Field) record from 1947 to 1950 mentioning the crash or any examination of the debris, and no mention in the FBI Cincinnati abstracts, even though the teletype says Wright Field would be asked to report its examination results to Cincinnati. So an official 1947 record confirms the Wright Field leg of the custody story that Gerb rests on witnesses and DeLonge, and the government's own audit documents a gap in the records at exactly the place the object was being sent. No video mentions the teletype.",
+      "entities": [
+        "GAO Roswell Report (1995)",
+        "Roswell Crash",
+        "Wright Field",
+        "Air Materiel Command",
+        "Steven Schiff"
+      ],
+      "videos": [
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline",
+        "The Hidden Wing - US Air Force UFO Reverse Engineering Programs",
+        "UFOs in the Private Sector - Battelle Memorial Institute",
+        "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Documents/Transcriptions/GAO Roswell Report (1995) (Transcription).md",
+          "quote": "FURTHER ADVISED THAT THE OBJECT FOUND RESEMBLES A HIGH ALTITUDE WEATHER BALLOON WITH A RADAR REFLECTOR, BUT THAT TELEPHONIC CONVERSATION BETWEEN THEIR OFFICE AND WRIGHT FIELD HAD NOT [struck out, illegible] BORNE OUT THIS BELIEF. DISC AND BALLOON BEING TRANSPORTED TO WRIGHT FIELD BY SPECIAL PLANE FOR EXAMINAT[ION].",
+          "note": "Page 16 (appendix II), FBI Dallas teletype, 8 July 1947, 6:17 PM, to the Director and SAC Cincinnati, marked URGENT. The source is a redacted Eighth Air Force headquarters official.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Roswell Report (1995) (Transcription).md",
+          "quote": "ADVISED WOULD REQUEST WRIGHT FIELD TO ADVISE CINCINNATI OFFICE RESULTS OF EXAMINATION. NO FURTHER INVESTIGATION BEING CONDUCTED.",
+          "note": "Page 16, same teletype: results were to go to the FBI's Cincinnati office.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Roswell Report (1995) (Transcription).md",
+          "quote": "According to the Eighth Air Force official, the recovered object resembled a high-altitude weather balloon with a radar reflector. The message stated that no further investigation by the FBI was being conducted.",
+          "note": "Page 6, GAO's own letter: its summary of the teletype omits the 'had not borne out this belief' clause.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Roswell Report (1995) (Transcription).md",
+          "quote": "There was no mention in the Cincinnati office abstracts of the crash or recovery of an airborne object near Roswell.",
+          "note": "Page 7: the promised examination results never appear in the Cincinnati records.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Roswell Report (1995) (Transcription).md",
+          "quote": "We found no records mentioning the Roswell crash or the examination by Air Materiel Command personnel of any debris recovered from the crash.",
+          "note": "Page 7: GAO reviewed AMC (Wright Field) records from 1947 to 1950 and found nothing, despite the teletype's statement that the object was being flown there.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/transcript.md",
+          "quote": "But if Maclin's words to Tom Dong are true, seen as AMC operated out of Wright Patterson Air Force Base, it is not only a safe bet, but highly likely Air Material Command was the unit at Wright Patterson given custody of the Roswell wreckage.",
+          "note": "Gerb's case for AMC custody rests on DeLonge's account of McCasland; he does not cite the teletype.",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "processed at the nearby Roswell Army airfield, and biologics and materials were primarily taken to then Wright Field, now Wright Patterson Air Force Base.",
+          "note": "Gerb's claim about where the material went, stated without a documentary source.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFOs in the Private Sector - Battelle Memorial Institute/transcript.md",
+          "quote": "more damning is that this debris from a UFO was supposedly shipped to none other than you guessed it right Patterson Air Force Base",
+          "note": "Gerb hedges the Wright Field leg as 'supposedly'.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all video transcripts for 'teletype', 'borne out', 'special plane', 'Wyly', 'hexagonal', and FBI within 60 characters of Roswell: no hits anywhere. The GAO report is quoted only for Schiff's statement on destroyed outgoing messages (80 Years, Sandia) and mentioned in passing (Hidden Wing, Manhattan Project 2.0). Roswell-to-Wright references (8 transcripts) rest on Marcel, Corso, DeLonge/McCasland, Goldwater and inference, never the FBI record.",
+      "weakest_link": "The teletype records what an Eighth Air Force official said on the afternoon of 8 July about a flight in progress or planned; it does not show the object arrived or what it was. The official account (Air Force 1994 report) says Ramey identified the debris as a balloon that evening and the Wright Field flight was cancelled, which would also explain why AMC has no record. 'Had not borne out' means Wright Field had not confirmed the balloon identification, not that it had contradicted it, and the object described (hexagonal disc hung from a 20-foot balloon by cable) itself sounds like a radar reflector. So this confirms the Wright Field destination as stated in 1947, not the custody of exotic material or biologics. The struck-out word is illegible, but 'NOT' and 'BORNE OUT' are clear in the transcription; checkable on page 16 of the GAO PDF and in the FBI Vault. The teletype is well known among researchers (novelty known-elsewhere), but never shown on the channel.",
+      "impact": 4,
+      "support": 4,
+      "slip": false
+    },
+    {
+      "id": "L0079",
+      "slice": "S038-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The GAO report Gerb cites for illegally destroyed Roswell messages puts the gap down to routine undocumented disposal",
+      "claim": "In two videos Gerb quotes Representative Schiff's statement that the GAO found Roswell Army Air Field's outgoing messages 'destroyed without proper authority', that GAO estimated they were destroyed over 40 years earlier, and that they were permanent records; in the 80-year timeline he calls them 'Illegally destroyed documents' and ties them to a continuation of the 1994 'shred party' that David Grusch describes. The GAO report itself does not say 'without proper authority', gives no date for the destruction, and does not call the messages permanent records. It says only that the disposition form did not indicate who destroyed them, when, or under what authority; that the National Personnel Records Center's chief archivist said many Air Force records of the period were destroyed without a citation of the governing authority; and that GAO's own review of other destruction forms, including those for RAAF outgoing messages of 1950, bore him out. The destroyed span (October 1946 to December 1949, plus 1950) and the parallel destruction of all RAAF administrative records from March 1945 to December 1949 make the gap a broad one, not one aimed at July 1947. The report, as opposed to Schiff's gloss, treats the missing messages as a symptom of sloppy record-keeping of the era rather than an unauthorised purge.",
+      "entities": [
+        "GAO Roswell Report (1995)",
+        "Steven Schiff",
+        "Roswell Army Airfield",
+        "Roswell Crash",
+        "David Grusch"
+      ],
+      "videos": [
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline",
+        "Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Sandia National Laboratories - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "Schiff stated important documents which could shed light on Roswell were missing, stating, quotes, \"The GAO report states the outgoing messages from Roswell Army Airfield for this period of time were destroyed without proper authority.\" End quotes.",
+          "note": "Gerb relays Schiff's characterisation as what the report states.",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "Illegally destroyed documents. Hm. We kind of [music] see a continuation on that to the 1994 shred party to hide from Bill Clinton.",
+          "note": "Gerb's inference: the destruction was illegal and part of a pattern of concealment.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Roswell Report (1995) (Transcription).md",
+          "quote": "The document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.",
+          "note": "Page 4, Results in Brief: the report's own finding. No date, no 'without proper authority'.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Roswell Report (1995) (Transcription).md",
+          "quote": "The Center’s Chief Archivist stated that from his personal experience, many of the Air Force organizational records covering this time period were destroyed without entering a citation for the governing disposition authority. Our review of records control forms showing the destruction of other records—including outgoing RAAF messages for 1950—supports the Chief Archivist’s viewpoint.",
+          "note": "Page 6: GAO endorses the archivist's view that undocumented disposal was common, and notes the 1950 messages went the same way.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Roswell Report (1995) (Transcription).md",
+          "quote": "Our search of government records was complicated by the fact that some records we wanted to review were missing and there was not always an explanation. Further, the records management regulations for the retention and disposition of records were unclear or changing during the period we reviewed.",
+          "note": "Page 9: GAO frames missing records as a general problem of unclear rules.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'outgoing messages', 'Schiff' (and 'shift' as a caption variant), 'General Accounting', 'GAO', 'chief archivist', '1950': only 80 Years and Sandia discuss the destroyed messages, and both relay Schiff's statement without the report's chief-archivist or 1950 passages. Hidden Wing and Manhattan Project 2.0 mention the inquiry only in passing.",
+      "weakest_link": "Gerb quotes Schiff accurately, so this is Schiff's gloss against the report, which Gerb passes on as the report's finding; not a slip. Schiff's 'without proper authority' is a defensible reading of 'did not properly indicate the authority', and the 40-year estimate may have come from GAO staff rather than the text. The report does not prove the destruction was innocent either: it simply finds no record of who or why. The vault's Kissner and Schiff pages already carry edit cards noting the 'without proper authority' wording is Schiff's, so the novel part is the 1950 messages and the archivist's general-practice point, which undercut the targeted-purge reading. Checkable on pages 4 and 6 of the GAO PDF and Schiff's 28 July 1995 press release.",
+      "impact": 4,
+      "support": 4,
+      "slip": false
+    },
+    {
+      "id": "L0080",
+      "slice": "S038-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Gerb dates Kissner's prompting of the Roswell GAO probe after the probe had begun",
+      "claim": "In the 80-year timeline Gerb says that 'in 1995' Kissner's disclosures prompted Schiff to 'immediately initiate' the GAO probe, and in The Hidden Wing that Kissner interviewed legacy program personnel 'between 1994 and 1995' and shared the findings with Schiff, who 'ultimately launched' the investigation. The GAO report says the review ran from March 1994 to June 1995 and gives Schiff's motive as concern that the Department of Defense had not given him all available information. Gerb also calls Schiff a fellow 'New Mexico State Representative'; he was a US Representative, and the report is addressed to him at the House of Representatives. In Manhattan Project 2.0 Gerb dates Kissner's interviews to the early 1990s, which fits, so the 1995 and 1994-1995 dates look like slips.",
+      "entities": [
+        "GAO Roswell Report (1995)",
+        "Andrew Kissner",
+        "Steven Schiff"
+      ],
+      "videos": [
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline",
+        "The Hidden Wing - US Air Force UFO Reverse Engineering Programs",
+        "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "And I want to mention in a parallel entry here that in 1995, Representative Kner's disclosures prompted fellow New Mexico State Representative Steven Schiff to immediately initiate a General Accounting Office GAO probe",
+          "note": "Dates the prompting to 1995 and calls Schiff a state representative.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/transcript.md",
+          "quote": "Kner would bravely conduct numerous interviews with firstirhand legacy program personnel between 1994 and 1995 and actually share his findings with select individuals such as Congressman Steven Schiff, who ultimately launched an intriguing investigation into Roswell.",
+          "note": "Interviews dated 1994-1995.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/transcript.md",
+          "quote": "In the early 1990s, New Mexico State Rep. Kisner embarked on a proto-David Grusch-esque journey, interviewing and interfacing with as many UFO legacy program firsthanders as humanly possible.",
+          "note": "A date that fits the GAO timeline.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Roswell Report (1995) (Transcription).md",
+          "quote": "We conducted our review from March 1994 to June 1995 in accordance with generally accepted government auditing standards.",
+          "note": "Page 10.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Roswell Report (1995) (Transcription).md",
+          "quote": "Concerned that the Department of Defense (DOD) may not have provided you with all available information on the crash, you asked us to determine the requirements for reporting air accidents similar to the crash near Roswell and identify any government records concerning the Roswell crash.",
+          "note": "Page 3: the stated motive.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched transcripts for Schiff/Kissner and caption variants (Kner, Kisner, Kistner, Knisser, Kitchener) and 'General Accounting'; no video gives the March 1994 start date or the DOD-stonewalling motive.",
+      "weakest_link": "Probable slips: a misremembered year carried over from the report's 1995 release date, and 'state' carried over from Kissner's title. The report's stated motive does not rule out Kissner as background influence. The vault's Andrew Kissner page already notes the timing, so this is a footnote candidate only.",
+      "impact": 2,
+      "support": 4,
+      "slip": true
+    },
+    {
+      "id": "L0081",
+      "slice": "S039-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "smoking-gun",
+      "headline": "The CIA's own 1953 memo spells out a media campaign to debunk UFOs, down to Walt Disney and Arthur Godfrey",
+      "claim": "Gerb's case that the UFO stigma was deliberately manufactured (The Origin of the UFO Stigma, and repeated in several later videos) rests on later recollections: Thornton Page's 1993 statement that Robertson told members to debunk, and Hynek's 1979 'don't rock the boat' remark. He never quotes the CIA's own record. The Durant memorandum of 16 February 1953 (the Robertson Panel Report as archived here), written for the CIA's Assistant Director for Scientific Intelligence and classified SECRET, sets out in an internal 'unofficial supplement', explicitly kept out of the formal report, an educational program with two aims, 'training and \"debunking\"'. The debunking aim is to reduce public interest in flying saucers through television, motion pictures and popular articles; the panel names psychologists (Hadley Cantril), an advertising expert, Arthur Godfrey as a mass-audience channel, the Jam Handy Co. and Walt Disney cartoons, and expects the program to run for one and a half to two years. That is a contemporaneous, official, written plan to shape public opinion against UFOs, independent of Page's and Hynek's later memories, and it is far more specific than anything the videos show.",
+      "entities": [
+        "Robertson Panel Report",
+        "Robertson Panel",
+        "Howard P. Robertson",
+        "Thornton Page",
+        "J. Allen Hynek",
+        "CIA"
+      ],
+      "videos": [
+        "The Origin of the UFO Stigma",
+        "The Alien and UFO Obscure Oddities Iceberg (Level 2)",
+        "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2"
+      ],
+      "evidence": [
+        {
+          "source": "Documents/Transcriptions/Robertson Panel Report (Transcription).md",
+          "quote": "b. An unofficial supplement to the official Panel Report to AD/SI setting forth comments and suggestions of the Panel Members which they believed were inappropriate for inclusion in the formal report (Part II).",
+          "note": "Page 3. Durant's statement of purpose: Part II, which holds the debunking plan, records what the members chose to keep out of the formal report.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Robertson Panel Report (Transcription).md",
+          "quote": "The Panel's concept of a broad educational program integrating efforts of all concerned agencies was that it should have two major aims: training and \"debunking\".",
+          "note": "Page 21, section 'Educational Program'.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Robertson Panel Report (Transcription).md",
+          "quote": "The \"debunking\" aim would result in reduction in public interest in \"flying saucers\" which today evokes a strong psychological reaction. This education could be accomplished by mass media such as television, motion pictures, and popular articles.",
+          "note": "Page 22. The passage goes on: 'As in the case of conjuring tricks, there is much less stimulation if the \"secret\" is known.'",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Robertson Panel Report (Transcription).md",
+          "quote": "Arthur Godfrey was mentioned as possibly a valuable channel of communication reaching a mass audience of certain levels.",
+          "note": "Page 23, alongside Cantril, Marquis, Rosten and 'perhaps an advertising expert'.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Robertson Panel Report (Transcription).md",
+          "quote": "The Jam Handy Co. which made World War II training films (motion picture and slide strips) was also suggested, as well as Walt Disney, Inc. animated cartoons.",
+          "note": "Page 23.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Robertson Panel Report (Transcription).md",
+          "quote": "The Panel believed that, with ATIC's support, the educational program of \"training and debunking\" outlined above might be required for a minimum of one and one-half to two years.",
+          "note": "Page 24.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Origin of the UFO Stigma/transcript.md",
+          "quote": "however signatory to the report thoron L page admits on the 3rd of October 1993 that the chairman told members ahead of the meeting to debunk all UFO reports presented to them and to quote reduce public concern",
+          "note": "Gerb's evidence for intent is a 1993 recollection, plus Hynek's 1979 remark; the 1953 memo is never quoted.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Origin of the UFO Stigma/transcript.md",
+          "quote": "it's no secret the UFO phenomena has a massive stigma around it associated with conspiracy y with wack jobs with ghosts and Bigfoot and as we've seen in this video that's very real and very planned",
+          "note": "Gerb's thesis, which the memo's own words support directly.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for Disney, Godfrey, Cantril, Jam Handy, 'mass media', 'gospel', Durant, Chadwell, inimical and 'unofficial': no hits in any Robertson context. 'debunk' appears in 16 transcripts, but in Robertson passages only as Gerb's characterisation ('constructed specifically to debunk') or Page's 1993 recollection, never as a quote from the CIA document. The NRO video shows only Tab B (evidence list). The Concepts/Robertson Panel page mentions 'mass media' and 'debunk' in general terms but no video does.",
+      "weakest_link": "Well known among researchers (the Durant report has been public since the 1970s and the Disney/Godfrey lines are often quoted), so novelty is known-elsewhere; that's still fine for Gerb's audience. In context the program is framed as reducing 'gullibility' and 'susceptibility to clever hostile propaganda', a Cold War rationale, not a stated aim of hiding recovered craft, so the post must not claim it shows concealment of anything beyond public interest. No evidence here that the plan was ever carried out. The key passages (pages 21-24) are clean readings with no bracketed words; checkable on the CIA CREST PDF (CIA-RDP79B00752A000300100010-4).",
+      "impact": 4,
+      "support": 5,
+      "slip": false
+    },
+    {
+      "id": "L0082",
+      "slice": "S039-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "corroboration",
+      "headline": "The CIA set the Robertson Panel's framing before it heard any evidence, and showed its draft to Air Force intelligence before the panel finished",
+      "claim": "Gerb argues in The Origin of the UFO Stigma that the Robertson Panel's conclusions were predetermined, citing Thornton Page's 1993 recollection and Ruppelt being barred from the CIA. The Durant memo independently records part of this. At the first session, before any case was reviewed, the CIA's Office of Scientific Intelligence briefed the panel on its 'concern over potential dangers to national security indirectly related to these sightings' and Philip Strong 'enumerated these potential dangers'. In Part II the panel says it was 'in agreement with O/SI opinion' that such related dangers existed (misidentification, clogged channels, mass hysteria), and those dangers are the core of the formal Tab A conclusion 3a. On the last morning, while the panel was still revising, the CIA's Assistant Director had already shown the rough draft to the USAF Director of Intelligence and reported a favourable reaction. And one of the five signatories, Lloyd Berkner, missed every evidence session and arrived only for the Friday afternoon session where tentative conclusions were reached. The document confirms that the CIA framed the danger the panel would address, and steered the draft, which is the documentable part of Gerb's 'predetermined' claim.",
+      "entities": [
+        "Robertson Panel Report",
+        "Robertson Panel",
+        "CIA",
+        "Thornton Page",
+        "Howard P. Robertson"
+      ],
+      "videos": [
+        "The Origin of the UFO Stigma",
+        "Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Origin of the UFO Stigma/transcript.md",
+          "quote": "so what we can derive here is the Robertson's panel's conclusions were predetermined in order to devalue UFOs and attribute them to nonsense and misidentified prosaic phenomena",
+          "note": "Gerb's claim.",
+          "verified": true
+        },
+        {
+          "source": "Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/transcript.md",
+          "quote": "Robertson panel was given prior mandates that the conclusions of the panel at the CIA's behest were to reduce public concern on the topic",
+          "note": "Gerb restates it later; no document cited.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Robertson Panel Report (Transcription).md",
+          "quote": "O/SI concern over potential dangers to national security indirectly related to these sightings. Mr. Strong enumerated these potential dangers.",
+          "note": "Page 4, Wednesday morning, the opening session, before Robertson enumerated the evidence.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Robertson Panel Report (Transcription).md",
+          "quote": "The Panel Members were in agreement with O/SI opinion that, although evidence of any direct threat from these sightings was wholly lacking, related dangers might well exist resulting from:",
+          "note": "Page 17, 'Potential Related Dangers'. The three listed dangers reappear in Tab A, conclusion 3a (page 27-28).",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Robertson Panel Report (Transcription).md",
+          "quote": "At 1100 the AD/SI joined the meeting and reported that he had shown and discussed a copy of the initial rough draft to the Director of Intelligence, USAF, whose reaction was favorable.",
+          "note": "Page 8, Saturday morning, during the panel's revision of the draft.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Robertson Panel Report (Transcription).md",
+          "quote": "Panel Member, Dr. Lloyd V. Berkner, was absent until Friday afternoon.",
+          "note": "Page 4. Page 8 adds 'This draft had been reviewed and approved earlier by Dr. Berkner.'",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for Strong, O/SI, 'Office of Scientific Intelligence', Chadwell, Durant, Berkner, 'rough draft', 'Director of Intelligence' in Robertson passages: none. Gerb's 'predetermined' argument (Stigma video) cites Page 1993, Hynek 1979 and the Bower/Ruppelt episode only.",
+      "weakest_link": "Consistent rather than confirming on the strongest reading: the CIA posing its concern and the panel agreeing is not an instruction to debunk, and the memo never says conclusions were fixed in advance. Berkner did attend the Friday afternoon session where tentative conclusions were reached, so his overnight approval of the draft is normal logistics; the point is only that he heard no evidence. Showing a draft to the USAF DI may be routine coordination. The post must say it confirms CIA framing and steering, not Page's specific claim that Robertson told members to debunk. Clean readings, checkable on the CREST PDF.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0083",
+      "slice": "S039-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "hidden-link",
+      "headline": "An alleged Majestic-12 member signed the CIA panel report that said there was no UFO hardware",
+      "claim": "In The Manhattan Project 2.0 Gerb reads Dr. Lloyd Berkner into the original Majestic-12 roster from the Eisenhower Briefing Document (dated 18 November 1952), and notes that William Steinman put Berkner on the scientific team at the 1948 Aztec recovery. Gerb never mentions that the same Lloyd V. Berkner was one of the five signatories of the Robertson Panel report two months after the EBD's date. The Durant memo records that Berkner missed every evidence session, arriving only on Friday afternoon, yet reviewed and approved the chairman's draft before the full panel saw it; and the panel's chairman, Robertson, contrasted UFOs with the V-1/V-2 problem precisely on 'the absence of any \"hardware\"'. So either a man whom the MJ-12 papers and Steinman place at the heart of crash recovery helped sign off a CIA finding that no hardware existed (consistent with Gerb's 'real research went on behind the scenes' thesis, and with Berkner acting as an insider on the panel), or Berkner's presence on a panel working from a no-hardware premise counts against those rosters. Either reading changes how the Robertson Panel and the MJ-12 roster read, and no video sets them side by side.",
+      "entities": [
+        "Robertson Panel Report",
+        "Robertson Panel",
+        "Majestic 12",
+        "Eisenhower Briefing Document",
+        "Aztec UFO Crash and Recovery",
+        "Howard P. Robertson"
+      ],
+      "videos": [
+        "The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1",
+        "The Origin of the UFO Stigma"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/transcript.md",
+          "quote": "General Robert [music] H. Montague, as well as Dr. Lloyd Berkner.",
+          "note": "End of Gerb's reading of the EBD's original Majestic 12 roster.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/transcript.md",
+          "quote": "featured three original accused Majestic 12 members, including Dr. Detlev Wulf Bronk, Dr. Lloyd Berkner, and Dr. Jerome Hunsaker.",
+          "note": "Steinman's Aztec recovery science team, which Gerb reports while faulting Steinman's sourcing.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Robertson Panel Report (Transcription).md",
+          "quote": "| Dr. Lloyd V. Berkner | Associated Universities, Inc. | Geophysics |",
+          "note": "Page 31, Tab C, listed as a full panel member; he also signs Tab A (page 28).",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Robertson Panel Report (Transcription).md",
+          "quote": "Panel Member, Dr. Lloyd V. Berkner, was absent until Friday afternoon.",
+          "note": "Page 4.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Robertson Panel Report (Transcription).md",
+          "quote": "This draft had been reviewed and approved earlier by Dr. Berkner.",
+          "note": "Page 8, Saturday morning: the draft reached the other members already approved by the one member who had heard no evidence.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Robertson Panel Report (Transcription).md",
+          "quote": "The absence of any \"hardware\" resulting from unexplained U.F.O. sightings lends a \"will-of-the wisp) [sic] nature to the ATIC problem.",
+          "note": "Page 12, Robertson's opinion in Part II, contrasted with crashed V-2 hardware from Sweden in 1944.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts and summaries for Berkner (and Burkner, Birkner): only The Manhattan Project 2.0, which never mentions the Robertson Panel. None of the 12 transcripts that mention Robertson names Berkner. The Majestic 12 page lists Berkner but not his panel role; there is no People page for him.",
+      "weakest_link": "The EBD is provenance: disputed, and Steinman's Aztec roster is undocumented (Gerb says so), so the MJ-12 half is an allegation, not a fact; the post can only say 'the man these papers name'. The same-person identity is solid (Dr. Lloyd V. Berkner, geophysicist, Associated Universities). Neither reading (insider steering vs. evidence against MJ-12) can be proved from the vault, so it is an open question of significance rather than a finding of fact. Known elsewhere: MJ-12 researchers (e.g. Stanton Friedman) and skeptics have both pointed to Berkner's panel seat. The 'hardware' remark is Robertson's, not Berkner's.",
+      "impact": 4,
+      "support": 4,
+      "slip": false
+    },
+    {
+      "id": "L0084",
+      "slice": "S040-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Gerb places Pax River in Virginia; the base, and Pais's patent address, are in Maryland",
+      "claim": "In the Off-World Technologies Division video, Gerb says Naval Air Station Pax River is \"Located in Virginia\" while presenting Salvatore Pais's craft patent as a Pax River product. Naval Air Station Patuxent River is in St. Mary's County, Maryland, and the patent (US 10,144,532 B2) gives the inventor's address as Leonardtown, Maryland, with NAWCAD as attorney of record. Gerb probably mixed it up with the Navy's Virginia sites, such as Dahlgren, or with MITRE's McLean, Virginia site, which he names alongside Pax River in his MITRE video. This is a footnote candidate, not a post.",
+      "entities": [
+        "Craft Using an Inertial Mass Reduction Device",
+        "Naval Air Station Patuxent River",
+        "Salvatore Pais"
+      ],
+      "videos": [
+        "Off-World Technologies Division – UAP Technology Reverse Engineering"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Off-World Technologies Division – UAP Technology Reverse Engineering/transcript.md",
+          "quote": "Pax River is a very important message here. Located in Virginia, Navare Pax River is almost a counterpart to Navc crane.",
+          "note": "Gerb's statement of the base's location, straight after the Pais patent and Kobitz passage.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Craft Using an Inertial Mass Reduction Device (Transcription).md",
+          "quote": "| (72) | Inventor: | Salvatore Cezar Pais, Leonardtown, MD (US) |",
+          "note": "Page 1. The patent puts the inventor in Leonardtown, Maryland, the St. Mary's County town beside Pax River. The attorney of record is NAWCAD (page 1), which is headquartered at Pax River.",
+          "verified": true
+        },
+        {
+          "source": "Locations/Naval Air Station Patuxent River.md",
+          "quote": "Naval Air Station Patuxent River (\"Pax River\"), located in St. Mary's County, Maryland",
+          "note": "The vault's location page agrees with the patent.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched every transcript for 'Pax River' or 'Patuxent' within 200 characters of 'Virginia' or 'Maryland'. Only this Off-World passage puts Pax River in a state. The MITRE video mentions MITRE's McLean, Virginia site next to Pax River but doesn't give Pax River's state. No video says Maryland. The Off-World summary has no footnote on this; only the patent's own page notes the error.",
+      "weakest_link": "It's almost certainly a single slip: a misremembered state in a passing remark, perhaps carried over from the Virginia Navy and MITRE sites he talks about elsewhere. Pax River's location is easy to confirm from NAVAIR's public pages. Nothing in the video's argument depends on which state the base is in.",
+      "impact": 1,
+      "support": 5,
+      "slip": true
+    },
+    {
+      "id": "L0085",
+      "slice": "S041-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The 1986 Lockheed audit Gerb ties to the Wilson-Davis notes was reported at the time as being about the stealth fighter",
+      "claim": "In three videos Gerb proposes that the GAO audit of Lockheed's Burbank special access program (testified to Congress on July 24, 1986, reported to Weinberger August 7, 1986) may be the audit that, per the Wilson-Davis notes, 'almost exposed' the UFO legacy program and led to the 1994 SAPOC reorganization. The report itself withholds the program's identity: GAO says DOD granted it access only on condition that it 'not identify the nature of the program or the specific DOD component or military service involved', and notes that some SAPs' very existence is classified. Contemporary 1986 press (e.g. Daily Tar Heel, Aug. 26, 1986, citing the same 1,460 figure) and the Congressional Record index (Senate remarks, July 1986, on mismanaged classified documents 'dealing with Stealth fighter') identified the program as Lockheed's then-unacknowledged F-117 stealth fighter, which the Air Force acknowledged in November 1988. No video mentions this identification. The narrower finding: the specific audit Gerb offers as the Wilson-Davis audit was publicly attributed to a non-UFO black program, it was an external congressional/GAO audit triggered by Lockheed employee tips (not an 'internal' audit as Gerb paraphrases the notes), and it was openly aired in a public hearing eight years before the 1994 reorganization. That weakens, though it cannot exclude, Gerb's theory.",
+      "entities": [
+        "GAO Report on Special Access Contracts (1986)",
+        "Wilson-Davis Memo",
+        "Lockheed Martin Skunk Works",
+        "Lockheed Martin",
+        "Special Access Programs (SAPs)"
+      ],
+      "videos": [
+        "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
+        "UFOs in the Private Sector - Lockheed Martin",
+        "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/transcript.md",
+          "quote": "Lockheed's Burbank skunk works site that I and others have associated with running UFO legacy program SAPS was investigated for poor carveout security controls by the GAO in 1986. Was this audit the smoking gun of locked UFO legacy programs being nearly outed that actually led to the reorganization of SAPO",
+          "note": "Gerb's theory, stated as a question.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFOs in the Private Sector - Lockheed Martin/transcript.md",
+          "quote": "we have our audit trail that you know very likely is involved with the audit mentioned in the Wilson Davis memo",
+          "note": "In the first Lockheed video he calls the link 'very likely'.",
+          "verified": true
+        },
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "I theorized this GAO investigation into thousands of instances of poor document control and sometimes unauthorized [music] document destruction at 53 document control substations nearly exposed Lockheed's legacy program operations.",
+          "note": "He repeats the theory in the NRO video (alongside other candidate audits).",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Report on Special Access Contracts (1986) (Transcription).md",
+          "quote": "we agreed not to identify the nature of the program or the specific DOD component or military service involved.",
+          "note": "Page 7, footnote 1. GAO withholds the program's identity by agreement with DOD; the report never names it.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Report on Special Access Contracts (1986) (Transcription).md",
+          "quote": "The existence of some special access programs is acknowledged by DOD. Others are not and their very existence is classified.",
+          "note": "Page 7. Consistent with an unacknowledged program in 1986, which the F-117 then was.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Report on Special Access Contracts (1986) (Transcription).md",
+          "quote": "At about the same time, your Subcommittee received information from some Lockheed employees concerned about the company's document security, and your Subcommittee became involved in the issue.",
+          "note": "Page 8. The audit was congressional, prompted by employee tips, and public, not an internal audit.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Wilson-Davis Memo.md",
+          "quote": "The committee told Wilson it had formed after a near-disaster, when a past audit investigation almost exposed the program.",
+          "note": "The audit the Wilson-Davis notes describe (provenance: leaked).",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for 'stealth', 'F-117', 'Senior Trend', 'Dingell', '1,460/1460', 'agreed not to', 'nature of the program'. F-117 appears in the Lockheed videos only as general Skunk Works history; no transcript ties the 1986 GAO audit to the stealth fighter or mentions the non-identification agreement or Dingell's subcommittee.",
+      "weakest_link": "The stealth identification rests on 1986 press and a Congressional Record index entry (found via search snippets: Daily Tar Heel 26 Aug 1986, govinfo CRI-1986 'Lockheed Corp'); the GAO report never names the program, so the writer must confirm with a primary record (Congressional Record text, LA Times/NYT 1986, or GAO's Nov. 1987 follow-up briefing report gao.gov/assets/80/76818.pdf). Even if the program was the F-117, a large Lockheed SAP could have held other compartments, so this weakens rather than refutes Gerb's theory; he also offers it as one of several candidates (1993 GAO due-process report, NRO 1992-95 audits), which caps impact. The Wilson-Davis notes are leaked. Not a slip: it concerns the identity of the audited program.",
+      "impact": 4,
+      "support": 3,
+      "slip": false
+    },
+    {
+      "id": "L0086",
+      "slice": "S041-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The 46 destroyed and 17 transferred Lockheed documents were accounted for, not missing",
+      "claim": "In his first Lockheed video Gerb says that in the 1986 GAO audit 46 documents were destroyed and 17 transferred out of Lockheed 'and were never discovered', calling it 'extremely suspicious'. The GAO testimony lists both figures among the 224 resolved cases: 46 destroyed 'with destruction receipts reportedly on file' and 17 transferred out of the company. Only 11 were unresolved (7 inadvertently destroyed, 4 not located), with 1,225 discrepancies still under investigation. His later Lockheed video gives the figures correctly, so this is a misreading in one passage: a footnote candidate.",
+      "entities": [
+        "GAO Report on Special Access Contracts (1986)",
+        "Lockheed Martin"
+      ],
+      "videos": [
+        "UFOs in the Private Sector - Lockheed Martin",
+        "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/UFOs in the Private Sector - Lockheed Martin/transcript.md",
+          "quote": "an estimated 46 documents were destroyed and 17 were transferred out of the company and were never discovered",
+          "note": "Gerb's reading in the first Lockheed video.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Report on Special Access Contracts (1986) (Transcription).md",
+          "quote": "Lockheed says that 7 of the 11 unresolved documents were inadvertently destroyed, and it could not locate the other 4. For the 224 resolved cases, Lockheed lists the following dispositions:",
+          "note": "Page 8. The 46 and 17 follow on page 9 under the resolved cases.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Report on Special Access Contracts (1986) (Transcription).md",
+          "quote": "- 46 documents that had been destroyed, with destruction receipts reportedly on file; and",
+          "note": "Page 9, a resolved disposition.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Checked the later Lockheed video, which states '11 discrepancies were listed as unresolved ... and 224 of these cases were actually resolved', correcting the earlier reading.",
+      "weakest_link": "A single misreading of the list by Gerb explains it; slip. The same passage also credits the testimony to Conahan (it was Ferber; the vault page already notes this) and says 'zero oversight' where GAO says ineffective oversight by an on-site representative.",
+      "impact": 2,
+      "support": 5,
+      "slip": true
+    },
+    {
+      "id": "L0087",
+      "slice": "S042-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "The 1993 audit Gerb links to the Wilson-Davis cover-up left unacknowledged programs out by agreement",
+      "claim": "In three videos Gerb offers the GAO's May 1993 report GAO/NSIAD-93-162 as a candidate for the audit that, per the Wilson-Davis notes, nearly exposed the UFO legacy programs and prompted the SAPOC/Senior Review Group restructuring, and he reads its finding (the Army gave due process in SAP access denials, the Navy and Air Force did not) as fitting tightly overseen Army programs versus loosely run Navy and Air Force legacy programs. The report itself undercuts both readings. It was a personnel-security review requested by House Post Office and Civil Service chairmen about whether people whose SAP or SCI access was pulled were told why and could appeal; it did not audit any program's content, money or records. And on page 13 GAO says DoD refused it cases from unacknowledged programs (10 to 20 percent of all SAPs) and that it 'agreed to review access denials and revocations for only the presumably less sensitive acknowledged programs'; page 7 adds the services told GAO 'unacknowledged program cases would be excluded'. The memo describes the legacy programs as a subset of waived, unacknowledged carve-outs, so this review was walled off from exactly that category by design. The Navy/Air Force 'noncompliance' was also more secrecy, not less: they applied the Director of Central Intelligence's minimum procedures (with waivers) and did not tell employees anything, which DoD defended as necessary for its most sensitive programs; the Army's compliance rests on three cases. What the report does show, in DoD's own 29 April 1993 letter, is the machinery of the kind of access wall Wilson describes: waivers of all access process 'for programs of such extreme sensitivity that knowledge of their existence would endanger national security', approved by the Deputy Secretary of Defense (William Perry from March 1993), and DepSecDef-approved 'upgraded adjudicative criteria'.",
+      "entities": [
+        "GAO Report on Special Access Program Due Process (1993)",
+        "Wilson-Davis Memo",
+        "SAPOC (Special Access Program Oversight Committee)",
+        "Special Access Programs (SAPs)",
+        "Frank Conahan"
+      ],
+      "videos": [
+        "UFO Legacy Programs - Science Applications International Corporation (SAIC)",
+        "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
+        "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers/transcript.md",
+          "quote": "In the SIC project, I explored a theory that the need for UFO legacy program operations to restructure the special access program oversight committee to avoid any further instances of exposure through audits arose from a general accounting office May 1993 report titled DoD special access programs administrative due process not provided when access is denied or revoked.",
+          "note": "Gerb's theory, repeated in the Lockheed video almost word for word.",
+          "verified": true
+        },
+        {
+          "source": "Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/transcript.md",
+          "quote": "And according to some of my research, this makes sense to me as well as I am familiar with cases in which the US Army seem to operate UFO material exploitation programs in a strict controlled environment with oversight, while Navy and Air Force legacy programs seem to operate far more loosely and out of control.",
+          "note": "Gerb's reading of the service split.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Report on Special Access Program Due Process (1993) (Transcription).md",
+          "quote": "When we started our review, DOD was reluctant to give us SAP cases from unacknowledged programs because of security reasons. DOD told us that such programs accounted for about 10 to 20 percent of the total number of SAPs. We agreed to review access denials and revocations for only the presumably less sensitive acknowledged programs.",
+          "note": "Page 13 (DOD Comments and Our Evaluation). The audit never saw unacknowledged programs.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Report on Special Access Program Due Process (1993) (Transcription).md",
+          "quote": "Because DOD does not maintain centralized records on SAP denials and revocations, we could only review the cases provided by the services, who told us that unacknowledged program cases would be excluded.",
+          "note": "Page 7. GAO reviewed only cases the services chose to hand over.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Report on Special Access Program Due Process (1993) (Transcription).md",
+          "quote": "This report responds to your request that we review the due process procedures and practices for individuals whose access to special access programs (SAP) and sensitive compartmented information (SCI) in the Army, Navy, and Air Force is denied or revoked.",
+          "note": "Page 3. Purpose: personnel due process, requested by House Post Office and Civil Service and Judiciary subcommittee chairmen.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Report on Special Access Program Due Process (1993) (Transcription).md",
+          "quote": "The Army gave us six cases; however, it had discharged three of the individuals before it had the opportunity to adjudicate their access or provide administrative due process.",
+          "note": "Page 8. The Army 'compliance' rests on three cases; GAO says the sample was too small to conclude overall compliance.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Report on Special Access Program Due Process (1993) (Transcription).md",
+          "quote": "Within the DoD, such waivers should only be invoked when approved by the Deputy Secretary of Defense for programs of such extreme sensitivity that knowledge of their existence would endanger national security.",
+          "note": "Page 26, DoD's 29 April 1993 letter signed by Maynard Anderson. What the report does document: a DepSecDef-approved waiver tier for programs whose existence is itself secret.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Wilson-Davis Memo.md",
+          "quote": "The watch committee still denied him access, because he was not on the bigot list and did not meet their undisclosed special criteria.",
+          "note": "Vault page summary of the leaked memo; for comparison with DoD's 'upgraded adjudicative criteria' (pages 27, 29, 33).",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Read the passage on the report in all three videos (SAIC, Lockheed Martin, NRO); none mentions that unacknowledged programs were excluded, that the review was about personnel due process requested by civil-service committees, or the DoD letter. Searched all transcripts for 'due process', 'adjudicative', 'upgraded', 'extreme sensitivity', '1/14', 'Maynard', 'Heivilin', 'Civil Service', 'compelling need': the report's terms appear only in these three passages (the Sandia 'compelling need' hit is an unrelated NNSA land-use quote).",
+      "weakest_link": "Gerb frames this only as a theory and 'possibly useful data', so the finding knocks down a hedged candidate, not a firm claim. The report could still have created pressure indirectly: DoD's reply says it was revising DoD Directive 0-5205.7 'Special Access Program Policy' in 1993, months before the January 1994 restructuring, so a writer must not claim the report had no bearing on SAP policy, only that it could not have come near unacknowledged programs. The exclusion is GAO's own words on pages 7 and 13 of a checked official transcription (no bracketed readings); the Wilson-Davis memo is leaked, and its 'audit' need not be a GAO one. The Navy/Air Force 'more secrecy' reading is inference from GAO's description. Not a slip: the reading recurs in three videos.",
+      "impact": 4,
+      "support": 4,
+      "slip": false
+    },
+    {
+      "id": "L0088",
+      "slice": "S042-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "footnote-candidate",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Gerb cites the 1993 GAO report's regulation as 62000.2-R; it is DoD 5200.2-R",
+      "claim": "In all three videos Gerb names the regulation the Navy and Air Force failed to follow as 'DoD regulation 62000.2-R' (or 62000.2/R). The report names DoD Regulation 5200.2-R, the DoD Personnel Security Program Regulation (January 1987). A footnote in each video summary (and on the document page, which already notes it) would correct it.",
+      "entities": [
+        "GAO Report on Special Access Program Due Process (1993)"
+      ],
+      "videos": [
+        "UFO Legacy Programs - Science Applications International Corporation (SAIC)",
+        "Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs",
+        "National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers"
+      ],
+      "evidence": [
+        {
+          "source": "Videos/UFO Legacy Programs - Science Applications International Corporation (SAIC)/transcript.md",
+          "quote": "which discusses the Navy and Air Force not complying with DoD regulation 62000.2/R which discussed special access program access.",
+          "note": "Same number in the Lockheed and NRO videos (62000.2-R).",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/GAO Report on Special Access Program Due Process (1993) (Transcription).md",
+          "quote": "Department of Defense Personnel Security Program Regulation, DOD 5200.2-R (Jan. 1987).",
+          "note": "Page 4, footnote 4.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Searched all transcripts for '5200' (no hits) and '62000' (only these three videos).",
+      "weakest_link": "Almost certainly a misreading or caption mishearing of the number, repeated because the passage was reused; no bearing on the argument.",
+      "impact": 1,
+      "support": 5,
+      "slip": true
+    },
+    {
+      "id": "L0089",
+      "slice": "S044-documents",
+      "found_at": "2026-10-18T02:21:32Z",
+      "status": "open",
+      "duplicate_of": null,
+      "problems": [],
+      "kind": "contradiction",
+      "headline": "Two months after Roswell, Twining's own secret letter said the Air Force had no crashed disc",
+      "claim": "Gerb's videos put Lieutenant General Nathan Twining at the centre of the 1947 Roswell recovery: the Majestic-12 video says the Eisenhower Briefing Document has Twining and Vannevar Bush collecting the craft and bodies, that the IPU report names Twining as aiding the recovery, that MJ-12 was formed by Truman's order on 24 September 1947, and Ryan Wood describes the White Hot Report as the Roswell team's analysis written up 'in September' and presented to the President. Other videos say the Roswell material went to Wright Field. Yet Twining's authentic SECRET letter of 23 September 1947, written as commander of the Air Materiel Command at Wright Field, after a conference that included AMC's own intelligence division (T-2), tells Army Air Forces headquarters that 'due consideration' must be given to 'the lack of physical evidence in the shape of crash recovered exhibits which would undeniably prove the existence of these objects', and raises the possibility that the discs are 'of domestic origin' or foreign with nuclear propulsion. Gerb shows this letter on screen and quotes its 'real and not visionary or fictitious' line in two videos, but never quotes the crash-exhibits line or sets it against the MJ-12 account of Twining, though the letter predates by one day the founding date the EBD gives for MJ-12. Either the letter is a deliberate cover statement to an uncleared intelligence office, or the MJ-12 documents' picture of Twining's summer of 1947 doesn't hold. Gerb leaves viewers with both pictures unreconciled.",
+      "entities": [
+        "Twining Memo",
+        "Nathan Twining",
+        "Eisenhower Briefing Document",
+        "MJ-12 Documents",
+        "Majestic 12",
+        "Roswell Crash",
+        "Air Materiel Command",
+        "Wright Field",
+        "Ryan S. Wood"
+      ],
+      "videos": [
+        "The Majestic-12 Documents With Ryan S. Wood",
+        "The Origin of the UFO Stigma",
+        "Global Air Force UFO Encounters You've Probably Never Heard of",
+        "80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline",
+        "MOON DUST - The Pentagon's Secret UFO Programs"
+      ],
+      "evidence": [
+        {
+          "source": "Documents/Transcriptions/Twining Memo (Transcription).md",
+          "quote": "(2) The lack of physical evidence in the shape of crash recovered exhibits which would undeniably prove the existence of these objects.",
+          "note": "Page 2, paragraph 2h, under 'Due consideration must be given the following'. Item (1) of the same list is the possibility of a domestic high-security project, item (3) foreign nuclear propulsion. Letter dated 23 September 1947, SECRET, signed by Twining as Commanding General, AMC, Wright Field, to CG Army Air Forces, attention Brig. Gen. Schulgen, AC/AS-2.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Twining Memo (Transcription).md",
+          "quote": "This opinion was arrived at in a conference between personnel from the Air Institute of Technology, Intelligence T-2, Office, Chief of Engineering Division, and the Aircraft, Power Plant and Propeller Laboratories of Engineering Division T-3.",
+          "note": "Page 1, paragraph 1. The opinion is the collective view of Wright Field's intelligence and engineering staff, the very place the videos say the Roswell material was taken.",
+          "verified": true
+        },
+        {
+          "source": "Documents/Transcriptions/Twining Memo (Transcription).md",
+          "quote": "(1) The possibility that these objects are of domestic origin - the product of some high security project not known to AC/AS-2 or this Command.",
+          "note": "Page 2, paragraph 2h(1). Cuts both ways: it shows Twining conceding projects outside his own knowledge, which defenders of MJ-12 could use.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "which according to the Eisenhower briefing document saw craft and body collection efforts by General Nathan Twining and Dr vavar Bush",
+          "note": "Gerb narrating the EBD's account of Roswell. (The vault's EBD page says the document actually has Twining and Bush directing the 'analytical effort'.)",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "Twining Vandenberg and others are named within this report as aiding in the recovery effort and overall operation",
+          "note": "Gerb on the IPU report, discussed in the context of the 1947 crash and Mogul flight 4.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "this is the group that went to Roswell and did a bunch of analysis and worked all over the summer to create this report uh in September so it happened in July",
+          "note": "Ryan Wood on the White Hot Report, which Gerb elsewhere in the video calls 'the Twining white hot report'. Wood puts its completion in September 1947, the month of the letter.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Majestic-12 Documents With Ryan S. Wood/transcript.md",
+          "quote": "formed by executive order of the president uh in September 24th 194 7",
+          "note": "Ryan Wood on MJ-12's founding date, the day after Twining's letter.",
+          "verified": true
+        },
+        {
+          "source": "Videos/The Origin of the UFO Stigma/transcript.md",
+          "quote": "Lieutenant General Twin's assertion that flying discs are quote real and not Visionary or fictitious as seen in this letter to aaf Commanding General George lugan",
+          "note": "Gerb shows and quotes the same letter, but only its 'real' line; the Global Air Force video does the same.",
+          "verified": true
+        },
+        {
+          "source": "Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/transcript.md",
+          "quote": "biologics and materials were primarily taken to then Wright Field, now Wright Patterson Air Force Base",
+          "note": "The videos' account of where the Roswell recovery went: Twining's own command.",
+          "verified": true
+        },
+        {
+          "source": "Videos/MOON DUST - The Pentagon's Secret UFO Programs/transcript.md",
+          "quote": "think of the Roswell case allegedly the crash materials were sent to rright Patterson Air Force Base",
+          "note": "Same claim in another video.",
+          "verified": true
+        }
+      ],
+      "not_said_check": "Grepped all transcripts for 'crash recovered', 'crash-recovered', 'physical evidence in the shape', 'domestic origin' and 'not visionary': the crash-exhibits phrase appears in no transcript; 'not visionary' only in the two Sign-origin videos, which quote paragraph 2a only. Twining (and 'Twinning', 'Twin's') appears in five transcripts (Global Air Force, Origin of the UFO Stigma, MJ-12 with Ryan Wood, Sandia, Manhattan Project 2.0); none mentions the letter's crash-exhibits line or weighs the 1947 letter against the MJ-12 Twining. The MJ-12 video never mentions the 1947 letter at all, only the 1954 Cutler-Twining memo. The vault's Twining Memo page notes the line is 'often quoted in arguments over the Roswell Crash' but no video makes the argument.",
+      "weakest_link": "Not a slip: the letter is quoted correctly where Gerb quotes it; the tension is between an official document and the MJ-12 papers. The well-known counter (Friedman and others) is that a SECRET letter to AC/AS-2, an office outside any Roswell compartment, would deny crash exhibits whatever the truth, and paragraph 2h(1) itself allows for a project 'not known to AC/AS-2 or this Command'. So the letter can't prove there was no recovery; the defensible claim is that Twining's only authenticated statement from that month says there were no crash-recovered exhibits, and the MJ-12 account requires it to be a cover statement. The MJ-12 documents (EBD, White Hot Report, IPU report) are disputed/leaked, so they are cited only for what they say. The White Hot Report's exact September 1947 date rests on Wood's remark here and wasn't confirmed by a quick web search; the 24 September 1947 founding date is in the EBD page. Checkable: the letter is in National Archives RG 18 and NAID 461456722; the argument is well known (Klass, Condon Appendix R), so novelty is likely known-elsewhere.",
+      "impact": 4,
+      "support": 4,
       "slip": false
     }
   ],
