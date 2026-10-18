@@ -562,7 +562,8 @@ entries:
 - **People**: [[Thomas Wilson]], [[Eric Davis]], [[Edgar Mitchell]], [[Will Miller]], [[Steven Greer]], [[James Rigney]], [[Oak Shannon]], [[Patrick M. Hughes]], [[Marshal Ward]], [[Bill Perry]], [[John Deutch]], [[Paul Kaminski]], [[Jacques Gansler]], [[Chris Mellon]], [[Luis Elizondo]], [[Ross Coulthart]], [[Richard Dolan]], [[Steven Greenstreet]], [[George Knapp]], [[John Greenewald]], [[Hal Puthoff]], [[David Grusch]], [[Harry Reid]], [[Gordon Cooper]], [[Robert Jacobs]], [[Jonathan Weygandt]]
 - **Organizations**: [[Defense Intelligence Agency]], [[SAPOC (Special Access Program Oversight Committee)]], [[National Security Council]], [[EG&G]], [[Lockheed Martin]], [[EarthTech]], [[NASA]], [[US Congress]], [[Majestic 12]]
 - **Locations**: [[Pentagon]], [[Los Alamos National Laboratory]]
-- **Concepts**: [[Wilson-Davis Memo]], [[Watch Committee]], [[Bigot List]], [[Special Access Programs (SAPs)]], [[Waived Unacknowledged Special Access Programs (USAPs)]], [[Alien Reproduction Vehicle (ARV)]]
+- **Concepts**: [[Watch Committee]], [[Bigot List]], [[Special Access Programs (SAPs)]], [[Waived Unacknowledged Special Access Programs (USAPs)]], [[Alien Reproduction Vehicle (ARV)]]
+- **Documents**: [[Wilson-Davis Memo]]
 - **Operations**: [[AATIP (Advanced Aerospace Threat Identification Program)]], [[Project Moon Dust]], [[Operation Bluefly]], [[Operation Zodiac]]
 - **Events**: [[1997 Meeting (Wilson, Miller, Mitchell, Greer, Hughes)]], [[Roswell Crash]]
 

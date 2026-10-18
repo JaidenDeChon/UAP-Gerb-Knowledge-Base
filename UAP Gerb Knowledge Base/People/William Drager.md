@@ -5,7 +5,7 @@ tags:
   - person
 ---
 
-William Drager is a former US Air Force member who served as a Spanish-language interpreter and provided a formal affidavit corroborating elements of the 1955 [[Robert Willingham]] UAP crash account near [[Langtry, Texas]]. His testimony first appears in researcher [[Leonard Stringfield]]'s *UFO Crash Retrievals* reports, in an entry labeled "Del Rio, Texas, 1950". The date in that label is a discrepancy consistent with the broader conflation of two separate Del Rio-area incidents in UFO literature.
+William Drager is a former US Air Force member who served as a Spanish-language interpreter and provided a formal affidavit corroborating elements of the 1955 [[Robert Willingham]] UAP crash account near [[Langtry, Texas]]. His testimony first appears in researcher [[Leonard Stringfield]]'s *[[Stringfield Status Reports|UFO Crash Retrievals]]* reports, in an entry labeled "Del Rio, Texas, 1950". The date in that label is a discrepancy consistent with the broader conflation of two separate Del Rio-area incidents in UFO literature.
 
 ## Role in the Japanese Documentary
 

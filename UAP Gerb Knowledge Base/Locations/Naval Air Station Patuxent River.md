@@ -19,7 +19,7 @@ Representative [[Eric Burlison]] visited Pax River with White House staff, looki
 
 In *[[Off-World Technologies Division – UAP Technology Reverse Engineering]]*, Gerb calls Pax River "almost a counterpart" to [[Naval Surface Warfare Center Crane]], the alleged home of the [[Off-World Technologies Division]]. He points to three threads:
 
-- While working at Pax River, Navy aerospace engineer [[Salvatore Pais]] filed a patent for a triangle- or diamond-shaped craft that manipulates fields and the quantum vacuum around itself. The video likens the design to the alleged [[TR-3B]]. James Sheehy, NAVAIR's chief technology officer, backed the patent.
+- While working at Pax River, Navy aerospace engineer [[Salvatore Pais]] filed a [[Craft Using an Inertial Mass Reduction Device|patent]] for a triangle- or diamond-shaped craft that manipulates fields and the quantum vacuum around itself. The video likens the design to the alleged [[TR-3B]]. James Sheehy, NAVAIR's chief technology officer, backed the patent.
 - Former Navy science and technology official [[Nat Kobitz]] told [[Ross Coulthart]] that his discreet inquiries at NAVAIR and Pax River turned up no one who knew anything about Pais or his patents.
 - Pax River, like Crane, has a long history of contracts with [[SAIC]], the contractor Gerb considers the likely private partner at Crane.
 
@@ -42,3 +42,4 @@ On this basis Gerb suggests that work on reverse-engineering non-human technolog
 - [[Salvatore Pais]]
 - [[SAIC]]
 - [[Off-World Technologies Division]]
+- [[Craft Using an Inertial Mass Reduction Device]]

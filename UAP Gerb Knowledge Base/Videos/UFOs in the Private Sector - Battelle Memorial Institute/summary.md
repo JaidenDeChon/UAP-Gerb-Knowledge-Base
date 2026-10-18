@@ -18,7 +18,7 @@ stats:
     hint: "Battelle studied nitinol in 1949; Buehler officially discovered it in 1961"
   - value: "3,200"
     label: Sightings in Special Report 14
-    hint: "Published by Battelle and the Air Technical Intelligence Center (ATIC) on 5 May 1955"
+    hint: "Gerb's rounding of the report's 3,201 cases; issued by the Air Technical Intelligence Center (ATIC) on 5 May 1955"
   - value: "61 yrs"
     label: Nitinol reports kept restricted
     hint: "From 1949 until they were declassified in 2010"
@@ -32,7 +32,10 @@ stats:
 
 This video opens Gerb's "UFOs in the Private Sector" series on defense contractors. Figures such as [[David Grusch]], [[Luis Elizondo|Lue Elizondo]], [[Chris Mellon]], [[Eric Davis]] and former Senator [[Harry Reid]] have said these companies have a direct hand in UFO crash retrieval and reverse engineering. Its subject is [[Battelle Memorial Institute]], a private nonprofit applied-sciences company in Columbus, Ohio, with a long record of government work: uranium fabrication research for the [[Manhattan Project]], the photocopier and the UPC barcode, Apollo 11 propellant and electronics work, and chemical and biological defense research. Today it manages or helps manage Department of Energy laboratories, among them [[Los Alamos National Laboratory]], the National Renewable Energy Laboratory and [[Oak Ridge National Laboratory]]. Gerb charges that Battelle has a "dark secret": a long history of studying UFOs, of helping the US government and the Air Force cover them up, and of analysing UFO material itself.
 
-The video's central evidence is a contradiction in Battelle's own record. In 1955 Battelle and the Air Force's intelligence center published Special Report 14, which concluded that no physical matter had ever been recovered from a UFO. Yet six years earlier, [[Wright-Patterson Air Force Base]] had contracted Battelle to analyse [[Nitinol (Nickel-Titanium Alloy)|nitinol]], a nickel-titanium shape-memory alloy not officially discovered until 1961. Gerb infers that the alloy came from the 1947 [[Roswell Crash|Roswell crash]], whose debris [[Jesse Marcel]] described as a light metal that kept its shape after deformation and which was supposedly shipped to Wright-Patterson. A co-author of the 1949 reports, chemical engineer [[EJ Center]], allegedly told his daughter's boyfriend in 1958 that he had studied parts of a flying saucer. The account was published in 1994, sixteen years before the 1949 reports were declassified in 2010. Gerb calls the connection "just obscene".
+The video's central evidence is a contradiction in Battelle's own record. In 1955 the Air Force's intelligence center issued [[Project Blue Book Special Report No. 14|Special Report 14]], the study Battelle had worked on, which emphasised that no valid physical evidence had turned up in any case it studied. Yet six years earlier, [[Wright-Patterson Air Force Base]] had contracted Battelle to analyse [[Nitinol (Nickel-Titanium Alloy)|nitinol]], a nickel-titanium shape-memory alloy not officially discovered until 1961. Gerb infers that the alloy came from the 1947 [[Roswell Crash|Roswell crash]], whose debris [[Jesse Marcel]] described as a light metal that kept its shape after deformation and which was supposedly shipped to Wright-Patterson. A co-author of the 1949 reports, chemical engineer [[EJ Center]], allegedly told his daughter's boyfriend in 1958 that he had studied parts of a flying saucer. The account was published in 1994, sixteen years before the 1949 reports were declassified in 2010. Gerb calls the connection "just obscene".
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said Battelle and the Air Force's intelligence center published Special Report 14 and that it concluded no physical matter had ever been recovered from a UFO. The report is ATIC's and names no contractor, and its finding covers only the cases it studied.
 
 The last part of the video brings Battelle into the present. [[Ronald S. Moultrie]], the Under Secretary of Defense for Intelligence and Security to whom [[AARO]] and [[Sean Kirkpatrick]] reported, oversaw AARO's $1.9 million support contract with [[Sand Corp]] and joined Kirkpatrick in a December 2022 press conference denying any crash recoveries. He has also, Gerb says, sat on Battelle's advisory board since 2016, a seat he tried to scrub from his record. Gerb concludes that Battelle has played both sides, studying UFO material while helping to quell public interest in it.
 
@@ -46,7 +49,7 @@ eras:
     label: "Stork and the Nitinol Contract"
     from: 1947
     to: 1958
-    summary: "Roswell debris reaches Wright-Patterson, and Battelle analyses nitinol for the base. Battelle also runs Project Stork, and its Special Report 14 says no physical matter has ever been recovered from a UFO."
+    summary: "Roswell debris reaches Wright-Patterson, and Battelle analyses nitinol for the base. Battelle also runs Project Stork, and the Special Report 14 it worked on finds no valid physical evidence in any UFO case studied."
     anchor: "project-stork-and-special-report-14"
   - id: surfaces
     label: "The Record Surfaces"
@@ -118,7 +121,7 @@ events:
     cue: 180
   - date: "1955-05-05"
     title: "Special Report 14 published"
-    summary: "Battelle and ATIC published an analysis of 3,200 UFO sightings, Special Report 14, concluding that UFOs are not craft beyond human scientific knowledge because no physical matter had ever been recovered from any sighting."
+    summary: "ATIC issued Special Report 14, a statistical analysis of 3,201 UFO cases prepared with an outside panel that Gerb identifies as Battelle. It found it highly improbable that any represented technology beyond present-day scientific knowledge, and emphasised that no case had produced valid evidence of physical matter."
     category: document
     significance: major
     entities:
@@ -238,7 +241,10 @@ The earliest link Gerb traces is [[Project Stork]]. In 1952 the Director of Cent
 
 That same year the [[Robertson Panel]] recommended that national security agencies strip UFOs of their "special status" and tell the public there was no legitimate evidence for them. Around the same time, Gerb says, Battelle had been commissioned under the Stork codename to analyse all Air Force UFO cases separately, away from Blue Book and the official panels. [[J. Allen Hynek]] mentioned the project during his attempted testimony to the panel. With the help of the Computer UFO Network (CUFON), Gerb has found all seven Stork status reports, which he leaves for another video.
 
-On 5 May 1955 Battelle and ATIC published Special Report 14, an analysis of 3,200 UFO sightings. It concluded that UFOs are not craft beyond human scientific knowledge, because no physical matter had ever been recovered from any sighting. Gerb calls this "a massive contradiction" with what Battelle had been doing six years earlier.
+On 5 May 1955, Gerb says, Battelle and ATIC published Special Report 14, an analysis of 3,200 UFO sightings, which concluded that UFOs are not craft beyond human scientific knowledge "because no physical matter had ever been recorded from any UFO sighting". The [[Project Blue Book Special Report No. 14|report]] was issued by ATIC alone and names no contractor; its statistics cover 3,201 cases. It rests its conclusion on statistical tests and a failed search for a "flying saucer" model, and emphasises separately that no case produced valid evidence of physical matter, adding that this did not prove "flying saucers" did not exist. Gerb calls the finding "a massive contradiction" with what Battelle had been doing six years earlier.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said Battelle and ATIC published the report and that it concluded UFOs were not advanced craft because no physical matter had ever been recovered. That is Gerb's account. The report itself, CIA-UAP-015 in the Department of War's 2026 UAP release, is ATIC's, does not name Battelle, and treats the lack of physical evidence as one point among several.
 
 ## The Nitinol Contract (1949)
 
@@ -324,10 +330,10 @@ label: "Two denials, and Gerb's answer"
 caption: "Two official statements that no UFO material has been recovered, each followed by Gerb's reply."
 claims:
   - title: "Special Report 14"
-    by: ["Battelle Memorial Institute", "Air Force Technical Intelligence Center"]
+    by: ["Air Force Technical Intelligence Center"]
     date: "1955-05-05"
-    where: "Special Report 14"
-    text: "Across 3,200 sightings, no physical matter has ever been recovered from a UFO, so UFOs are not craft beyond human scientific knowledge."
+    where: "Project Blue Book Special Report No. 14"
+    text: "It is highly improbable that any of the reports examined represent technology outside the range of present-day scientific knowledge, and there was a complete lack of any valid evidence consisting of physical matter in any case."
     cue: 229
     responses:
       - by: "Gerb"
@@ -393,7 +399,10 @@ entries:
 
 - Battelle Memorial Institute has been involved in official UFO investigation since at least 1952, through [[Project Stork]], an ATIC contract that ran parallel to [[Project Blue Book]] and away from the official panels.
 - A Secret memo of 9 January 1953 by Battelle's [[Howard C. Cross]] proposed that Project Stork help the Air Force reassure the public that the UFO problem was "well under control".
-- Battelle and ATIC's 1955 Special Report 14 concluded that no physical matter had ever been recovered from a UFO, which Gerb says contradicts Battelle's own 1949 work.
+- ATIC's 1955 [[Project Blue Book Special Report No. 14|Special Report 14]], which Gerb credits to Battelle and ATIC, found no valid evidence of physical matter in any UFO case it studied. Gerb says this contradicts Battelle's own 1949 work.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said Battelle and ATIC's report concluded that no physical matter had ever been recovered from a UFO. The report is ATIC's, names no contractor, and speaks only of the cases it studied.
 - In 1949 Battelle analysed [[Nitinol (Nickel-Titanium Alloy)|nitinol]] for Wright-Patterson Air Force Base, twelve years before the alloy's official discovery in 1961. Gerb infers that the material came from the 1947 Roswell crash, whose debris Jesse Marcel described as a light metal that kept its shape and which was supposedly shipped to Wright-Patterson.
 - Gerb says the 1949 research was an [[Atomic Energy Commission]] project labelled "restricted", which he calls a private-sector standard that, citing David Grusch, even special access program holders cannot breach. It was not declassified until 2010.
 - [[EJ Center]], a co-author of the 1949 reports, allegedly told his daughter's boyfriend in 1958 that he had studied "Parts retrieved from a flying saucer". The account reached MUFON in 1992 and was published by [[Irena Scott]] in 1994, sixteen years before the reports were declassified.
@@ -412,7 +421,8 @@ entries:
 - **People**: [[EJ Center]], [[Howard C. Cross]], [[Irena Scott]], [[Ronald S. Moultrie]], [[Sean Kirkpatrick]], [[David Grusch]], [[Jacques Vallee]], [[James Fox]], [[Jesse Marcel]], [[Mac Brazel]], [[General Ramey]], [[J. Allen Hynek]], [[Edward J. Ruppelt]], [[Luis Elizondo]], [[Chris Mellon]], [[Eric Davis]], [[Harry Reid]]
 - **Organizations**: [[Battelle Memorial Institute]], [[Sand Corp]], [[AARO]], [[Office of the Under Secretary of Defense for Intelligence and Security (USDINS)]], [[Air Force Technical Intelligence Center]], [[Atomic Energy Commission]], [[Department of Energy]], [[MUFON]], [[CIA]], [[Los Alamos National Laboratory]], [[Oak Ridge National Laboratory]], [[Lockheed Martin]], [[Carlyle Group]]
 - **Locations**: [[Roswell, New Mexico]], [[Wright-Patterson Air Force Base]], [[Varginha, Brazil]]
-- **Concepts**: [[Nitinol (Nickel-Titanium Alloy)]], [[Shape Memory Alloy]], [[Robertson Panel]], [[Atomic Energy Act of 1954]]
+- **Concepts**: [[Nitinol (Nickel-Titanium Alloy)]], [[Shape Memory Alloy]], [[Robertson Panel]]
+- **Documents**: [[Atomic Energy Act of 1954]], [[Project Blue Book Special Report No. 14]]
 - **Operations**: [[Project Stork]], [[Project Blue Book]], [[Project Sign]], [[Project Grudge]], [[Manhattan Project]]
 - **Events**: [[Roswell Crash]]
 

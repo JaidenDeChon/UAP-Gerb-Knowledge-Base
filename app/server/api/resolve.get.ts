@@ -1,5 +1,5 @@
 import type { NoteRef } from '#shared/types/wiki'
-import { geo, portraits } from '#wiki-data'
+import { documents, geo, portraits } from '#wiki-data'
 
 /** Cap the batch so a malformed query cannot walk the whole vault. */
 const MAX_NAMES = 200
@@ -17,7 +17,7 @@ export default defineEventHandler((event): (NoteRef | null)[] => {
 
   const index = nodeIndexByLabel()
   try {
-    return resolveNames(requested, index, geo, portraits)
+    return resolveNames(requested, index, geo, portraits, documents)
   }
   catch {
     // The caller keys results positionally against the request list — a

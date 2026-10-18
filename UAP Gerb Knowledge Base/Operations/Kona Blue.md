@@ -5,13 +5,16 @@ tags:
   - program
 ---
 
-Kona Blue was a proposed waived Unacknowledged Special Access Program (USAP) that would have acted as a Department of Homeland Security Science and Technology "catcher's mitt" for recovered non-human craft materials held by [[Lockheed Martin]] since the 1950s. Senator [[Harry Reid]] championed the program as part of the [[AAWSAP]] initiative to bring alleged UAP crash retrieval materials into a government-controlled research framework with Congressional oversight. Kona Blue is documented evidence of an attempt to formally transfer UAP materials from a defense contractor to a government-controlled program. Gerb describes Lockheed's efforts, between 2008 and 2011, to divest the materials to Bigelow Aerospace Advanced Space Studies under the DIA-sponsored AAWSAP program, and says CIA and DNI officials stonewalled them. Kona Blue itself was the second of those attempts, a prospective DHS Science and Technology program approved in 2011 that, according to AARO, the DHS Deputy Secretary disapproved about six months later, after which it was terminated.
+Kona Blue was a proposed waived Unacknowledged Special Access Program (USAP) that would have acted as a Department of Homeland Security Science and Technology "catcher's mitt" for recovered non-human craft materials held by [[Lockheed Martin]] since the 1950s. Senator [[Harry Reid]] championed the program as part of the [[AAWSAP]] initiative to bring alleged UAP crash retrieval materials into a government-controlled research framework with Congressional oversight. Kona Blue is documented evidence of an attempt to formally transfer UAP materials from a defense contractor to a government-controlled program. Gerb describes Lockheed's efforts, between 2008 and 2011, to divest the materials to Bigelow Aerospace Advanced Space Studies under the DIA-sponsored AAWSAP program, and says CIA and DNI officials stonewalled them. Kona Blue itself was the second of those attempts, a prospective DHS Science and Technology program approved in July 2011 that, according to AARO and DHS's own declassified records (the [[Kona Blue Documents]]), the DHS Deputy Secretary disapproved about six months later. She ordered it terminated in December 2011, in a decision recorded in a memo dated by hand 10 February 2012.
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions called Kona Blue a DIA-administered program stonewalled between 2008 and 2011, which contradicted the body of the page. The lead now separates the earlier AAWSAP/BASS attempts, as Gerb describes them, from Kona Blue itself, a DHS S&T proposal that AARO dates from July 2011 to February 2012.
 
 > [!edit] Corrected 17 October 2026
 > The 16 October version gave AARO's dates as July 2011 to February 2012. Published summaries of AARO's Kona Blue history confirm only that the proposal was approved in 2011 and disapproved about six months later; the month-level dates rest on a single secondary timeline, so the lead now gives the verifiable version.
+
+> [!edit] Clarified 17 October 2026
+> DHS's declassified Kona Blue records, now hosted as the [[Kona Blue Documents]], restore month-level dates: Under Secretary Tara O'Toole approved the prospective program on 11 July 2011, and Deputy Secretary Jane Holl Lute ordered it terminated in December 2011, in a memo dated by hand 10 February 2012.
 
 ## Program Structure and Intent
 
@@ -66,7 +69,7 @@ Several senior intelligence officials worked together to kill the 2011 Kona Blue
 
 ## Official Justification for Rejection
 
-In the Lockheed video, Gerb summarizes the official explanation as DHS and the other agencies involved shutting down the proposal "due to skepticism regarding the authenticity of the purported materials". AARO's Historical Record Report, Vol. 1 (March 2024) gives a different reason: the Deputy Secretary of Homeland Security disapproved Kona Blue as a SAP and ordered its immediate termination over concerns about the adequacy of the program's justification and the sufficiency of the information behind the proposal, including personnel and budget requirements. AARO also found that no data or material of any kind was ever transferred to DHS under Kona Blue. Gerb argues the official explanation contradicts testimony and documents suggesting that high-level stakeholders blocked the transfer to keep control of siloed programs, not because they doubted the materials were authentic.
+In the Lockheed video, Gerb summarizes the official explanation as DHS and the other agencies involved shutting down the proposal "due to skepticism regarding the authenticity of the purported materials". AARO's Historical Record Report, Vol. 1 (March 2024) gives a different reason: the Deputy Secretary of Homeland Security disapproved Kona Blue as a SAP and ordered its immediate termination over concerns about the adequacy of the program's justification and the sufficiency of the information behind the proposal, including personnel and budget requirements. AARO also found that no data or material of any kind was ever transferred to DHS under Kona Blue. DHS's own memos, in the Kona Blue documents, record the same reasons from the 8 December 2011 review, and a 2013 memorandum for the record adds that the Deputy Secretary and the General Counsel decided "the Program as proposed did not require extraordinary security measures". Gerb argues the official explanation contradicts testimony and documents suggesting that high-level stakeholders blocked the transfer to keep control of siloed programs, not because they doubted the materials were authentic.
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions quoted "skepticism regarding the authenticity" as AARO's stated reason. That wording is Gerb's summary. AARO's Historical Record Report, Vol. 1 cites the program's justification and the information behind the proposal, and is now paraphrased beside it.
@@ -75,10 +78,13 @@ In the Lockheed video, Gerb summarizes the official explanation as DHS and the o
 
 On July 30, 2025, former AARO Deputy Director Tim Phillips made controversial public statements about Kona Blue. He claimed it was established "as the home for all this paranormal UFO crap" and alleged that multiple whistleblowers had cited Kona Blue to justify their claims to Congress. Phillips gave no examples or evidence for these assertions.
 
-[[AARO]] released a declassified Kona Blue slide deck that confirmed the program's structure and DHS involvement but framed it as a proposal that DHS leadership never approved. UAP researchers dispute that account; they see the declassified materials as confirming the program's legitimacy rather than its supposed paranormal focus.
+In April 2024 [[AARO]] posted DHS's declassified Kona Blue records, a 56-page packet that includes the program's slide deck, its SAP proposal and the memos that set it up and ended it. DHS had declassified them in July 2023. AARO's own report frames Kona Blue as a proposal that DHS leadership never approved. UAP researchers dispute that account; they see the declassified materials as confirming the program's legitimacy rather than its supposed paranormal focus.
 
 > [!edit] Corrected 16 October 2026
 > Earlier versions said AARO framed the proposal as rejected over doubts about the materials' authenticity. AARO says DHS leadership disapproved it for the reasons above.
+
+> [!edit] Corrected 16 October 2026
+> This paragraph used to say AARO released a declassified slide deck. The release is DHS's own packet of records, declassified by DHS's Chief Security Officer on 18 July 2023 and posted by AARO; the slide deck is one part of it.
 
 ## Significance for UAP Disclosure
 
@@ -106,7 +112,7 @@ In his paper "Sub Rosa," UAP researcher Rob Jones presents a theory that after K
 
 - [[Videos/Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs/summary|Lockheed Martin - UFO Reverse Engineering, Material Exploitation, & Legacy Programs]]
 - November 2024 House Oversight UAP Hearing Record (Representative Tim Burchett document submission)
-- AARO Declassified Kona Blue Slide Deck
+- [[Kona Blue Documents]] (DHS records, declassified 2023 and posted by AARO in April 2024)
 - AARO, *Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume 1* (March 2024), as reported by [The Black Vault](https://www.theblackvault.com/documentarchive/dod-releases-kona-blue-documents/) and [Metabunk](https://www.metabunk.org/threads/kona-blue-aaro-report-on-the-proposed-aawsap-successor.13434/post-314349)
 - [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
 - [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]

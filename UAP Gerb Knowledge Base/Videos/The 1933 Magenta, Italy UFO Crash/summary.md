@@ -563,6 +563,7 @@ entries:
 - **People**: [[Benito Mussolini]], [[Galeazzo Ciano]], [[Italo Balbo]], [[Guglielmo Marconi]], [[Gino Cecchini]], [[Tommaso David]], [[Roberto Pinotti]], [[Mr. X]], [[David Grusch]], [[Luis Elizondo]], [[Ross Coulthart]], [[Christopher Sharp]], [[Pope Pius XII]], [[William Brophy]]
 - **Organizations**: [[RS-33 (Gabinetto RS 33)]], [[Agenzia Stefani]], [[Office of Strategic Services (OSS)]], [[SIAI-Marchetti Aircraft Company]], [[Brera Astronomical Observatory]], [[Majestic 12]], [[The Black Vault]], [[Vatican]]
 - **Locations**: [[Magenta, Italy]], [[Varese, Italy]], [[Milan, Italy]], [[Mount Soratte]]
-- **Concepts**: [[Crash Retrieval]], [[Die Glocke (The Bell)]], [[USAF Regulation 200-2]]
+- **Concepts**: [[Crash Retrieval]], [[Die Glocke (The Bell)]]
+- **Documents**: [[USAF Regulation 200-2]]
 - **Operations**: [[Operation Achse]], [[Project Blue Book]]
 - **Events**: [[1933 Magenta UFO CrashRetrieval]], [[Roswell Crash]]

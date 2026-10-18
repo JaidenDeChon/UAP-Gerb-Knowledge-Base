@@ -9,7 +9,7 @@ tags:
   - person
 ---
 
-Dr. Robert Irving Sarbacher (1907–1986) was an American physicist, a graduate of Harvard University and a student of Albert Einstein. In the early 1950s, during the Truman administration, he was a scientific consultant to the US Department of Defense's [[Research and Development Board]]. He is one of the most significant firsthand sources in early UFO research. In 1950 he privately told Canadian government engineer [[Wilbert B. Smith]] that the study of flying saucers within the United States government was classified at a higher level than the hydrogen bomb, and in 1983 he repeated and expanded on the claim in a letter to researcher [[William Steinman]] and a recorded call with [[Stanton Friedman]]. Gerb devotes a video to him and returns to his account in ten others, usually as the earliest insider evidence for a US crash-retrieval group.
+Dr. Robert Irving Sarbacher (1907–1986) was an American physicist, a graduate of Harvard University and a student of Albert Einstein. In the early 1950s, during the Truman administration, he was a scientific consultant to the US Department of Defense's [[Research and Development Board]]. He is one of the most significant firsthand sources in early UFO research. In 1950 he privately told Canadian government engineer [[Wilbert B. Smith]] that the study of flying saucers within the United States government was classified at a higher level than the hydrogen bomb, and in 1983 he repeated and expanded on the claim in a [[Sarbacher Letter|letter]] to researcher [[William Steinman]] and a recorded call with [[Stanton Friedman]]. Gerb devotes a video to him and returns to his account in ten others, usually as the earliest insider evidence for a US crash-retrieval group.
 
 ## Career
 
@@ -60,7 +60,7 @@ events:
       - "Project Second Story"
   - date: "1983-11"
     title: "Letter to William Steinman"
-    summary: "Answers twelve questions, naming Bush, John von Neumann and J. Robert Oppenheimer as involved and describing very light, tough materials and insect-like occupants."
+    summary: "Answers Steinman's questions, naming Bush and John von Neumann as definitely involved and J. Robert Oppenheimer as probably involved, and describing very light, tough materials and insect-like occupants."
     category: document
     significance: major
     entities:
@@ -109,10 +109,10 @@ items:
     source: "The 1948 Aztec, New Mexico UFO Crash Retrieval"
   - date: "1983-11"
     kind: letter
-    title: "Reply to William Steinman's twelve questions"
+    title: "Reply to William Steinman's questions"
     with:
       - "William Steinman"
-    note: "Names Bush, von Neumann and Oppenheimer as involved; says he was invited to the recovery discussions but could not attend, and read official reports in his Pentagon office."
+    note: "Names von Neumann and Bush as definitely involved and Oppenheimer as probably; says he was invited to the recovery discussions but could not attend, and read official reports in his Pentagon office."
     quote: "certain materials reported to have come from flying saucer crashes were extremely light and very tough"
     source: "Dr. Robert Sarbacher & the US Government's Secret UFO Crash Retrieval Group"
   - date: "1983"
@@ -138,7 +138,7 @@ entries:
     note: "Named by Sarbacher in 1950 as head of the small study group, and again in 1983 as 'definitely involved'."
   - name: "William Steinman"
     role: "UFO researcher"
-    note: "His twelve questions drew Sarbacher's 1983 letter, and he later interviewed Eric Walker."
+    note: "His questions drew Sarbacher's 1983 letter, and he later interviewed Eric Walker."
   - name: "Stanton Friedman"
     role: "Nuclear physicist and UFO researcher"
     note: "Tracked Sarbacher down after learning of the Smith memo and recorded the 1983 call that led to Walker."
@@ -169,15 +169,18 @@ Smith had read [[Frank Scully]]'s 1950 book *Behind the Flying Saucers*, which p
 
 ## The 1983 Steinman Letter
 
-In November 1983, UFO researcher [[William Steinman]] wrote to Sarbacher asking for details of his UFO involvement. Sarbacher replied with a letter answering twelve questions:
+In letters of 12 September and 14 October 1983, UFO researcher [[William Steinman]] asked Sarbacher for details of his UFO involvement. Sarbacher replied on 29 November 1983 with the [[Sarbacher Letter]], answering the five numbered questions in the first and the closing question of the second:
 
 - He had no personal association with the individuals involved in crash retrievals, nor knowledge of specific crash dates.
-- He was invited to take part in several discussions about crash retrievals at the Research and Development Board, but was not given access to attend them in person.
-- [[Vannevar Bush]], [[John Von Neumann]], and Dr. [[J. Robert Oppenheimer]] were definitely involved in the program.
-- He did not receive photographs of UAP but did view official reports at his Pentagon office.
+- His association with the Research and Development Board was limited, so although he was invited to several discussions about the recoveries, he could not attend them in person. He took the work on as a "dollar-a-year man", and his own business came first.
+- [[John Von Neumann]] and [[Vannevar Bush]] were "definitely involved", and "I think Dr. Robert Oppenheimer also" ([[J. Robert Oppenheimer]]).
+- He did not recall receiving photographs of UAP, but he did receive official reports at his Pentagon office, which he left there.
 - Materials reportedly recovered from flying saucer crashes were "extremely light and very tough."
 - The instruments or people operating the craft were reported to be very light as well, so that they could withstand the acceleration and deceleration of their machines.
-- He gathered from people at the office that the occupants "were constructed like certain insects we've observed on Earth," whose low mass meant the inertial forces on them would be quite low.
+- He gathered from people at the office that the "aliens" "were constructed like certain insects we have observed on earth," whose low mass meant the inertial forces on them would be quite low.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said Steinman wrote in November 1983 and that the letter answered twelve questions, that Sarbacher was not given access to the meetings, and that he named Bush, von Neumann and Oppenheimer as all "definitely involved". The letter, dated 29 November, answers questions from Steinman's letters of 12 September and 14 October, says he could not attend because his association with the Board was limited, and says only "I think" of Oppenheimer. Gerb's video gives twelve questions.
 
 Sarbacher added that he still did not know why the subject had been given such a high classification, or why the existence of the devices was denied. Gerb notes that Sarbacher put the word "aliens" in quotation marks, as if unwilling to settle on an origin for the beings, and reads the light, tough materials as Roswell wreckage, pointing to [[Battelle Memorial Institute|Battelle]]'s 1949 work on lightweight shape memory alloys.
 

@@ -1341,6 +1341,62 @@ Authoring rules:
 - **Attribute.** A note says what the item claims ("Alleges that…"), never
   whether it's true.
 
+### `::wiki-document`
+
+Source: `app/app/components/content/WikiDocument.vue` (pdf.js loading in
+`app/app/utils/pdf.ts`)
+
+One page of a primary-source document, set into an article: the page itself,
+or only a band of it, to show the passage under discussion. It answers "what
+does the document actually say here?" without sending the reader away. The
+document needs a page in `Documents/`, hosted through
+`scripts/fetch-documents.mjs` (see `docs/documents.md`).
+
+What it renders:
+
+- **The page, as paper.** White in every theme, with a hairline frame. It
+  draws when the figure comes within 400px of the viewport: pdf.js loads
+  then, in the browser only, and fetches just the byte ranges that page needs.
+  Until then page 1 shows its baked thumbnail; other pages hold their space.
+- **A band of it** with `region`. The figure then spans the column, and the
+  window shows only that slice of the page.
+- **A caption.** Your text, then the document's title (linking to the page in
+  the full viewer, `#page=N`), "page N of M", issuer and date. The whole figure
+  links to the same place.
+- **Without a hosted file**, for a copyrighted, unclear or unsourced
+  document, a dashed card with the title, issuer and date, your caption and a
+  link to the source.
+- **Accessibility.** The figure link is named "<title>, page N of M. Open in
+  the document viewer". The page image itself is hidden from assistive tech;
+  the viewer has the selectable text. Theme tokens only.
+
+Props (YAML body):
+
+| Prop | Type | Default | Notes |
+|---|---|---|---|
+| `name` | `string` | `''` | The Documents page's real title |
+| `page` | `number` | `1` | 1-based; clamped to the document's page count |
+| `region` | `[number, number]` | none | `[from, to]` as fractions of the page height, 0 = top. At least 0.05 apart, or it's ignored |
+| `caption` | `string` | `''` | What the reader should see in it |
+
+```yaml
+name: "GAO Report on Special Access Contracts (1986)"
+page: 8
+region: [0.57, 0.77]
+caption: "The passage behind the count: Lockheed reported 1,460 discrepancies among about 40,000 secret and top secret items."
+```
+
+Authoring rules:
+
+- **Use it where the document's own words matter**: a figure Gerb quotes, a
+  passage he shows on screen, a line a claim rests on. Don't use it as decoration.
+- **Find the band with `pdftotext -bbox`.** Run it on the cached PDF
+  (`app/scripts/.cache/documents/<sha256>.pdf`) and divide a word's `yMin`/`yMax`
+  by the page height. Pad by a few hundredths.
+- **The caption says what's in the excerpt**, in the document's terms. If the
+  article's prose and the document disagree, fix the prose or say so; the
+  excerpt will show the reader either way.
+
 ### `::wiki-panel` (Tier 1 primitive)
 
 Source: `app/app/components/content/WikiPanel.vue`
@@ -1683,6 +1739,22 @@ ramp, whose abrupt ends read as edges.
 The Featured card uses the hero's composition in miniature: thumbnail on
 the right fading left under a card-colour text panel once its container is
 34rem wide, a band fading down above the text below that.
+
+### `app/app/components/wiki/WikiDocumentViewer.vue`
+
+The full viewer on a Documents note, under the fact table: every page of the
+hosted PDF in a scrolling frame, a selectable text layer, page and zoom
+controls, a PDF link and a retrieval credit. It's mounted by
+`pages/wiki/[...slug].vue` from the baked `/api/meta` document. Pages draw as
+they scroll within 600px of view and redraw on zoom or resize. It reads
+`#page=N`. See `docs/documents.md`.
+
+### `app/app/utils/pdf.ts`
+
+`loadPdfjs()` imports pdf.js's legacy build and its worker once per visit.
+`openPdf(url)` shares one loading task per file, with range requests and the
+`/pdfjs/` runtime assets wired in. `drawPage(pdf, n, width)` draws a page to a
+canvas, sharp on dense screens. Shared by the viewer and `::wiki-document`.
 
 ### `app/app/components/wiki/WikiPersonPortrait.vue`
 

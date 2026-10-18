@@ -6,7 +6,7 @@ tags:
   - location
 ---
 
-Camp Polk (now Fort Polk) is a United States Army installation in Vernon Parish, Louisiana, historically used for troop training and field maneuvers. It is the site of the alleged [[1953 Camp Polk UFO Crash Retrieval]], the crash and recovery of an [[Egg-shaped UAP|egg-shaped craft]] that researcher [[Leonard Stringfield]] documented in *UFO Crash/Retrieval Status Report 3*.
+Camp Polk (now Fort Polk) is a United States Army installation in Vernon Parish, Louisiana, historically used for troop training and field maneuvers. It is the site of the alleged [[1953 Camp Polk UFO Crash Retrieval]], the crash and recovery of an [[Egg-shaped UAP|egg-shaped craft]] that researcher [[Leonard Stringfield]] documented in *[[Stringfield Status Reports|UFO Crash/Retrieval Status Report 3]]*.
 
 ## 1953 Egg-Shaped Craft Incident
 

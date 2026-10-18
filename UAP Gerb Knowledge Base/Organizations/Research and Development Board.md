@@ -22,7 +22,10 @@ In 1950, [[Wilbert B. Smith]], a senior radio engineer in the Canadian governmen
 3. Their mode of operation is unknown, but a small group headed by [[Vannevar Bush]] is making concentrated efforts to study them.
 4. The entire matter is considered by US authorities to be of tremendous significance.
 
-Sarbacher's testimony placed the R&D Board at the center of the US government's early UAP crash retrieval and reverse engineering efforts. In a 1983 letter to researcher [[William Steinman]], Sarbacher confirmed that he had been invited to several discussions about crash retrievals at the R&D Board, although he did not attend them himself. He named [[Vannevar Bush]], [[John Von Neumann]], and [[J. Robert Oppenheimer]] as "definitely involved" in the program.
+Sarbacher's testimony placed the R&D Board at the center of the US government's early UAP crash retrieval and reverse engineering efforts. In a [[Sarbacher Letter|1983 letter]] to researcher [[William Steinman]], Sarbacher wrote that his association with the Board, which he placed "under Doctor Compton", had been limited, so that although he had been invited to several discussions about the reported recoveries, he could not attend them. He wrote that [[John Von Neumann]] and [[Vannevar Bush]] were "definitely involved", and "I think Dr. Robert Oppenheimer also" ([[J. Robert Oppenheimer]]).
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said Sarbacher named all three men as "definitely involved" and placed the discussions at the R&D Board. The letter says "I think" of Oppenheimer and does not say where the discussions were held.
 
 ## Connection to the Wright Field Meeting
 

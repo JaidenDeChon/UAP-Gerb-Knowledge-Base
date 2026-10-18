@@ -1,0 +1,231 @@
+---
+name: "DIA Tehran UFO Report (1976) (Transcription)"
+document: "DIA Tehran UFO Report (1976)"
+transcribed: "2026-10-16"
+method: "ocrmypdf 17.13 (Tesseract 5.5, force-ocr) first pass, too garbled to use on the forms and the faded teletype; text read from 110 to 300 dpi renders of each page image and checked line by line"
+tags:
+  - transcription
+---
+
+A reading text of the [[DIA Tehran UFO Report (1976)]], from the six-page copy the National Security Agency released in its UFO collection: a DIA routing slip of 8 December 1978, the DIA's evaluation form for the report, and the four-page message itself, USDAO Tehran intelligence report IR 6 846 0139 76 of 23 September 1976. The teletype prints zeros with a slash, so they can look like eights; they are given here as zeros. Editorial marks are in square brackets; see "Transcriptions" in the site's documents guide for what each one means.
+
+## Page 1
+
+*[stamped at top: Serial: N0597 E[?]; handwritten at top right: DIA]*
+
+*[printed form: ROUTING AND TRANSMITTAL SLIP]*
+
+| | |
+|---|---|
+| Date | 8 Dec 78 |
+| TO | 1. [redacted] |
+| REMARKS | Per telecon. |
+| FROM | Louis E. Foster, RDS-3A, DIA |
+| Phone No. | 25706 |
+
+*[printed at foot of slip: DO NOT use this form as a RECORD of approvals, concurrences, disposals, clearances, and similar actions. 5041-102 U.S. G.P.O. 1977-241-530/3090 OPTIONAL FORM 41 (Rev. 7-76) Prescribed by GSA FPMR (41 CFR) 101-11.206]*
+
+*[the slip is laid over the foot of the evaluation form that follows; the visible part shows the form's release guidance, the evaluator's blocks and the downgrading instructions as on page 2]*
+
+## Page 2
+
+*[printed form, heading partly cut off: [illegible] REPORT EVALUATION. Instructions: To be completed by Typewriter or Ball Point Pen]*
+
+| | |
+|---|---|
+| IR number | *[handwritten: 6 846 0139 76]* |
+| SII code(s) | *[crossed out]* |
+| Target country (ies) | *[handwritten: IR]* |
+| IR date | *[handwritten, illegible]* |
+| Date rec'd by dissemination activity | *[handwritten, illegible]* |
+| Date received by evaluator | *[handwritten: 76 10 [illegible]]* |
+| IR originator | *[handwritten, illegible]* |
+| Reason for evaluation | *[checked: 3. Selected by Col Mgr]* |
+
+*[checkboxes marked, by section]*
+
+- A. IR responded to: 1. DIRM Part Three; 4. Other
+- B. Reliability of information: 1. Confirmed by other sources
+- C. Value of information: 1. High (Unique, Timely, and of Major Significance)
+- D. Usability of information: 1.b. Current Intelligence; 2.a. Potentially Useful
+
+REMARKS (Number and Classify each Paragraph)
+
+[illegible, a line struck through and overtyped; the words "outstanding" and "a classic which meets all the" can be made out] necessary for a valid study of a UFO phenomenon:
+
+a) [illegible, struck through] (i.e. Shemiran, Mehrabad and the dry lake bed) and viewpoints *[handwritten: (both)]* [illegible, struck through]
+
+b) The credibility of many of the witnesses was high (an air force general, qualified aircrews, and experienced tower operators).
+
+c) Visual sightings were confirmed by radar.
+
+d) Similar electromagnetic effects (EME) were reported by three separate aircraft.
+
+e) There were physiological effects on some crew members (i.e. loss of night vision due to the brightness of the object).
+
+f) An inordinate amount of maneuver-ability was displayed by the UFO's.
+
+| | |
+|---|---|
+| Evaluator's release and disclosure guidance | *[checked?: 3. Releasable Evaluation Not Requested]* |
+| Evaluator's organization | *[illegible]* |
+| Name of evaluator | *[blank or illegible]* |
+| Date evaluated | *[handwritten: 76 10 12?]* |
+| Signature of approving authority | *[handwritten signature, illegible]* |
+| Downgrading and declassification instructions | Classified by DIA (DS-3[?]). Subject to General Declassification Schedule of Executive Order 11652. Automatically downgraded at two year intervals. Declassified on 31 December *[handwritten: 1982]* |
+
+*[stamp at foot: CLASSIFICATION CHANGED TO UNCLASSIFIED, EFFECTIVE [illegible]]*
+
+## Page 3
+
+*[on every page of the message, pages 3 to 6: printed header DEPARTMENT OF DEFENSE, JOINT CHIEFS OF STAFF, MESSAGE CENTER]*
+
+[illegible] [redacted] 12843
+
+MULT
+
+ACTION
+
+DIA:
+
+DISTR
+
+CJCS(01) DJS(03) J3(14) J5(02) NMCC SECDEF(07) DPSECDEF NMIC SECDEF: ASD:ISA(10) :DIA(15)
+
+SECSTATE WASH DC
+
+C I A
+
+NSA WASH DC
+
+WHITE HOUSE WASH DC
+
+CMC
+
+CSAF WASH DC
+
+CNO WASH DC
+
+CSA WASH DC
+
+FILE(1)
+
+(053)
+
+TRANSIT/230630Z/230810Z/001:40TOR2670804
+
+DE RUQMHRA #9575 2670615
+
+ZNY CCCCC
+
+P 230630Z SEP 76
+
+FM USDAO TEHRAN
+
+TO RUEKJCS/DIA WASHDC
+
+INFO RUEKJCS/SECDEF DEPSECDEF WASHDC
+
+RUFRBAA/COMIDEASTFOR
+
+RUDOECA/CINCUSAFE LINDSEY AS GE/INCF
+
+RHFRAAB/CINCUSAFE RAMSTEIN AB GE/INOCN
+
+RUSNAAA/EUDAC VAIHINGEN GER
+
+RUSNAAA/USCINCEUR VAIHINGEN GER/ECJ-2
+
+BT
+
+[redacted] 1235 SEP76
+
+THIS IS IR 6 846 0139 76 *[circled by hand]*
+
+1. (U) IRAN
+
+2. REPORTED UFO SIGHTING (U)
+
+3. (U) NA
+
+4. (U) 19 & 20 SEP 76
+
+5. (U) TEHRAN, IRAN; 20 SEP 76
+
+6. (U) F-6
+
+7. (U) 6 846 0000 (NOTE RO COMMENTS)
+
+8. (U) 6 846 0139 76
+
+9. (U) 22SEP 76
+
+10. (U) NA
+
+11. (U) "INITIATE" IPSP PT-1440
+
+PAGE 1 [redacted] 00110101
+
+*[marks on the page, top to bottom: a handwritten A; handwritten 379/80-IR; handwritten 098; handwritten 53; stamp: REC'D [illegible] 23 SEP 76; handwritten page number 45, circled]*
+
+## Page 4
+
+PAGE 2 [redacted] 12843
+
+12. (U) USDAO, TEHRAN, IRAN
+
+13. (U) FRANK B. MCKENZIE, COL, USAF, DATT
+
+14. (U) NA
+
+15. [redacted] THIS REPORT FORWARDS INFORMATION CONCERNING THE SIGHTING OF AN UFO IN IRAN ON 19 SEPTEMBER 1976.
+
+A. AT ABOUT 1230 AM ON 19 SEP 76 THE IMPERIDAL [sic] IRANIAN AIR FORCE (IIAF) COMMAND POST RECEIVED FOUR TELEPHONE CALLS FROM CITIZENS LIVING IN THE SHEMIRAN AREA OF TEHRAN SAYING THAT THEY HAD SEEN STRANGE OBJECTS IN THE SKY. SOME REPORTED A KIND OF BIRD-LIKE OBJECT WHILE OTHERS REPORTED A HELICOPTER WITH A LIGHT ON. THERE WERE NO HELICOPTERS AIRBORNE AT THAT TIME. THE COMMAND POST CALLED BG YOUSEFI, [A]SSISTANT DEPUTY COMMANDER OF OPERATIONS. AFTER HE TOLD THE CITIZEN IT WAS ONLY STARS AND HAD TALKED TO MEHRABAD TOWER HE DECIDED TO LOOK FOR HIMSELF. HE NOTICED AN OBJECT IN THE SKY SIMILAR TO A STAR BIGGER AND BRIGHTER. HE DECIDED TO SCRAMBLE AN F-4 FROM SHAHROKHI AFB TO INVESTIGATE.
+
+B. AT 0130 HRS ON THE 19TH THE F-4 TOOK OFF AND PROCEEDED TO A POINT ABOUT 40 NM NORTH OF TEHRAN. DUE TO ITS BRILLIANCE THE OBJECT WAS EASILY VISIBLE FROM 70 MILES AWAY.
+
+AS THE F-4 APPROACHED A RANGE OF 25 NM HE LOST ALL INSTRUMEN[T]ATION AND COMMUNICATIONS (UHF AND INTERCOM). HE BROKE OFF THE INTERCEPT AND HEADED BACK TO SHAHROKHI. WHEN THE F-4 TURNED AWAY FROM THE OBJECT AND APPARENTLY WAS NO LONGER A THREAT TO IT THE AIRCRAFT REGAINED ALL INSTRUMENTATION AND COMMUNICATIONS. AT 0140 HRS A SECOND F-4 WAS LAUNCHED. THE BACKSEATER ACQUIRED A RADAR LOCK ON AT 27 NM, 12 O'CLOCK HIGH POSITION WITH THE VC (RATE OF CLOSURE) AT 150 NMPH. AS THE RANGE DECREASED TO 25 NM THE OBJECT MOVED AWAY AT A SPEED THAT WAS VISIBLE ON THE RADAR SCOPE AND STAYED AT 25NM.
+
+C. THE SIZE OF THE RADAR RETURN WAS COMPARABLE TO THAT OF A 707 TANKER. THE VISUAL SIZE OF THE OBJECT WAS DIFFICULT TO DISCERN BECAUSE OF ITS INTENSE BRILLIANCE. THE LIGHT THAT IT GAVE OFF WAS THAT OF FLASHING STROBE LIGHTS ARRANGED IN A RECTANGULAR PATTERN AND ALTERNATING BLUE, GREEN, RED AND ORANGE IN COLOR. THE SEQUENCE OF THE LIGHTS WAS SO FAST THAT ALL THE COLORS COULD BE SEEN AT ONCE. THE OBJECT AND THE PURSUING F-4 CONTINUED ON A COURSE TO THE SOUTH OF TEHRAN WHEN ANOTHER BRIGHTLY LIGHTED OBJECT, ESTIMATED TO BE ONE HALF TO ONE THIRD THE APPARENT SIZE OF THE MOON, CAME OUT OF THE ORIGINAL OBJECT. THIS SECOND OBJECT HEADED STRAIGHT TOWARD THE F-4 AT A VERY FAST RATE OF SPEED. THE PILOT ATTEMPTED TO FIRE AN AIM-9 MISSILE AT THE OBJECT BUT AT THAT
+
+PAGE 2 [redacted] 00110101
+
+## Page 5
+
+PAGE 3 [redacted] 12843
+
+INSTANT HIS WEAPONS CONTROL PANEL WENT OFF AND HE LOST ALL COMMUNICATIONS (UHF AND INTERPHONE). AT THIS POINT THE PILOT INITIATED A TURN AND NEGATIVE G DIVE TO GET AWAY. AS HE TURNED THE OBJEAZ [sic] FELL IN TRAIL AT WHAT APPEARED TO BE ABOUT 3-4 NM. AS HE CONTINUED IN HIS TURN AWAY FROM THE PRIMARY OBJECT THE SECOND OBJECT WENT TO THE INSIDE OF HIS TURN THEN RETURNED TO THE PRIMARY OBJECT FOR A PERFECT REJOIN.
+
+D. SHORTLY AFTER THE SECOND OBJECT JOINED UP WITH THE PRIMARY OBJECT ANOTHER OBJECT APPEARED TO COME OUT OF THE OTHER SIDE OF THE PRIMARY OBJECT GOING STRAIGHT DOWN, AT A GREAT RATE OF SPEED. THE F-4 CREW HAD REGAINED COMMUNICATIONS AND THE WEAPONS CONTROL PANEL AND WATCHED THE OBJECT APPROACH THE GROUND ANTICIPATING A LARGE EXPLOSION. THIS OBJECT APPEARED TO COME TO REST GENTLY ON THE EARTH AND CAST A VERY BRIGHT LIGHT OVER AN AREA OF ABOUT 2-3 KILOMETERS.
+
+THE CREW DESCENDED FROM THEIR ALTITUDE OF 26M TO 15M AND CONTINUED TO OBSERVE AND MARK THE OBJECT'S POSITION. THEY HAD SOME DIFFICULTY IN ADJUSTING THEIR NIGHT VISIBILITY FOR LANDING SO AFTER ORBITING MEHRABAD A FEW TIMES THEY WENT OUT FOR A STRAIGHT IN LANDING. THERE WAS A LOT OF INTERFERENCE ON THE UHF AND EACH TIME THEY PASSED THROUGH A MAG. BEARING OF 150 DEGREE FROM EHRABAD [sic] THEY LOST THEIR COMMUNICATIONS (UHF AND INTERPHONE) AND THE INS FLUCTUATED FROM 30 DEGREES - 50 DEGREES. THE ONE CIVIL AIRLINER THAT WAS APPROACHING MEHRABAD DURING THIS SAME TIME EXPERIENCED COMMUNICATIONS FAILURE IN THE SAME VICINITY (KILO ZULU) BUT DID NOT REPORT SEEING ANYTHING. WHILE THE F-4 WAS ON A LONG FINAL APPROACH THE CREW NOTICED ANOTHER CYLINDER SHAPED OBJECT (ABOUT THE SIZE OF A T-BIRD AT 10M) WITH BRIGHT STEADY LIGHTS ON EACH END AND A FLASHER IN THE MIDDLE. WHEN QUERIED THE TOWER STATED THERE WAS NO OTHER KNOWN TRAFFIC IN THE AREA. DURING THE TIME THAT THE OBJECT PASSED OVER THE F-4 THE TOWER DID NOT HAVE A VISUAL ON IT BUT PICKED IT UP AFTER THE PILOT TOLD THEM TO LOOK BETWEEN THE MOUNTAINS AND THE REFINERY.
+
+E. DURING DAYLIGHT THE F-4 CREW WAS TAKEN OUT TO THE AREA IN A HELICOPTER WHERE THE OBJECT APPARENTLY HAD LANDED. NOTHING WAS NOTICED AT THE SPOT WHERE THEY THOUGHT THE OBJECT LANDED (A DRY LAKE BED) BUT AS THEY CIRCLED OFF TO THE WEST OF THE AREA THEY PICKED UP A VERY NOTICEABLE BEEPER SIGNAL. AT THE POINT WHERE THE RETURN WAS THE LOUDEST WAS A SMALL HOUSE WITH A GARDEN. THEY LANDED AND ASKED THE PEOPLE WITHIN IF THEY HAD NOTICED ANYTHING STRANGE LAST NIGHT. THE PEOPLE TALKED ABOUT A LOUD NOISE AND A VERY BRIGHT LIGHT
+
+PAGE 3 [redacted] 00110101
+
+## Page 6
+
+PAGE 4 [redacted] 12843
+
+LIKE LIGHTENING [sic]. THE AIRCRAFT ANJ [sic] AREA WHERE THE OBJECT IS BELIEVED TO HAVE LANDED ARE BEING CHECKED FOR POSSIBLE RADIATION.
+
+RO COMMENTS: [redacted] ACTUAL INFORMATION CONTAINED IN THIS REPORT WAS OBTAINED FROM SOURCE IN CONVERSATION WITH A SUB-SOURCE, AND IIAF PILOT OF ONE OF THE F-4S. MORE INFORMATION WILL BE FORWARDED WHEN IT BECOMES AVAILABLE.
+
+[redacted]
+
+BT
+
+#9575
+
+ANNOTES
+
+JEP 117
+
+PAGE 4 [redacted] 00110101
+
+NNNN
+
+230810Z
+
+*[stamp: 23 SEP 1976 13 11 DIA-DS-3C OX5-5865]*

@@ -491,6 +491,7 @@ entries:
 - **People**: [[Rear Admiral Timothy Gallaudet]], [[Luis Elizondo]], [[Oak Shannon]], [[David Fravor]], [[Mark Dantonio]], [[Dewey Fett]], [[John Ramirez]], [[Edward J. Ruppelt]], [[Leonard Stringfield]], [[Jacques Vallee]], [[Steven Greer]], [[Ross Coulthart]], [[John Greenewald]]
 - **Organizations**: [[AFOIN Special Group (AFOIN-X-SG)]], [[Office of Naval Intelligence]], [[Office of Naval Research]], [[Project Blue Book]], [[Project Grudge]], [[Battelle Memorial Institute]], [[BDM International]], [[Los Alamos National Laboratory]], [[Sol Foundation]], [[National Oceanic and Atmospheric Administration (NOAA)]], [[AARO]], [[Disclosure Project]]
 - **Locations**: [[Norton Air Force Base]], [[Shelburne Harbor, Nova Scotia]], [[Aguadilla, Puerto Rico]]
-- **Concepts**: [[Unidentified Submerged Object (USO)]], [[Trans-Medium Vehicle]], [[JANAP 146c]], [[OPNAV 3820]], [[USAF Regulation 200-2]], [[Beneath the Surface (Gallaudet White Paper)]], [[AARO Historical Report Volume 1]], [[Wilson-Davis Memo]]
+- **Concepts**: [[Unidentified Submerged Object (USO)]], [[Trans-Medium Vehicle]]
+- **Documents**: [[JANAP 146c]], [[OPNAV 3820]], [[USAF Regulation 200-2]], [[Beneath the Surface (Gallaudet White Paper)]], [[AARO Historical Report Volume 1]], [[Wilson-Davis Memo]]
 - **Operations**: [[Project Interloper]], [[Project Stork]]
 - **Events**: [[2004 Nimitz UAP Encounter (Tic Tac)]], [[Aguadilla Puerto Rico Trans-Medium UAP Incident]], [[Shelburne Harbor USO Incident]], [[Caribbean Island Cruise Missile Recovery USO Encounter]], [[USS Carl Vinson USO Sighting]], [[USS Nimitz 1991 USO Encounter]], [[USS Trepang USO Photographs]]

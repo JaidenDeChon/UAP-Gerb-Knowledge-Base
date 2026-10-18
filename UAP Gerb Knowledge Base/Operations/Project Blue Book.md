@@ -37,6 +37,10 @@ In public, Blue Book presented UFO investigation in a largely dismissive light. 
 
 In 1953, a year after Blue Book was set up and immediately after the [[Robertson Panel]]'s mandate to suppress public interest in UFOs, the Air Force issued Regulation 200-2. It restricted reporting procedures so that every confirmed UFO report filed by Air Force personnel went directly to Air Force intelligence instead of to Blue Book. As a result, the most credible sightings bypassed the public investigation and went into classified channels, and the American public and Congress never saw the strongest evidence.
 
+## Special Report No. 14
+
+In May 1955 [[Air Force Technical Intelligence Center|ATIC]] issued [[Project Blue Book Special Report No. 14]], a statistical study of the 3,201 cases in Blue Book's files up to the end of 1952, coded onto IBM punched cards with the help of an outside panel of scientists. The report does not name the panel, which was [[Battelle Memorial Institute]] working under [[Project Stork]]. It found it "highly improbable" that any of the reports represented technology beyond present-day scientific knowledge, and stressed that no case had produced valid evidence of physical matter. In [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]], Gerb sets that finding against Battelle's 1949 work on [[Nitinol (Nickel-Titanium Alloy)|nitinol]] for Wright-Patterson.
+
 ## The 1965 Kecksburg Case
 
 Project Blue Book's handling of the [[1965 Kecksburg, Pennsylvania Crash Retrieval|1965 Kecksburg UFO crash]] is an example of the dismissive approach it took for much of its later years, which hurt its credibility with serious researchers.
@@ -87,3 +91,4 @@ Project Blue Book documents were reportedly found scattered inside the [[Tejon R
 - [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]
 - [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]
 - [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]
+- [[Videos/UFOs in the Private Sector - Battelle Memorial Institute/summary|UFOs in the Private Sector - Battelle Memorial Institute]]

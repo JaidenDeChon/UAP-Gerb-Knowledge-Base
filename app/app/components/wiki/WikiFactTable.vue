@@ -10,6 +10,7 @@ type Row =
   | { type: 'text', label: string, value: string, mono: boolean }
   | { type: 'transcript', label: string, to: string }
   | { type: 'watch', label: string, url: string }
+  | { type: 'link', label: string, url: string, text: string }
 
 /** Read a frontmatter key from the note, whether hoisted to a column or in `meta`. */
 function raw(key: string): unknown {
@@ -86,6 +87,28 @@ const watchUrl = computed<string | undefined>(() => {
   return url && /^https?:\/\//i.test(url) ? url : undefined
 })
 
+function capitalize(value: string | undefined): string | undefined {
+  return value ? value.charAt(0).toUpperCase() + value.slice(1) : value
+}
+
+/** A Documents note's `provenance:` and `rights:`, in words. */
+const PROVENANCE_LABEL: Record<string, string> = {
+  official: 'Released by its issuer',
+  leaked: 'Leaked',
+  disputed: 'Authenticity disputed',
+}
+const RIGHTS_LABEL: Record<string, string> = {
+  'public-domain': 'Public domain',
+  'open-licence': 'Open licence',
+  'copyrighted': 'Under copyright',
+  'unclear': 'Unclear',
+}
+
+const sourceUrl = computed<string | undefined>(() => {
+  const url = field('source_url')
+  return url && /^https:\/\//i.test(url) ? url : undefined
+})
+
 const rows = computed<Row[]>(() => {
   const out: Row[] = []
   const push = (label: string, value: string | undefined, mono = false): void => {
@@ -96,6 +119,10 @@ const rows = computed<Row[]>(() => {
   push('Type', field('org_type') ?? field('location_type'))
   push('Coordinates', coordinates(), true)
   push('Date', field('date'), true)
+  push('Issued by', field('issuer'))
+  push('Kind', capitalize(field('doc_kind')))
+  push('Provenance', PROVENANCE_LABEL[field('provenance') ?? ''])
+  push('Rights', RIGHTS_LABEL[field('rights') ?? ''])
   push('Dates', span(), true)
   push('Also known as', alsoKnownAs())
   push('Official name', field('official_name'))
@@ -106,6 +133,9 @@ const rows = computed<Row[]>(() => {
 
   if (transcriptTo.value) {
     out.push({ type: 'transcript', label: 'Transcript', to: transcriptTo.value })
+  }
+  if (sourceUrl.value) {
+    out.push({ type: 'link', label: 'Source', url: sourceUrl.value, text: new URL(sourceUrl.value).hostname.replace(/^www\./, '') })
   }
   if (watchUrl.value) {
     out.push({ type: 'watch', label: 'Video', url: watchUrl.value })
@@ -145,6 +175,17 @@ const rows = computed<Row[]>(() => {
               <FileText class="size-3.5" />
               Read transcript
             </NuxtLink>
+
+            <a
+              v-else-if="row.type === 'link'"
+              :href="row.url"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="inline-flex items-center gap-1.5 font-sans text-primary underline-offset-2 hover:underline"
+            >
+              {{ row.text }}
+              <ExternalLink class="size-3.5" />
+            </a>
 
             <Button v-else as-child variant="outline" size="sm">
               <a :href="row.url" target="_blank" rel="noopener noreferrer">

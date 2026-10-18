@@ -12,6 +12,7 @@ const KNOWN_CATEGORIES = new Set<string>([
   'Events',
   'Locations',
   'Concepts',
+  'Documents',
   'Videos',
   'Analyses',
 ])

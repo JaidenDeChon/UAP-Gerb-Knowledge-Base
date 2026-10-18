@@ -11,7 +11,7 @@ United States Northern Command (USNORTHCOM or NORTHCOM) is a unified combatant c
 
 US Northern Command is the parent command of [[NORAD]] (North American Aerospace Defense Command). NORAD's aerospace warning and space surveillance missions are folded into NORTHCOM's wider homeland defense responsibilities. Because of this relationship, NORTHCOM has oversight authority over NORAD's [[Fast Walkers|Fast Walker]] detection operations and classified satellite tracking data.
 
-## 2013 FOIA Denial to John Greenwald
+## 2013 FOIA Denial to John Greenewald
 
 In 2013, [[John Greenewald]] of [[The Black Vault]] submitted a FOIA request to US Northern Command for documentation on Fast Walkers, which are objects detected by [[Defense Support Program (DSP)]] satellites as they enter or leave Earth's atmosphere. NORTHCOM replied that Fast Walker documentation is "currently and properly classified" under Executive Order 13526. It said such information is "considered critical to National Defense or foreign policy and is thus controlled by the US government."
 

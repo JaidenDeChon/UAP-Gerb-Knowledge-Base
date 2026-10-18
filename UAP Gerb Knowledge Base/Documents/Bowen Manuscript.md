@@ -1,0 +1,27 @@
+---
+name: "Bowen Manuscript"
+doc_kind: manuscript
+provenance: disputed
+rights: copyrighted
+tags:
+  - document
+---
+
+The Bowen Manuscript is the typed manuscript of *Encyclopedia of Flying Saucers* by Vernon Bowen, a history of UFO cases from 1947 to 1954, dated "1959?" by the researchers who published it. Bowen sent it to the US Air Force for review in 1960 and never got it back. It resurfaced in 1999, when researcher [[Tim Cooper]] obtained it from the Freedom of Information Act office at Fort Meade, Maryland, stamped Top Secret MAGIC and annotated by hand. [[Ryan S. Wood]] cites it as one of the few [[MJ-12 Documents]] that exist as original paper rather than photocopies or film.
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions described it as a history of cases up to 1960. The copy published on majesticdocuments.com (a sample of 14 of its 339 pages) describes it as covering 1947 to 1954 and dates it "1959?".
+
+## Annotations
+
+The original onion-skin pages carry pen and pencil marginalia that Ryan and [[Robert Wood]] attribute to [[Vannevar Bush]]. They say forensic testing dates the ink to about 1962. The notes described in the video include:
+
+- the question "what is Don Menzel doing?", referring to [[Donald Menzel]], another alleged [[Majestic 12]] member;
+- underlining of passages about insect-like beings, which Gerb links to [[Robert Sarbacher]]'s description of the crews;
+- underlining of a passage on Mussolini and Hitler being exposed to a recovered craft in 1942, which Gerb connects to the [[1933 Magenta UFO CrashRetrieval|1933 Magenta, Italy case]];
+- a handwritten "Moondust", referring to [[Project Moon Dust]];
+- the note "this should not get out", written beside speculation that some saucers might be secret American gravity-control craft; Wood takes it as a sign of concern about exposing anti-gravity work.
+
+## Sources
+
+- [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]]

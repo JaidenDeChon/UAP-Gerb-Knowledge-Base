@@ -4,7 +4,7 @@ tags:
   - person
 ---
 
-Debbie Clayton is a civilian witness who described to researcher [[Leonard Stringfield]] a 1971 daylight crash of an acorn-shaped craft about 15 miles outside [[Edwards Air Force Base]], California, and its rapid recovery by armed Air Force personnel. Stringfield recounted her account in his 1991 *UFO Crash Retrievals* Status Report VI.
+Debbie Clayton is a civilian witness who described to researcher [[Leonard Stringfield]] a 1971 daylight crash of an acorn-shaped craft about 15 miles outside [[Edwards Air Force Base]], California, and its rapid recovery by armed Air Force personnel. Stringfield recounted her account in his 1991 *UFO Crash Retrievals* [[Stringfield Status Reports|Status Report VI]].
 
 ## The 1971 crash
 

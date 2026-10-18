@@ -328,7 +328,7 @@ events:
   - date: "2017"
     title: "Salvatore Pais's inertial-mass-reduction craft patents"
     cue: 7017
-    summary: "Patents filed by Salvatore Pais out of Naval Air Station Patuxent River (Pax River) around 2017 for an inertial mass reduction craft show a triangle with a large concave centre, which Gerb compares to the concave feature Castle saw on the craft's underside."
+    summary: "Gerb says Salvatore Pais's Navy patent for an inertial mass reduction craft, which he dates to around 2017 and places at Naval Air Station Patuxent River (Pax River), shows a triangle with a large concave centre, like the concave feature Castle saw on the craft's underside. The patent's drawings show a flat triangle and a diamond, with no concave centre."
     category: document
     significance: minor
     entities:
@@ -610,7 +610,10 @@ rows:
 ---
 ::
 
-Gerb adds that [[Naval Air Station Patuxent River|Pax River]] patents by Salvatore Pais (around 2017) for an inertial-mass-reduction craft also show a triangle with a large concave centre.
+Gerb adds that [[Salvatore Pais]]'s [[Naval Air Station Patuxent River|Pax River]] patents for an inertial-mass-reduction craft (around 2017, he thinks) also show a triangle with a large concave centre. The patent, [[Craft Using an Inertial Mass Reduction Device]], was filed in April 2016, published in November 2017 and granted in December 2018. Its two figures are flat outlines of a triangle and a diamond, and neither they nor its text describe a concave centre.
+
+> [!edit] Clarified 16 October 2026
+> Earlier versions gave Gerb's date and description of the patent without comment. The patent itself (US 10,144,532 B2) gives the filing, publication and grant dates and shows no concave centre. The timeline entry above was reworded to match.
 
 ::wiki-grid{cols=2}
 ::wiki-panel{title="Likeliest, in Gerb's view: a TR-3B" tone="accent"}
@@ -730,7 +733,8 @@ entries:
 - **People**: [[Rodrik Castle]], [[Edgar Fouche]], [[Jonathan Weygandt]], [[Michael Herrera]], [[Robert J. Spane]], [[Charles Krulak]], [[Jay L. Johnson]], [[Kevin Knuth]], [[Bill McDonald]], [[Brad Sorenson]], [[Richard Mingus]], [[Bobby Ray Inman]], [[Frank Carlucci]], [[William F. Raborn]], [[John P. Craven]], [[Eric A. Walker]], [[Vannevar Bush]], [[Ross Coulthart]], [[David Fravor]], [[Steven Greer]], [[Eric Burlison]], [[David Grusch]], [[Randy Anderson]], [[Bob Lazar]], [[Matt Brown]]
 - **Organizations**: [[United States Marine Corps]], [[VMA-513]], [[Marine Corps Warfighting Laboratory]], [[Center for Naval Analyses]], [[Naval Aviation Warfare Development Center (NAWDC)]], [[Naval Air Station Lemoore (NAS Lemoore)]], [[412th Test Wing]], [[Wackenhut Services]], [[DOE Special Response Teams (SRTs)]], [[NEST (Nuclear Emergency Support Team)]], [[Department of Energy]], [[Sandia National Laboratories]], [[Lawrence Livermore National Laboratory]], [[Los Alamos National Laboratory]], [[Lockheed Martin Skunk Works]], [[Office of Naval Intelligence]], [[National Underwater Reconnaissance Office]], [[Naval Undersea Warfare Center Keyport]], [[NRO (National Reconnaissance Office)]], [[NSA]], [[CIA]], [[Sol Foundation]]
 - **Locations**: [[Marine Corps Air Ground Combat Center 29 Palms]], [[Emerson Dry Lake]], [[MCAS Yuma]], [[Fallon, Nevada]], [[R2508 Complex]], [[Edwards Air Force Base]], [[China Lake Naval Air Weapons Station]], [[Antelope Valley]], [[Air Force Plant 42]], [[Tejon Ranch]], [[Helendale]], [[Norton Air Force Base]], [[Area 51]], [[Area 6 (Nevada Test Site)]], [[Nevada National Security Site (Nevada Test Site)]], [[Nevada Test and Training Range (NTR)]], [[Naval Air Station Patuxent River]], [[Papoose Lake]]
-- **Concepts**: [[Alien Reproduction Vehicle (ARV)]], [[TR-3B]], [[XF-131 Super Sentinel]], [[Magnetic Field Disruptor (MFD)]], [[Federally Funded Research and Development Center (FFRDC)]], [[Atomic Energy Act of 1954]], [[Immaculate Constellation (IMCON)]]
+- **Concepts**: [[Alien Reproduction Vehicle (ARV)]], [[TR-3B]], [[XF-131 Super Sentinel]], [[Magnetic Field Disruptor (MFD)]], [[Federally Funded Research and Development Center (FFRDC)]], [[Immaculate Constellation (IMCON)]]
+- **Documents**: [[Atomic Energy Act of 1954]], [[Craft Using an Inertial Mass Reduction Device]]
 - **Operations**: [[Project Sanddollar]]
 - **Events**: [[Rodrik Castle UAP Encounter]], [[Hunter Warrior Advanced Warfighting Experiment]], [[Peru UFO Crash Incident]], [[2009 Indonesia UFO Encounter (Herrera)]], [[2004 Nimitz UAP Encounter (Tic Tac)]], [[Norton Air Force Base Air Show]], [[Belgian UFO Wave]], [[Sol Foundation 2023 Presentation by Kevin Knuth]]
 

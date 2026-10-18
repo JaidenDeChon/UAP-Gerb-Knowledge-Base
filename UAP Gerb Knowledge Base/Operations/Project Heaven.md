@@ -5,7 +5,7 @@ tags:
   - operation
 ---
 
-**Project Heaven**, also called Project Blue Heaven, is an alleged special project at [[Edwards Air Force Base]] in which a landed flying saucer and its crew were held and studied. It is known from the testimony of a physicist identified only by the pseudonym "Dr. Epigoni", recorded by researcher [[Leonard Stringfield]] in *UFO Crash Retrievals: The Inner Sanctum*, his Status Report VI (1991).
+**Project Heaven**, also called Project Blue Heaven, is an alleged special project at [[Edwards Air Force Base]] in which a landed flying saucer and its crew were held and studied. It is known from the testimony of a physicist identified only by the pseudonym "Dr. Epigoni", recorded by researcher [[Leonard Stringfield]] in *UFO Crash Retrievals: The Inner Sanctum*, his [[Stringfield Status Reports|Status Report VI]] (1991).
 
 ## Epigoni's account
 

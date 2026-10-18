@@ -25,6 +25,14 @@ const preview = ref<NotePreview | null>(null)
 const loading = ref(false)
 let started = false
 
+/** "FBI · 1950-03-22 · 1 page", for a Documents note. */
+const documentFacts = computed(() => {
+  const doc = preview.value?.document
+  if (!doc) return ''
+  const pages = doc.file ? `${doc.file.pages} ${doc.file.pages === 1 ? 'page' : 'pages'}` : ''
+  return [doc.date, pages].filter(Boolean).join(' · ')
+})
+
 async function load(open: boolean): Promise<void> {
   if (!open || started || !isInternal.value) return
   started = true
@@ -67,12 +75,25 @@ async function load(open: boolean): Promise<void> {
         decoding="async"
         class="ufo-preview-portrait ufo-fade ufo-fade-xy"
       >
+      <!-- A document's first page sits in the same corner, as a small sheet. -->
+      <img
+        v-else-if="preview?.document?.file"
+        :src="preview.document.file.thumb.src"
+        :width="preview.document.file.thumb.width"
+        :height="preview.document.file.thumb.height"
+        alt=""
+        decoding="async"
+        class="ufo-preview-sheet"
+      >
       <div v-if="preview" class="flex flex-col gap-2">
         <CardTitle class="text-[16px] leading-5 tracking-normal">
           {{ preview.title }}
         </CardTitle>
-        <div>
+        <div class="flex flex-wrap items-center gap-x-2 gap-y-1">
           <Badge variant="outline">{{ preview.category }}</Badge>
+          <span v-if="documentFacts" class="font-mono text-[11px] leading-4 text-muted-foreground">
+            {{ documentFacts }}
+          </span>
         </div>
         <p v-if="preview.lead" class="line-clamp-4 text-[13px] leading-5 text-muted-foreground">
           {{ preview.lead }}
@@ -115,5 +136,14 @@ async function load(open: boolean): Promise<void> {
   object-position: 50% 22%;
   --ufo-fade-x-start: 40%;
   --ufo-fade-y-start: 50%;
+}
+/* A document's first page: a small sheet in the same corner, uncropped. */
+.ufo-preview-sheet {
+  float: right;
+  width: 64px;
+  height: auto;
+  margin: 0 0 6px 12px;
+  background: #fff;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.2), 0 0 0 1px rgb(0 0 0 / 0.08);
 }
 </style>

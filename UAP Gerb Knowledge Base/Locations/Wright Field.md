@@ -18,7 +18,10 @@ In 1948 Wright Field was combined with nearby Patterson Field to form Wright-Pat
 
 ## The 1949–1950 Crash Retrieval Meetings
 
-[[Robert Sarbacher]], a physicist and consultant to the DoD's [[Research and Development Board]], stated in his 1983 letter to researcher [[William Steinman]] and in his recorded conversation with [[Stanton Friedman]] that meetings concerning recovered UAP craft and materials took place at Wright Field around 1949–1950. Sarbacher did not attend them himself, but he was invited to take part in discussions about crash retrievals at the R&D Board. He named [[Vannevar Bush]], [[John Von Neumann]], and [[J. Robert Oppenheimer]] as definitively involved.
+[[Robert Sarbacher]], a physicist and consultant to the DoD's [[Research and Development Board]], placed meetings about recovered UAP craft at Wright Field in his recorded conversation with [[Stanton Friedman]] in 1983. In his [[Sarbacher Letter|letter of 29 November 1983]] to researcher [[William Steinman]], he wrote that he had been invited to several discussions about the reported recoveries but could not attend, without saying where they were held. He named [[John Von Neumann]] and [[Vannevar Bush]] as "definitely involved", and added "I think Dr. Robert Oppenheimer also" ([[J. Robert Oppenheimer]]).
+
+> [!edit] Corrected 16 October 2026
+> Earlier versions said both the letter and the Friedman call placed the meetings at Wright Field around 1949–1950, and that Sarbacher named all three men as definitely involved. The letter names no place or date and is less sure of Oppenheimer; the Wright Field location comes from the Friedman call.
 
 In his conversation with Friedman, Sarbacher described a meeting at Wright Field about a crash that had occurred "out west," likely referring to the 1947 Roswell incident or other contemporaneous New Mexico recoveries. He mentioned an attendee from Philadelphia who "acted very smug" about his involvement. That attendee was later identified as [[Eric A. Walker]], Executive Secretary of the Defense Research Board from 1950 to 1951.
 

@@ -514,5 +514,6 @@ entries:
 - **People**: [[Karl Nell]], [[David Grusch]], [[Leslie Kean]], [[Matthew Pines]], [[Chris Mellon]], [[Luis Elizondo]], [[Gary Nolan]], [[Kevin Knuth]], [[Jacques Vallee]], [[Ryan Graves]], [[David Fravor]], [[Sean Kirkpatrick]], [[Michael Shellenberger]]
 - **Organizations**: [[Sol Foundation]], [[Defense Intelligence Agency]], [[UAP Task Force]], [[AARO]], [[Northrop Grumman]]
 - **Concepts**: [[Legacy Programs]], [[Kardashev Scale]], [[Universal Civilization Development Datum]], [[UAP Taxonomy]], [[Five UAP Characteristics (AATIP)]]
-- **Operations**: [[UAP Campaign Plan - Way Forward]], [[AATIP (Advanced Aerospace Threat Identification Program)]], [[Project Blue Book]]
-- **Events**: [[SOL Foundation Symposium]], [[Schumer Amendment (NDAA)]]
+- **Documents**: [[UAP Campaign Plan - Way Forward]], [[Schumer Amendment (NDAA)]]
+- **Operations**: [[AATIP (Advanced Aerospace Threat Identification Program)]], [[Project Blue Book]]
+- **Events**: [[SOL Foundation Symposium]]

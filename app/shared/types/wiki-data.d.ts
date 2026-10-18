@@ -21,4 +21,5 @@ declare module '#wiki-data' {
   export const geo: import('./wiki').BakedGeo
   export const portraits: import('./wiki').BakedPortraits
   export const places: import('./wiki').BakedPlaces
+  export const documents: import('./wiki').BakedDocuments
 }

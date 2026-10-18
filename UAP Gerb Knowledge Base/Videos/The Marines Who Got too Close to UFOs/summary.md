@@ -425,5 +425,6 @@ entries:
 - **Organizations**: [[United States Marine Corps]], [[Marine Air Control Group 28]], [[CIA]], [[US Air Force]], [[US Army]], [[US SOUTHCOM]], [[Department of Energy]], [[DOE Special Response Teams (SRTs)]], [[NEST (Nuclear Emergency Support Team)]], [[NRO (National Reconnaissance Office)]], [[Atomic Energy Commission]], [[Nuclear Regulatory Commission]], [[EG&G]], [[Raytheon]], [[Lockheed Martin]], [[National Press Club]], [[Disclosure Project]]
 - **Locations**: [[Pucallpa]], [[Indonesia]], [[Sumatra, Indonesia]], [[Area 51]], [[Denver, Colorado]]
 - **Operations**: [[Operation Laser Strike]]
-- **Events**: [[Peru UFO Crash Incident]], [[2009 Indonesia UFO Encounter (Herrera)]], [[2009 Sumatra Earthquake]], [[Belgian UFO Wave]], [[Schumer Amendment (NDAA)]]
-- **Concepts**: [[Alien Reproduction Vehicle (ARV)]], [[TR-3B]], [[Wilson-Davis Memo]], [[Special Access Programs (SAPs)]], [[Egg-shaped UAP]], [[Mother of Pearl Effect]], [[MIM-23 Hawk Missile]]
+- **Events**: [[Peru UFO Crash Incident]], [[2009 Indonesia UFO Encounter (Herrera)]], [[2009 Sumatra Earthquake]], [[Belgian UFO Wave]]
+- **Concepts**: [[Alien Reproduction Vehicle (ARV)]], [[TR-3B]], [[Special Access Programs (SAPs)]], [[Egg-shaped UAP]], [[Mother of Pearl Effect]], [[MIM-23 Hawk Missile]]
+- **Documents**: [[Schumer Amendment (NDAA)]], [[Wilson-Davis Memo]]

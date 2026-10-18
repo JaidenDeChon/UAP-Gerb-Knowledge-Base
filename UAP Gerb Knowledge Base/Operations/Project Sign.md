@@ -7,7 +7,10 @@ date_start: 1948
 date_end: 1949
 ---
 
-Project Sign was the first official United States Government program to systematically investigate unidentified flying objects. It ran from 1948 to 1949 under the [[US Air Force]]. It was set up after Lieutenant General [[Nathan Twining]] assessed that flying discs were "real and not visionary or fictitious," and it was the earliest formal acknowledgment at the highest levels of the Air Force that UFO reports deserved serious investigation. Sign investigated military and civilian UFO reports in the late 1940s, including the well-known [[Gorman Dogfight]] of October 1, 1948. General [[Hoyt Vandenberg]] shut the program down in 1949, despite, or because of, its preliminary conclusions supporting the reality of unexplained aerial objects.
+Project Sign was the first official United States Government program to systematically investigate unidentified flying objects. It ran from 1948 to 1949 under the [[US Air Force]]. It was set up after Lieutenant General [[Nathan Twining]] assessed that flying discs were "real and not visionary or fictitious," and it was the earliest formal acknowledgment at the highest levels of the Air Force that UFO reports deserved serious investigation. Sign investigated military and civilian UFO reports in the late 1940s, including the well-known [[Gorman Dogfight]] of October 1, 1948. In the autumn of 1948, according to [[Edward J. Ruppelt]], Sign's Top Secret [[Project Sign Estimate of the Situation (1948)|Estimate of the Situation]], which concluded that UFOs were interplanetary, was rejected by General [[Hoyt Vandenberg]] for lack of proof. In February 1949 the project was renamed [[Project Grudge]].
+
+> [!edit] Corrected 16 October 2026
+> This paragraph used to say that Vandenberg shut Sign down in 1949, "despite, or because of, its preliminary conclusions". That is Gerb's account in *The Origin of the UFO Stigma*. In Ruppelt's book, what Vandenberg rejected for lack of proof was Sign's 1948 Estimate of the Situation, and Sign was renamed Grudge by an order of 11 February 1949 that Ruppelt doesn't credit to Vandenberg.
 
 ## Establishment
 
@@ -25,11 +28,14 @@ Project Sign first put forward conventional explanations such as weather balloon
 
 ## Findings
 
-Project Sign's written report concluded that some UFO reports describe actual objects but that their origins cannot be determined. Captain [[Edward J. Ruppelt]], who later directed Sign's successors ([[Project Grudge]] and [[Project Blue Book]]), stated that Sign had internally endorsed the interplanetary hypothesis as the best explanation for some of its unexplained cases. Ruppelt also wrote that the Gorman dogfight was one of three classic UFO incidents in 1948 that "proved to Air Force intelligence specialists that UFOs were real."
+Project Sign's written report concluded that some UFO reports describe actual objects but that their origins cannot be determined. Captain [[Edward J. Ruppelt]], who later directed Sign's successors ([[Project Grudge]] and [[Project Blue Book]]), wrote in his 1956 book that Sign had gone further in private. In the late summer or early autumn of 1948 it sent up a Top Secret [[Project Sign Estimate of the Situation (1948)|Estimate of the Situation]] concluding that UFOs were interplanetary. No copy of the Estimate has been made public, and its existence rests on Ruppelt's account and on later ones. Ruppelt also wrote that the Gorman dogfight was one of three classic UFO incidents in 1948 that "proved to Air Force intelligence specialists that UFOs were real."
 
 ## Termination
 
-General [[Hoyt Vandenberg]] shut down Project Sign in 1949, officially citing insufficient proof for the extraterrestrial interpretation. Its replacement, [[Project Grudge]], was commissioned the same year Sign was terminated. Unlike Sign, Grudge was not tasked with investigation: its explicit job was to explain UFO sightings away to "alleviate public anxiety." Replacing Sign with Grudge was the first major documented shift in the US government's stance on UFOs, away from investigation and toward suppression.
+According to Ruppelt, the Estimate reached General [[Hoyt Vandenberg]], the Air Force Chief of Staff, who "wouldn't buy interplanetary vehicles" and sent it back because "the report lacked proof". Some months later, he writes, it was declassified and burned, though a few copies were kept. He doesn't say who ordered that. Gerb tells this as Vandenberg shutting Sign down in 1949 for "lack of proof", and in another video says Vandenberg ordered the Estimate destroyed. By Ruppelt's account the rejection took the heart out of the project, and an order of 11 February 1949 renamed it [[Project Grudge]]. Its replacement, [[Project Grudge]], was commissioned the same year Sign was terminated. Unlike Sign, Grudge was not tasked with investigation: its explicit job was to explain UFO sightings away to "alleviate public anxiety." Replacing Sign with Grudge was the first major documented shift in the US government's stance on UFOs, away from investigation and toward suppression.
+
+> [!edit] Corrected 16 October 2026
+> This section used to say as fact that Vandenberg shut Sign down in 1949, officially citing insufficient proof for the extraterrestrial interpretation. No order of Vandenberg's closing Sign is known. Ruppelt's book says Vandenberg rejected Sign's 1948 Estimate of the Situation for lack of proof, and that Sign became Grudge by an order of 11 February 1949. The section now says who claims what.
 
 ## Legacy
 

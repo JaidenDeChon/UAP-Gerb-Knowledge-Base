@@ -47,10 +47,21 @@ export function buildTree(): TreeItem[] {
 }
 
 function buildFlatFolder(category: Category, stems: string[]): TreeFolder {
-  const children: TreeNote[] = stems
-    .map(stem => ({ type: 'note' as const, name: stem.split('/').pop()!, path: stemToPath(stem) }))
-    .sort(byName)
-  return { type: 'folder', name: category, id: category, count: children.length, children }
+  const note = (stem: string): TreeNote => ({ type: 'note', name: stem.split('/').pop()!, path: stemToPath(stem) })
+  // A category's own subfolders (only Documents/Transcriptions so far) nest
+  // one level down, after its notes.
+  const top = stems.filter(stem => stem.split('/').length === 2)
+  const children: TreeItem[] = top.map(note).sort(byName)
+  const sub = new Map<string, string[]>()
+  for (const stem of stems) {
+    const parts = stem.split('/')
+    if (parts.length < 3) continue
+    sub.set(parts[1]!, [...(sub.get(parts[1]!) ?? []), stem])
+  }
+  for (const [name, group] of [...sub].sort(([a], [b]) => collator.compare(a, b))) {
+    children.push({ type: 'folder', name, id: `${category}/${name}`, count: group.length, children: group.map(note).sort(byName) })
+  }
+  return { type: 'folder', name: category, id: category, count: stems.length, children }
 }
 
 function buildVideosFolder(stems: string[]): TreeFolder {

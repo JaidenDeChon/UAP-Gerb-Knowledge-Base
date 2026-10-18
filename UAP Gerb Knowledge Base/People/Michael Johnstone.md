@@ -7,7 +7,7 @@ tags:
   - person
 ---
 
-Michael B. Johnstone is a UFO researcher who conducted the interview that the case of the anonymous Marine whistleblower known as "[[RB]]" rests on, and who put RB in touch with researcher [[Leonard Stringfield]]. Stringfield later published the record of Johnstone's 1986 interview in *UFO Crash/Retrieval Status Report 5* under the case title "Marine Guards a Disc-Shaped Vehicle, 1963."
+Michael B. Johnstone is a UFO researcher who conducted the interview that the case of the anonymous Marine whistleblower known as "[[RB]]" rests on, and who put RB in touch with researcher [[Leonard Stringfield]]. Stringfield later published the record of Johnstone's 1986 interview in *[[Stringfield Status Reports|UFO Crash/Retrieval Status Report 5]]* under the case title "Marine Guards a Disc-Shaped Vehicle, 1963."
 
 ## Role in the RB Case
 

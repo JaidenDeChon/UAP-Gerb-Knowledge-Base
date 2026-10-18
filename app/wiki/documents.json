@@ -1,0 +1,420 @@
+{
+  "$comment": "Written by app/scripts/fetch-documents.mjs; baked by app/wiki/documents.ts. Keys are Documents page titles.",
+  "documents": {
+    "AARO Historical Report Volume 1": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868.pdf",
+      "sha256": "8c23519c62a5717427c2d09d5ade165284421f2e5facad76a565a94774067868",
+      "bytes": 726657,
+      "pages": 63,
+      "thumb": {
+        "src": "/documents/aaro-historical-report-volume-1.webp",
+        "width": 320,
+        "height": 415
+      },
+      "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+      "fetchedFrom": "https://web.archive.org/web/20261009071205id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+      "retrieved": "2026-10-16"
+    },
+    "Atomic Energy Act of 1954": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/76433ff04ae5d0c9589991b94e025d68834e1b2663cd23575256087c8e717d61.pdf",
+      "sha256": "76433ff04ae5d0c9589991b94e025d68834e1b2663cd23575256087c8e717d61",
+      "bytes": 8626574,
+      "pages": 43,
+      "thumb": {
+        "src": "/documents/atomic-energy-act-of-1954.webp",
+        "width": 320,
+        "height": 467
+      },
+      "thumbPage": 1,
+      "source": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
+      "fetchedFrom": "https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg919.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "Craft Using an Inertial Mass Reduction Device": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/ca1d3ed880245a67afff5d8bb97fa02875f5f46a15dd63b07d643141ae4bfd8a.pdf",
+      "sha256": "ca1d3ed880245a67afff5d8bb97fa02875f5f46a15dd63b07d643141ae4bfd8a",
+      "bytes": 619421,
+      "pages": 6,
+      "ocr": "skip-text",
+      "sourceSha256": "ffd439f7cece2cf184d7fee9d37b0a6f65a247495a2ea7e6c7247ad5cedce6f7",
+      "thumb": {
+        "src": "/documents/craft-using-an-inertial-mass-reduction-device.webp",
+        "width": 320,
+        "height": 413
+      },
+      "thumbPage": 1,
+      "source": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10144532",
+      "fetchedFrom": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10144532",
+      "retrieved": "2026-10-17"
+    },
+    "DIA Tehran UFO Report (1976)": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/3b2bd9a8a1798fd30219881d86d16554e2d27af3d8ab398f0716b451ca9ab5b0.pdf",
+      "sha256": "3b2bd9a8a1798fd30219881d86d16554e2d27af3d8ab398f0716b451ca9ab5b0",
+      "bytes": 11396483,
+      "pages": 6,
+      "ocr": "force-ocr",
+      "sourceSha256": "0dffcf6eba065530d46aab81f016f1cc9151b62da0ddca866c64ba5daf6ec4b1",
+      "ocrRequest": "redo",
+      "thumb": {
+        "src": "/documents/dia-tehran-ufo-report-1976.webp",
+        "width": 320,
+        "height": 411
+      },
+      "thumbPage": 3,
+      "source": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/routing_slip_ufo_iran.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20260307120154id_/https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/routing_slip_ufo_iran.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "Environmental Assessment Report on Avery Technical Center": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/2da2f38e5e145e7310d68664b37a29a3e4dc434951760da4bdb169b39a3190e0.pdf",
+      "sha256": "2da2f38e5e145e7310d68664b37a29a3e4dc434951760da4bdb169b39a3190e0",
+      "bytes": 2098593,
+      "pages": 88,
+      "thumb": {
+        "src": "/documents/environmental-assessment-report-on-avery-technical-center.webp",
+        "width": 320,
+        "height": 415
+      },
+      "thumbPage": 4,
+      "source": "https://apps.dtic.mil/sti/citations/ADA609358",
+      "fetchedFrom": "https://web.archive.org/web/20200327024153id_/https://apps.dtic.mil/dtic/tr/fulltext/u2/a609358.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "Executive Order 10501": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/150e6706c3418d1cce60ea6d1f0adc2994791e7325a88dbf8506bab09bad496c.pdf",
+      "sha256": "150e6706c3418d1cce60ea6d1f0adc2994791e7325a88dbf8506bab09bad496c",
+      "bytes": 4854104,
+      "pages": 16,
+      "thumb": {
+        "src": "/documents/executive-order-10501.webp",
+        "width": 320,
+        "height": 426
+      },
+      "thumbPage": 1,
+      "source": "https://www.govinfo.gov/content/pkg/FR-1953-11-10/pdf/FR-1953-11-10.pdf",
+      "fetchedFrom": "https://www.govinfo.gov/content/pkg/FR-1953-11-10/pdf/FR-1953-11-10.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "Executive Order 13526": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/3cdd8ace6ea3d8278ece5ad14a55a2049af433a95cb46261d6bd4bce7cb71456.pdf",
+      "sha256": "3cdd8ace6ea3d8278ece5ad14a55a2049af433a95cb46261d6bd4bce7cb71456",
+      "bytes": 195627,
+      "pages": 25,
+      "thumb": {
+        "src": "/documents/executive-order-13526.webp",
+        "width": 320,
+        "height": 415
+      },
+      "thumbPage": 1,
+      "source": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/pdf/E9-31418.pdf",
+      "fetchedFrom": "https://www.govinfo.gov/content/pkg/FR-2010-01-05/pdf/E9-31418.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "FBI File on Silas Newton": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/e1b67210646d0457afe85bb93f0778c9d25af06b61c412aee9b7ee2b29356c70.pdf",
+      "sha256": "e1b67210646d0457afe85bb93f0778c9d25af06b61c412aee9b7ee2b29356c70",
+      "bytes": 177492,
+      "pages": 7,
+      "ocr": "skip-text",
+      "sourceSha256": "0c5a9799e5cc041363e6f43bd4fff2f860abaff218b78d4f3da3ccceb56d4fb7",
+      "thumb": {
+        "src": "/documents/fbi-file-on-silas-newton.webp",
+        "width": 320,
+        "height": 415
+      },
+      "thumbPage": 3,
+      "source": "https://vault.fbi.gov/silas-newton",
+      "fetchedFrom": "https://vault.fbi.gov/silas-newton/Silas%20M%20Newton%20Part%2002/at_download/file",
+      "retrieved": "2026-10-16"
+    },
+    "GAO Report on Army Guard Program": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/fbb3814cbf6c71f0f3d15f020b40afd1aa4745754dc39001106ef8854df178b0.pdf",
+      "sha256": "fbb3814cbf6c71f0f3d15f020b40afd1aa4745754dc39001106ef8854df178b0",
+      "bytes": 1111357,
+      "pages": 47,
+      "thumb": {
+        "src": "/documents/gao-report-on-army-guard-program.webp",
+        "width": 320,
+        "height": 415
+      },
+      "thumbPage": 1,
+      "source": "https://www.gao.gov/products/gao-06-284",
+      "fetchedFrom": "https://web.archive.org/web/20260613173947id_/https://www.gao.gov/assets/gao-06-284.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "GAO Report on Special Access Contracts (1986)": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/31a8b02198d108067cf61568ba963a3f5bd971baa74c014308084b6f4f98944d.pdf",
+      "sha256": "31a8b02198d108067cf61568ba963a3f5bd971baa74c014308084b6f4f98944d",
+      "bytes": 1345740,
+      "pages": 16,
+      "ocr": "force-ocr",
+      "sourceSha256": "9e929a95d4d6ff7ae3290f4d46eef05b2e48ca6a4b1ef4bc66608e37505ea41e",
+      "ocrRequest": "redo",
+      "thumb": {
+        "src": "/documents/gao-report-on-special-access-contracts-1986.webp",
+        "width": 320,
+        "height": 410
+      },
+      "thumbPage": 1,
+      "source": "https://www.gao.gov/assets/nsiad-86-191.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20250208205408id_/https://www.gao.gov/assets/nsiad-86-191.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "GAO Report on Special Access Program Due Process (1993)": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/d6b4a97e1da1ab29f921866b79b485d1bededb3e29deef7ef79b07200bcb9d84.pdf",
+      "sha256": "d6b4a97e1da1ab29f921866b79b485d1bededb3e29deef7ef79b07200bcb9d84",
+      "bytes": 3678347,
+      "pages": 38,
+      "ocr": "force-ocr",
+      "sourceSha256": "b2ba3f1a819f1f09566fe7dbd506d37b1ea8339cc8773b350d6f212115f3e250",
+      "ocrRequest": "redo",
+      "thumb": {
+        "src": "/documents/gao-report-on-special-access-program-due-process-1993.webp",
+        "width": 320,
+        "height": 412
+      },
+      "thumbPage": 1,
+      "source": "https://www.gao.gov/assets/nsiad-93-162.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20261012075249id_/https://www.gao.gov/assets/nsiad-93-162.pdf",
+      "retrieved": "2026-10-17"
+    },
+    "GAO Roswell Report (1995)": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/bd26d91cfc8d72754236c93f51dc455abff93998cca55e881de9e47e13d4f79f.pdf",
+      "sha256": "bd26d91cfc8d72754236c93f51dc455abff93998cca55e881de9e47e13d4f79f",
+      "bytes": 284862,
+      "pages": 26,
+      "ocr": "skip-text",
+      "sourceSha256": "9719015a29bfb9294b4f41db94ab6567ad4f5b465b8ae2c9530faaf22ad466c4",
+      "thumb": {
+        "src": "/documents/gao-roswell-report-1995.webp",
+        "width": 320,
+        "height": 415
+      },
+      "thumbPage": 1,
+      "source": "https://www.gao.gov/assets/nsiad-95-187.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20261005224158id_/https://www.gao.gov/assets/nsiad-95-187.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "Hottel Memo": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/935aa48e2169c55914ad9a2265947066ab2ae54cb8c1e01b8cf26a7048bc2567.pdf",
+      "sha256": "935aa48e2169c55914ad9a2265947066ab2ae54cb8c1e01b8cf26a7048bc2567",
+      "bytes": 942843,
+      "pages": 2,
+      "ocr": "force-ocr",
+      "sourceSha256": "05ac550c99d6fd02efa2e07ff2fcb4e2b9e917a812ba554efe51d702fcc728cb",
+      "ocrRequest": "redo",
+      "thumb": {
+        "src": "/documents/hottel-memo.webp",
+        "width": 320,
+        "height": 414
+      },
+      "thumbPage": 2,
+      "source": "https://vault.fbi.gov/hottel_guy/Guy%20Hottel%20Part%2001%20(Final)/at_download/file",
+      "fetchedFrom": "https://vault.fbi.gov/hottel_guy/Guy%20Hottel%20Part%2001%20(Final)/at_download/file",
+      "retrieved": "2026-10-16"
+    },
+    "JANAP 146c": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/a049ff6e7f3935139e012f0e1d84229460b0bafeb18ad2ada0840b1b91e3f29b.pdf",
+      "sha256": "a049ff6e7f3935139e012f0e1d84229460b0bafeb18ad2ada0840b1b91e3f29b",
+      "bytes": 1572371,
+      "pages": 26,
+      "ocr": "skip-text",
+      "sourceSha256": "51772da07682618a44f7ee8e257e44a45dafb0451a741b969c6b59626a2cb4f3",
+      "thumb": {
+        "src": "/documents/janap-146c.webp",
+        "width": 320,
+        "height": 400
+      },
+      "thumbPage": 1,
+      "source": "https://www.nicap.org/directives/JANAP-146C%20March%2010,%201954.pdf",
+      "fetchedFrom": "https://www.nicap.org/directives/JANAP-146C%20March%2010,%201954.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "Kona Blue Documents": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/7fe05b90a25c1d11d0896ed2d20b484a9457907523397fd97f9813e5c6e6c5cd.pdf",
+      "sha256": "7fe05b90a25c1d11d0896ed2d20b484a9457907523397fd97f9813e5c6e6c5cd",
+      "bytes": 13366975,
+      "pages": 56,
+      "ocr": "skip-text",
+      "sourceSha256": "a4c22003873e0364c2c4566b48cbf966d54ef79a90650862b41fb2bd1727e03b",
+      "thumb": {
+        "src": "/documents/kona-blue-documents.webp",
+        "width": 320,
+        "height": 248
+      },
+      "thumbPage": 2,
+      "source": "https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20260925144502id_/https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "Moon Dust New Zealand Cable (1978)": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/9c98f1dc0b653152ea2a0a322cd3019e5226050971ab78414375af52085e08e0.pdf",
+      "sha256": "9c98f1dc0b653152ea2a0a322cd3019e5226050971ab78414375af52085e08e0",
+      "bytes": 207871,
+      "pages": 5,
+      "ocr": "force-ocr",
+      "sourceSha256": "a4e05d0cc7ab3fb3908f4ae45527927c886f645074b1becb13937c66af540ec1",
+      "ocrRequest": "redo",
+      "thumb": {
+        "src": "/documents/moon-dust-new-zealand-cable-1978.webp",
+        "width": 320,
+        "height": 415
+      },
+      "thumbPage": 1,
+      "source": "https://foia.state.gov/DOCUMENTS/1-FY2012/F-2011-05250/DOC_0C17486302/C17486302.pdf",
+      "fetchedFrom": "https://foia.state.gov/DOCUMENTS/1-FY2012/F-2011-05250/DOC_0C17486302/C17486302.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "Now You See It, Now You Don't": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/150324c542237e35328ac29f02bfb655d698422b8ce12155674b3984e98f8922.pdf",
+      "sha256": "150324c542237e35328ac29f02bfb655d698422b8ce12155674b3984e98f8922",
+      "bytes": 5289648,
+      "pages": 3,
+      "ocr": "force-ocr",
+      "sourceSha256": "941ed97ccff210ba7d85bf95296cc6ab996acafb947aa5589a66dd3b2d42eec8",
+      "ocrRequest": "redo",
+      "thumb": {
+        "src": "/documents/now-you-see-it-now-you-don-t.webp",
+        "width": 320,
+        "height": 406
+      },
+      "thumbPage": 1,
+      "source": "https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/now_you_see.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20260523033920id_/https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/now_you_see.pdf",
+      "retrieved": "2026-10-17"
+    },
+    "ODNI Preliminary Assessment (2021)": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/3b699a825c53aab7816b50ffe0c45d4f424ca43da5eaa421736e529f2ac00ac9.pdf",
+      "sha256": "3b699a825c53aab7816b50ffe0c45d4f424ca43da5eaa421736e529f2ac00ac9",
+      "bytes": 385812,
+      "pages": 9,
+      "thumb": {
+        "src": "/documents/odni-preliminary-assessment-2021.webp",
+        "width": 320,
+        "height": 415
+      },
+      "thumbPage": 1,
+      "source": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+      "fetchedFrom": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "Project Blue Book Special Report No. 14": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/86c9b939aca847269cfb8050e8d829aaba7d9909eeaba08b0f2e1e852151806e.pdf",
+      "sha256": "86c9b939aca847269cfb8050e8d829aaba7d9909eeaba08b0f2e1e852151806e",
+      "bytes": 24437996,
+      "pages": 312,
+      "ocr": "skip-text",
+      "sourceSha256": "90e05e77fc088c29758c2ddda514c0c12f317e5686ee213d348db2f9da152ee3",
+      "thumb": {
+        "src": "/documents/project-blue-book-special-report-no-14.webp",
+        "width": 320,
+        "height": 412
+      },
+      "thumbPage": 4,
+      "source": "https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20260920110831id_/https://www.war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_Book_Special_Report_No_14.pdf",
+      "retrieved": "2026-10-17"
+    },
+    "Project Grudge Report": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/4db6e50ba1ce71d1f8b81d40406c00260dedc93ac31fe5dfc421602b63e9ede6.pdf",
+      "sha256": "4db6e50ba1ce71d1f8b81d40406c00260dedc93ac31fe5dfc421602b63e9ede6",
+      "bytes": 119460722,
+      "pages": 412,
+      "ocr": "skip-text",
+      "sourceSha256": "7d5006a7eaeae36a2718ce7b30c02bf3ddfa6fc16fba7438b7d5730805da12a7",
+      "thumb": {
+        "src": "/documents/project-grudge-report.webp",
+        "width": 320,
+        "height": 406
+      },
+      "thumbPage": 1,
+      "source": "https://catalog.archives.gov/id/461456800",
+      "fetchedFrom": "https://catalog.archives.gov/id/461456800",
+      "built": "page-images",
+      "retrieved": "2026-10-17"
+    },
+    "Recent Sentient Highlights": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/ce7937297d99c24ee170ca29c2937b6ca3fbf5b2ffbf056ec5bd35ef6a42ccaa.pdf",
+      "sha256": "ce7937297d99c24ee170ca29c2937b6ca3fbf5b2ffbf056ec5bd35ef6a42ccaa",
+      "bytes": 118334,
+      "pages": 10,
+      "ocr": "skip-text",
+      "sourceSha256": "fd4cea42d97353239babb189dbc24727a1ed1d4d5ef01a6dd5000677889e645a",
+      "thumb": {
+        "src": "/documents/recent-sentient-highlights.webp",
+        "width": 320,
+        "height": 248
+      },
+      "thumbPage": 2,
+      "source": "https://www.nro.gov/Portals/65/documents/foia/declass/ForAll/103122/F-2021-00154_C05136334.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20250201141238id_/https://www.nro.gov/Portals/65/documents/foia/declass/ForAll/103122/F-2021-00154_C05136334.pdf",
+      "retrieved": "2026-10-17"
+    },
+    "Robertson Panel Report": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/53c7ba40b9b4cb2cc6139c3ef0b9be9a71110689c75057adadda55715a3f17b0.pdf",
+      "sha256": "53c7ba40b9b4cb2cc6139c3ef0b9be9a71110689c75057adadda55715a3f17b0",
+      "bytes": 2236572,
+      "pages": 38,
+      "ocr": "skip-text",
+      "sourceSha256": "3cd626bea4447e9246cf7ad210d18856cf5dea028336ae9fa832e4a1b4609345",
+      "thumb": {
+        "src": "/documents/robertson-panel-report.webp",
+        "width": 320,
+        "height": 415
+      },
+      "thumbPage": 1,
+      "source": "https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20250518191301id_/https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "Schumer Amendment (NDAA)": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/48e74589bc792992e366d7b33639fca6b6256f0619788e52e4b1f73e618281ca.pdf",
+      "sha256": "48e74589bc792992e366d7b33639fca6b6256f0619788e52e4b1f73e618281ca",
+      "bytes": 254775,
+      "pages": 7,
+      "thumb": {
+        "src": "/documents/schumer-amendment-ndaa.webp",
+        "width": 320,
+        "height": 415
+      },
+      "thumbPage": 1,
+      "source": "https://www.congress.gov/amendment/118th-congress/senate-amendment/797/text",
+      "fetchedFrom": "https://www.govinfo.gov/content/pkg/CREC-2023-07-13/pdf/CREC-2023-07-13-pt1-PgS2953.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "Twining Memo": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/3a44e62b30c19118930aa193a6a72687af96d8f01017205151b24a8ea87f33e1.pdf",
+      "sha256": "3a44e62b30c19118930aa193a6a72687af96d8f01017205151b24a8ea87f33e1",
+      "bytes": 492582,
+      "pages": 3,
+      "ocr": "skip-text",
+      "sourceSha256": "1232029134966ddf66b14c99a3f651483daf39c56d3751541852c8b0354cc2bb",
+      "thumb": {
+        "src": "/documents/twining-memo.webp",
+        "width": 320,
+        "height": 427
+      },
+      "thumbPage": 1,
+      "source": "https://www.nicap.org/docs/1947_Twining_memo.pdf",
+      "fetchedFrom": "https://www.nicap.org/docs/1947_Twining_memo.pdf",
+      "retrieved": "2026-10-16"
+    },
+    "USAF Regulation 200-2": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/2da3812a91791600c99726205bf2d4db32e8fee3dd6c34fc0d892930f9cc80f1.pdf",
+      "sha256": "2da3812a91791600c99726205bf2d4db32e8fee3dd6c34fc0d892930f9cc80f1",
+      "bytes": 1332725,
+      "pages": 4,
+      "ocr": "skip-text",
+      "sourceSha256": "3c6c0b622601a42307f2656e30bd9f2316add39b016ae43bc3f144d50cc4b9b6",
+      "thumb": {
+        "src": "/documents/usaf-regulation-200-2.webp",
+        "width": 320,
+        "height": 453
+      },
+      "thumbPage": 1,
+      "source": "https://www.nicap.org/directives/AFR200-2_26Aug1953.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20141117045956id_/https://www.nicap.org/directives/AFR200-2_26Aug1953.pdf",
+      "retrieved": "2026-10-16"
+    }
+  }
+}

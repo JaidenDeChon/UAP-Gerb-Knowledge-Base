@@ -1,5 +1,5 @@
 import type { NoteMeta, TreeItem } from '#shared/types/wiki'
-import { graph, portraits, previews, tree, videos } from '#wiki-data'
+import { documents, graph, portraits, previews, tree, videos } from '#wiki-data'
 
 let videoIdByNode: Map<number, string> | undefined
 let transcriptTitles: Map<string, string> | undefined
@@ -12,6 +12,7 @@ function transcripts(): Map<string, string> {
     for (const item of items) {
       if (item.type === 'folder') walk(item.children, item.name)
       else if (item.path.endsWith('/transcript')) transcriptTitles!.set(item.path, `Transcript - ${folder}`)
+      else if (item.path.startsWith('/wiki/documents/transcriptions/')) transcriptTitles!.set(item.path, item.name)
     }
   }
   walk(tree, '')
@@ -41,12 +42,14 @@ export default defineEventHandler((event): NoteMeta => {
       lead: previews[index]?.lead ?? '',
       videoId: videoIdByNode.get(index) ?? null,
       ...(portraits[index] ? { image: portraits[index] } : {}),
+      ...(documents[index] ? { document: documents[index] } : {}),
     }
   }
 
   const transcript = transcripts().get(path)
   if (transcript) {
-    return { path, title: transcript, category: 'Videos', lead: '', videoId: null }
+    const category = path.startsWith('/wiki/documents/') ? 'Documents' : 'Videos'
+    return { path, title: transcript, category, lead: '', videoId: null }
   }
 
   throw createError({ statusCode: 404, statusMessage: 'Note not found' })
