@@ -269,13 +269,13 @@ export interface BakedVideo {
 }
 
 /** What an analysis sets out: a link, a sequence, a conflict, a shift in Gerb's view, or a recurrence. */
-export type AnalysisKind = 'hidden-link' | 'timeline' | 'contradiction' | 'change-of-view' | 'pattern'
+export type AnalysisKind = 'smoking-gun' | 'corroboration' | 'hidden-link' | 'timeline' | 'contradiction' | 'change-of-view' | 'pattern'
 /** How far the evidence carries the inference. */
 export type AnalysisConfidence = 'strong' | 'moderate' | 'speculative'
 /** Whether a web check found the connection already public outside Gerb's videos. */
 export type AnalysisNovelty = 'new' | 'known-elsewhere' | 'partly-known'
 
-export const ANALYSIS_KINDS: AnalysisKind[] = ['hidden-link', 'timeline', 'contradiction', 'change-of-view', 'pattern']
+export const ANALYSIS_KINDS: AnalysisKind[] = ['smoking-gun', 'corroboration', 'hidden-link', 'timeline', 'contradiction', 'change-of-view', 'pattern']
 export const ANALYSIS_CONFIDENCES: AnalysisConfidence[] = ['strong', 'moderate', 'speculative']
 export const ANALYSIS_NOVELTIES: AnalysisNovelty[] = ['new', 'known-elsewhere', 'partly-known']
 
@@ -294,6 +294,8 @@ export interface BakedAnalysis {
   novelty: AnalysisNovelty | null
   /** The one- or two-sentence finding, from `dek:`. */
   dek: string
+  /** How much the finding matters, 1–5, from `impact:`; null when absent. */
+  impact: number | null
   /** How many video folders the note lists under `videos:`. */
   videos: number
 }
@@ -438,6 +440,8 @@ export interface AnalysisCard {
   kind: AnalysisKind | null
   confidence: AnalysisConfidence | null
   novelty: AnalysisNovelty | null
+  /** How much the finding matters, 1–5. */
+  impact: number | null
   /** Video folders the analysis draws on. */
   videoCount: number
   /** Distinct entries it links to, videos, maps of content and other analyses aside. */

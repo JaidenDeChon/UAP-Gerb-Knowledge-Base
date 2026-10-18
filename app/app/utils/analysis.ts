@@ -1,5 +1,5 @@
 import type { Component } from 'vue'
-import { History, Link2, Repeat, Split, TrendingUp } from '@lucide/vue'
+import { BadgeCheck, Flame, History, Link2, Repeat, Split, TrendingUp } from '@lucide/vue'
 import {
   ANALYSIS_CONFIDENCES,
   ANALYSIS_KINDS,
@@ -15,6 +15,8 @@ import {
  * the head of an analysis page so the two always say the same thing.
  */
 export const KIND_LABEL: Record<AnalysisKind, string> = {
+  'smoking-gun': 'Smoking gun',
+  'corroboration': 'Confirmed',
   'hidden-link': 'Hidden link',
   'timeline': 'Timeline',
   'contradiction': 'Contradiction',
@@ -23,6 +25,8 @@ export const KIND_LABEL: Record<AnalysisKind, string> = {
 }
 
 export const KIND_ICON: Record<AnalysisKind, Component> = {
+  'smoking-gun': Flame,
+  'corroboration': BadgeCheck,
   'hidden-link': Link2,
   'timeline': History,
   'contradiction': Split,
@@ -87,3 +91,4 @@ export function readAnalysisMeta(read: (key: string) => unknown): AnalysisMeta {
     dek: typeof dek === 'string' ? dek.trim() : '',
   }
 }
+

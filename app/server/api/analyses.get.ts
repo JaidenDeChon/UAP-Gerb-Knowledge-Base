@@ -20,6 +20,7 @@ export default defineEventHandler((event): AnalysisCard[] => {
     kind: analysis.kind,
     confidence: analysis.confidence,
     novelty: analysis.novelty,
+    impact: analysis.impact,
     videoCount: analysis.videos,
     entityCount: (links.outgoing[analysis.i] ?? []).filter(i => !NOT_ENTITIES.has(graph.nodes[i]!.c)).length,
   }))

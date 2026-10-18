@@ -58,6 +58,12 @@ function oneOf<T extends string>(allowed: readonly T[], value: string | undefine
   return (allowed as readonly string[]).includes(v ?? '') ? (v as T) : null
 }
 
+/** `impact:` as a whole number from 1 to 5, else null. */
+function impactValue(value: string | undefined): number | null {
+  const n = Number(value)
+  return Number.isInteger(n) && n >= 1 && n <= 5 ? n : null
+}
+
 /** Every note directly under `Analyses/`: its graph index and raw text. */
 function* analysesNotes(): Generator<{ i: number, raw: string }> {
   const { stemByPath, nodeByPath } = graphIndex()
@@ -94,6 +100,7 @@ export function buildAnalyses(): BakedAnalysis[] {
       confidence: oneOf(ANALYSIS_CONFIDENCES, scalar(block, 'confidence')),
       novelty: oneOf(ANALYSIS_NOVELTIES, scalar(block, 'novelty')),
       dek: scalar(block, 'dek') ?? '',
+      impact: impactValue(scalar(block, 'impact')),
       videos: listValue(block, 'videos').length,
     })
   }
