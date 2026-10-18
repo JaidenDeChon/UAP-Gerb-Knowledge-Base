@@ -50,7 +50,7 @@ Read with "1968", the story has Trudeau briefing a congressman on programs he ha
 
 ## Already known?
 
-Searches turned up the Bush–Davis material in Vallee's fifth volume and the documentary claims about Holloman (see [[The Holloman landing George Bush confirmed wasn't Eisenhower's 1954 meeting]]). Nothing turned up that discusses the Trudeau passage or checks its timing against Bush's or Trudeau's careers.
+Searches turned up the Bush–Davis material in Vallee's fifth volume and the documentary claims about Holloman. Nothing turned up that discusses the Trudeau passage or checks its timing against Bush's or Trudeau's careers.
 
 ## What would settle it
 
