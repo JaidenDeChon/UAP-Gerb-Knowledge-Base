@@ -56,6 +56,10 @@ Borland's account of old [[Atomic Energy Commission]] files at DTRA led Gerb to 
 
 Gerb counts Borland among the whistleblowers who have faced what he calls administrative terrorism. In his Hidden Wing video he says he strongly suspects that reprisals against Borland, like those against [[David Grusch]], came at least partly from program protection offices such as the DARPA Security and Intelligence Directorate and the AFOSI Office of Special Projects (PJ) under [[Terry Phillips]].
 
+## In the NASIC video
+
+In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb notes that Borland served as an enlisted Air Force geospatial intelligence and imagery specialist (1N1) from 2010 to 2013 and later worked at [[BAE Systems]] as a senior analyst in advanced electro-optical imagery, video and radar analysis. BAE, Gerb says, has supported the [[National Air and Space Intelligence Center (NASIC)|National Air and Space Intelligence Center]]'s electro-optical and spectral analysis and software for three decades. He cites Borland's statement that he was exposed to the crash retrieval portfolio as one more tie between geospatial intelligence and crash retrieval, whichever role it came through.
+
 ## Sources
 
 - [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
@@ -64,3 +68,4 @@ Gerb counts Borland among the whistleblowers who have faced what he calls admini
 - [[Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/summary|Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
 - [[Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/summary|The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
 - [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
+- [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]]

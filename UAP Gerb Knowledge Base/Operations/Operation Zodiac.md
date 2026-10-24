@@ -44,6 +44,11 @@ Zodiac likely sat in the "Classified Tier," carrying out field operations while 
 - [[Operation Bluefly]]: a related unacknowledged program
 - [[CIA Office of Global Access]]: alleged by journalist [[Christopher Sharp]] to coordinate modern crash retrieval
 
+## TRW and the NASIC video
+
+In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb calls Zodiac an alleged UFO crash retrieval project in which [[TRW]] was the main operational and scientific element. He says former TRW executive Mary Elizabeth Elliott was one of [[Eric Davis]]'s top sources on it, and that Davis has said, in a recent podcast, that Elliott told him the TRW effort physically housed six intact non-human craft, all recovered overseas; in the clip Gerb plays, Davis describes her as the program's executive administrative assistant, in charge of its security officers and its SCIF. According to [[Jacques Vallee]]'s *Forbidden Science*, Davis also learned that Zodiac records and TRW's special studies of the Roswell wreckage were kept at [[Wright-Patterson Air Force Base]] in a ten-volume binder. Gerb connects this to Project West Wing, which he says the [[Air Technical Intelligence Center (ATIC)|Air Technical Intelligence Center]] ran with staff from TRW's [[Space Technology Laboratories (STL)|Space Technology Laboratories]], and asks whether TRW handled recoveries outside the United States for an off-books Air Force UFO materiel program alongside the [[National Air and Space Intelligence Center (NASIC)|National Air and Space Intelligence Center]]'s forebears.
+
 ## Sources
 
 - [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]]

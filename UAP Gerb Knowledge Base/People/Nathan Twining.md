@@ -38,7 +38,12 @@ caption: "Twining's recommendation of a coded, classified study whose data would
 
 The study Twining recommended treated UFOs as a legitimate subject for military intelligence and scientific analysis instead of dismissing them as misidentifications or hoaxes. It was a significant moment in the government's official handling of UFOs.
 
+## In the NASIC video
+
+In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb discusses an alleged four-page document dated 10 July 1947 and signed by Twining, published by [[Leonard Stringfield]] in 1994, which summarizes the investigation of a disc recovered at White Sands Proving Ground with data from T-2 (see [[Twining White Sands Air Accident Report (1947)]]). He treats the document as unprovable, but says the one thing he believes for sure is Twining's involvement in the legacy effort as commander of Air Materiel Command, including in the Roswell crash and in crashes at White Sands in the late 1940s and early 1950s. Stringfield's witness "Bob" also said that after the White Sands recovery, generals including Twining were flown to Holloman Air Force Base.
+
 ## Sources
 
 - [[Videos/Global Air Force UFO Encounters You've Probably Never Heard of/summary|Global Air Force UFO Encounters You've Probably Never Heard of]]
 - [[Videos/The Origin of the UFO Stigma/summary|The Origin of the UFO Stigma]]
+- [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]]

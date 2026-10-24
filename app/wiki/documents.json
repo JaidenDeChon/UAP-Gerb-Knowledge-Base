@@ -65,6 +65,21 @@
       "fetchedFrom": "https://web.archive.org/web/20260307120154id_/https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/routing_slip_ufo_iran.pdf",
       "retrieved": "2026-10-16"
     },
+    "DoD Directive C-3325.01E": {
+      "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/669faaa5e1dd7e82977a3f2fea4fc486b7e1cfee5f63baa2c1bd71041b033f7e.pdf",
+      "sha256": "669faaa5e1dd7e82977a3f2fea4fc486b7e1cfee5f63baa2c1bd71041b033f7e",
+      "bytes": 442817,
+      "pages": 8,
+      "thumb": {
+        "src": "/documents/dod-directive-c-3325-01e.webp",
+        "width": 320,
+        "height": 414
+      },
+      "thumbPage": 1,
+      "source": "https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Administration_and_Management/08-F-1748_Foreign_Materiel_Program_10-10-2006.pdf",
+      "fetchedFrom": "https://web.archive.org/web/20210412184250id_/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Administration_and_Management/08-F-1748_Foreign_Materiel_Program_10-10-2006.pdf?ver=2017-05-15-135556-097",
+      "retrieved": "2026-10-24"
+    },
     "Environmental Assessment Report on Avery Technical Center": {
       "url": "https://xecbgycxisqdrsswtecs.supabase.co/storage/v1/object/public/documents/2da2f38e5e145e7310d68664b37a29a3e4dc434951760da4bdb169b39a3190e0.pdf",
       "sha256": "2da2f38e5e145e7310d68664b37a29a3e4dc434951760da4bdb169b39a3190e0",

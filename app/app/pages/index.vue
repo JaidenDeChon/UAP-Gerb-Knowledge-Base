@@ -1,11 +1,15 @@
 <script setup lang="ts">
+import type { VideoCard } from '#shared/types/wiki'
 import type { WikiPage } from '@/utils/content'
 import { splitAtFirstH2 } from '@/utils/content'
 import { warmContentComponents } from '@/utils/warmContentComponents'
 
-/** The entry behind the Featured card — the route @nuxt/content gives its note. */
-const FEATURED_PATH
-  = '/wiki/videos/80-years-of-ufo-crash-retrieval-and-reverse-engineering-a-timeline/summary'
+// The Featured card shows the most recently processed video: the head of the
+// list `/api/videos` serves newest first, so it moves on with each new ingest.
+async function featuredEntry(): Promise<WikiPage | null> {
+  const [newest] = await $fetch<VideoCard[]>('/api/videos', { query: { limit: 1 } })
+  return newest ? queryCollection('wiki').path(newest.path).first() : null
+}
 
 // The vault's Home note lives at /wiki/home; render it here so it lands on the
 // app root. The map moved to /map.
@@ -17,7 +21,7 @@ const FEATURED_PATH
 const { data, status } = useAsyncData('home', async () => {
   const [home, featured] = await Promise.all([
     queryCollection('wiki').path('/wiki/home').first(),
-    queryCollection('wiki').path(FEATURED_PATH).first(),
+    featuredEntry(),
     warmContentComponents(),
   ])
   return { home, featured }

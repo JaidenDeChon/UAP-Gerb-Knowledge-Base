@@ -372,6 +372,10 @@ In *UFO Crash/Retrieval Status Report 5*, Stringfield published a brief account 
 
 Researchers still build on Leonard Stringfield's careful record of crash retrieval testimony. On the Kecksburg case he preserved witness accounts, cross-checked them, and kept the testimony that contradicted the case on the record alongside the testimony that supported it. With Stan Gordon he produced one of the most credible and thoroughly researched alleged UAP retrieval cases in history.
 
+## In the NASIC video
+
+In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb calls Stringfield "the legend" and a serious, credible investigator, recommends his status reports "1 through 7" without reservation, and draws three Wright-Patterson accounts from his files: "Bob", interviewed with [[Tim Cooper|Timothy Cooper]] on 6 April 1991 (Status Report VI), on a 1947 White Sands disc report, alongside the [[Twining White Sands Air Accident Report (1947)|alleged Twining document]] Stringfield published in Status Report VII; a man Gerb calls Jerry Cohake, who on 5 July 1978 told Stringfield of nine alien bodies at Wright-Patterson in 1966–1968 and a master UFO computer file kept there since 1948; and "PJ" (Status Report III), whom Gerb identifies as Rear Admiral [[Paul Stafford Johnson Jr.]]. He credits Stringfield's sourcing, which reached flag officers, and ties all three to the forebears of the [[National Air and Space Intelligence Center (NASIC)|National Air and Space Intelligence Center]].
+
 ## Sources
 
 - [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
@@ -387,3 +391,4 @@ Researchers still build on Leonard Stringfield's careful record of crash retriev
 - [[Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/summary|US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
 - [[Videos/UFO Legacy Programs - Northrop Grumman/summary|UFO Legacy Programs - Northrop Grumman]]
 - Leonard Stringfield, [[Stringfield Status Reports|UFO Crash/Retrieval Status Reports]] I–VII (1978–1994)
+- [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]]

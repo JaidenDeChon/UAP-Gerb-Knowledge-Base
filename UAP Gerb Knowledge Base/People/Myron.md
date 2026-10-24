@@ -64,8 +64,13 @@ Myron's description of the craft matches those of witnesses [[Jim Romansky]] and
 
 Whether Myron's body claim is accurate is still debated. His account of the craft itself is consistent with other witnesses and adds important detail about the alleged transport and storage of the Kecksburg object at Wright-Patterson AFB.
 
+## In the NASIC video
+
+In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb mentions Myron and JS as two truckers who said they saw the Kecksburg bell in the custody of Air Force personnel at Wright-Patterson, threads in what he calls a larger tapestry of [[Eric A. Walker]]'s and [[Robert Sarbacher]]'s statements about crash retrieval meetings at the base in the 1950s, to be covered in a future Wright-Patterson project.
+
 ## Sources
 
 - [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
 - Leonard Stringfield, *UFO Crash/Retrievals: The Inner Sanctum*, [[Stringfield Status Reports|Status Report VI]] (1991)
 - Stan Gordon, *Kecksburg: The Untold Story* (1998)
+- [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]]
