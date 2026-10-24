@@ -19,7 +19,7 @@ Richelson's work on NEST is not about UAP, but it supplies an essential factual 
 
 ## In the NASIC video
 
-In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb draws on a late-2000s organization chart of the [[National Air and Space Intelligence Center (NASIC)|National Air and Space Intelligence Center]] reproduced in Richelson's *The US Intelligence Community*, which he calls "sublime" (he gives the author's name as "Jeffrey T. Richardson"). The chart shows both the Foreign Materiel Exploitation Squadron and a GEOINT/MASINT analysis squadron in a since-dissolved Data Analysis Group, which lets Gerb trace the latter to today's Geospatial Intelligence Analysis Squadron.
+In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb draws on a late-2000s organization chart of the [[National Air and Space Intelligence Center (NASIC)|National Air and Space Intelligence Center]] reproduced in Richelson's *The US Intelligence Community*, which he calls "sublime" (the video's subtitles give the author's name as "Jeffrey T. Richardson"). The chart shows both the Foreign Materiel Exploitation Squadron and a GEOINT/MASINT analysis squadron in a since-dissolved Data Analysis Group, which lets Gerb trace the latter to today's Geospatial Intelligence Analysis Squadron.
 
 ## Sources
 

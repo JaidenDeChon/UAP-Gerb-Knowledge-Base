@@ -290,7 +290,7 @@ events:
   - date: "1993-10"
     title: "National Air Intelligence Center"
     cue: 2287
-    summary: "The center becomes the National Air Intelligence Center (Gerb says \"National Air Intelligence Agency\")."
+    summary: "The center becomes the National Air Intelligence Center (the subtitles say \"National Air Intelligence Agency\")."
     category: organization
     significance: minor
   - date: "2003-02"
@@ -760,12 +760,12 @@ entries:
 - **Operations**: [[Project Sign]], [[Project Grudge]], [[Project Blue Book]], [[Project Stork]], [[Operation Zodiac]], [[Operation Bluefly]], [[Operation Paperclip]], [[Alsos Mission]]
 - **Events**: [[Roswell Crash]], [[1953 Kingman, Arizona Crash Retrieval]], [[1965 Kecksburg, Pennsylvania Crash Retrieval]], [[1933 Magenta UFO CrashRetrieval]]
 
-[^gerb-atic]: Gerb gives the name correctly here, but in the intelligence-and-engineering section he calls it the "air tactical intelligence center"; it was the Air Technical Intelligence Center.
+[^gerb-atic]: In the intelligence-and-engineering section the video's subtitles give the name as "air tactical intelligence center"; it was the Air Technical Intelligence Center.
 
-[^gerb-naic]: Gerb says that "in 1993, the National Air Intelligence Agency was formed under the Air Force ISR agency". The center was redesignated the National Air Intelligence Center on 1 October 1993, under the Air Intelligence Agency, which became the Air Force ISR Agency only in 2007 ([Wikipedia, National Air and Space Intelligence Center](https://en.wikipedia.org/wiki/National_Air_and_Space_Intelligence_Center)).
+[^gerb-naic]: The video's subtitles read "in 1993, the National Air Intelligence Agency was formed under the Air Force ISR agency". The center was redesignated the National Air Intelligence Center on 1 October 1993, under the Air Intelligence Agency, which became the Air Force ISR Agency only in 2007 ([Wikipedia, National Air and Space Intelligence Center](https://en.wikipedia.org/wiki/National_Air_and_Space_Intelligence_Center)).
 
-[^gerb-clapper]: Gerb says Clapper "served as USDI from 2009 to 2010". Clapper was Under Secretary of Defense for Intelligence from April 2007 to August 2010 ([Wikipedia, James Clapper](https://en.wikipedia.org/wiki/James_Clapper)).
+[^gerb-clapper]: The video's subtitles have Clapper serving "as USDI from 2009 to 2010". Clapper was Under Secretary of Defense for Intelligence from April 2007 to August 2010 ([Wikipedia, James Clapper](https://en.wikipedia.org/wiki/James_Clapper)).
 
-[^gerb-richelson]: Gerb calls the author "Jeffrey T. Richardson"; *The US Intelligence Community* is by [[Jeffrey T. Richelson]].
+[^gerb-richelson]: The video's subtitles give the author as "Jeffrey T. Richardson"; *The US Intelligence Community* is by [[Jeffrey T. Richelson]].
 
-[^gerb-roswell-records]: Gerb speaks of "the Air Force's destruction of the Roswell records in 1995 after New Mexico State Rep. Steven Schiff launched a General Accounting Office probe". Schiff was a member of the US House of Representatives, not a state representative, and the GAO's 1995 report found that the records had been destroyed at some earlier, unrecorded date, not in 1995 (see [[GAO Roswell Report (1995)]]).
+[^gerb-roswell-records]: The video's subtitles speak of "the Air Force's destruction of the Roswell records in 1995 after New Mexico State Rep. Steven Shift launched a General Accounting Office probe". Schiff was a member of the US House of Representatives, not a state representative, and the GAO's 1995 report found that the records had been destroyed at some earlier, unrecorded date, not in 1995 (see [[GAO Roswell Report (1995)]]).
