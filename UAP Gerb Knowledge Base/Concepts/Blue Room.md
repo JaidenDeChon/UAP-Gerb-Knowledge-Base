@@ -24,7 +24,19 @@ In 1991, UFO researcher [[Brian Parks]] submitted a FOIA request about the Blue 
 
 Anonymous Marine whistleblower "[[RB]]" claimed that in December 1963 he was flown on a windowless plane from Cherry Point, North Carolina to an undisclosed location within a three-hour flight, a range consistent with Wright-Patterson. He said he guarded a 40-foot disc-shaped craft there for two weeks. Gerb speculates that the facility RB described may be the Blue Room or a building connected to it.
 
+## The FOIA trail to NASIC
+
+In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb sets out the Freedom of Information Act replies on the Blue Room in order:
+
+- **1980.** [[Bill Moore]] asked for a records search on the Blue Room among the directorates of the [[Air Force Foreign Technology Division|Foreign Technology Division]]. The Air Force forwarded the request not to FTD but to the Aeronautical Systems Division, the engineering side of Wright-Patterson.
+- **Form 1350.** Shortly afterwards an Air Force Form 1350 master archival reference record came to light, listing a 35 mm film titled "Blue Room Radar Scope, Wright-Patterson Air Force Base, 1955", shot by and received from the base's engineering division, the [[Wright Air Development Center (WADC)|Wright Air Development Center]]. A follow-up request by Moore drew a reply treating "Blue Room" as an Air Force project, probably a film of an aircraft target beacon on a radar scope, and saying the Air Force had no records of it.
+- **1991.** [[Brian Parks]] asked for the Form 1350 film. The Air Force said the DoD Motion Media Records Center at [[Norton Air Force Base]] had been searched and the film destroyed on 9 September 1965.
+- **2012.** Researcher Anthony Bragalia, building on Parks's request, asked again and was told that "the office of record for Blue Room is NASIC, National Air and Space Intelligence Center", to which the Wright-Patterson FOIA office transferred his request.
+
+Gerb asks on what documentary basis the Air Force concluded the film was destroyed rather than transferred, renamed or kept by another sponsor, and concludes that the Blue Room is an institution of the [[National Air and Space Intelligence Center (NASIC)|National Air and Space Intelligence Center]] and its engineering counterpart, the [[Air Force Life Cycle Management Center (AFLCMC)|Air Force Life Cycle Management Center]]: in his assessment, the physical storage location for their foreign materiel exploitation assets, which does house UFO materials. He believes it has been moved around the base between the intelligence and engineering sides, and thinks it "highly probable" that it was once in Building 4E of the Hangar 4 complex, which housed captured foreign aircraft and was used by both FTD and the Wright Air Development Center's 4950th Test Wing, and where he places the saucer seen by the Navy pilot "PJ" ([[Paul Stafford Johnson Jr.]]) in 1962 or 1963.
+
 ## Sources
 
 - [[Videos/UFO Whistleblowers Vol.2/summary|UFO Whistleblowers Vol.2]]
 - [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]
+- [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]]

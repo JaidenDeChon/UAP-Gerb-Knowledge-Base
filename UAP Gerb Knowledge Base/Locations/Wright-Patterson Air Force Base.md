@@ -74,9 +74,14 @@ The base also houses a NAMRU D (Naval Medical Research Unit) installation that h
 
 Wright-Patterson is still a major center for Air Force research and development, materials analysis and advanced technology programs. That is precisely the infrastructure that would support the ongoing UAP-related technical analysis and reverse engineering that whistleblowers allege.
 
+## In the NASIC video
+
+In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb describes Wright-Patterson as the Air Force's primary research, development and acquisition hub and the home, in Building 856, of the [[National Air and Space Intelligence Center (NASIC)|National Air and Space Intelligence Center]]. He believes the base was once the main materiel node for UFO retrievals and is probably still an occasional one, with storage almost entirely underground, though much Air Force hardware has, he thinks, moved to the western ranges; he has heard, but doubts, testimony of craft delivered by C-5 Galaxy in the 2010s. He reviews claims of craft and bodies at the base from [[Leonard Stringfield]]'s files: a man Gerb calls Jerry Cohake, who said he saw nine bodies under glass in 1966–1968, was told 30 were kept there, and was told of a master UFO computer file kept at the base since 1948; and "PJ" ([[Paul Stafford Johnson Jr.]]), who saw a guarded disc in a hangar in 1962 or 1963. Gerb places PJ's sighting in Building 4E of the Hangar 4 complex in Area B, built in 1944 as Wright Field's aircraft modification facility, which housed captured foreign aircraft and the Air Force Test Pilot School and was used by the Foreign Technology Division and the 4950th Test Wing, and thinks the [[Blue Room]] was probably there at one point. He also notes [[Eric Davis]]'s account that TRW's Roswell records were kept at the base in a ten-volume binder.
+
 ## Sources
 
 - [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]
 - [[Videos/FASTWALKERS – UFOs Outside Earth/summary|FASTWALKERS – UFOs Outside Earth]]
 - [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
 - [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
+- [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]]

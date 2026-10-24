@@ -160,6 +160,10 @@ LeMay was Air Force Chief of Staff from 1961 until General [[John P. McConnell]]
 - Gerb cites a 1999 MUFON report, an article in the July 1999 *MUFON UFO Journal*, that places LeMay at what Gerb calls James Conley Air Force Base during a close encounter between an F-89J Scorpion and a 30-foot object with four blue-white lights. After a near collision, the object reportedly shot away vertically and disappeared at 990,000 feet.
 - One of the two ships [[Gary McKinnon]] says he found named in Pentagon files on [[Solar Warden]] was the USSS *LeMay*.
 
+## In the NASIC video
+
+In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb plays [[Barry Goldwater]]'s account of asking LeMay about "a room at Wright-Patterson where you put all his secret stuff", and LeMay getting "mad as hell" and telling him never to ask again, and notes that the one Air Force film labelled "Blue Room" was destroyed in September 1965, shortly afterwards (see [[Blue Room]]). He also points out that LeMay, as Air Force Chief of Staff, signed the commendation of Master Sergeant Harry B. Cooper, father of [[Tim Cooper]], whose photographic work Gerb reads as support for the Foreign Technology Division's part in "the Air Force UFO Program".
+
 ## Sources
 
 - [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
@@ -169,3 +173,4 @@ LeMay was Air Force Chief of Staff from 1961 until General [[John P. McConnell]]
 - [[Videos/The Alien and UFO Obscure Oddities Iceberg (Level 2)/summary|The Alien and UFO Obscure Oddities Iceberg (Level 2)]]
 - [[Videos/US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction/summary|US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
 - [[Videos/80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline/summary|80 Years of UFO Crash Retrieval and Reverse Engineering - A Timeline]]
+- [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]]

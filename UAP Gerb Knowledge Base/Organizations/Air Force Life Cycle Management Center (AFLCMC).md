@@ -15,7 +15,12 @@ AFLCMC's Information Protection Directorate (AFLCMC/IP) is the part of the cente
 
 UAP Gerb's *Special Access Required Vol.2* names AFLCMC/IP as one of four "program protection" offices that Gerb alleges are deputized to enforce insider- and outsider-threat protection connected to alleged UFO legacy program activity within Air Force acquisition. The other three are the [[DARPA Security and Intelligence Directorate (SID)]], [[Air Force Office of Special Investigations|AFOSI]]/PJ, and [[Office of Intelligence and Counterintelligence|DOE OICI]]. The video links AFLCMC's mission and Lieutenant General Shipton's prior SAF/AQ role (cited in UAP Gerb's earlier *Hidden Wing* investigation) to what Gerb argues is a chain of senior Air Force acquisition officials theoretically positioned to know about or have access to non-human technology exploitation programs.
 
+## The engineering twin of NASIC
+
+In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb presents AFLCMC as the engineering face of the coin whose intelligence face is the [[National Air and Space Intelligence Center (NASIC)|National Air and Space Intelligence Center]]. Both trace their roots to 1917 at McCook Field. Before 1951 they were Air Materiel Command's engineering and technical intelligence divisions; in 1951 the engineering side became the [[Wright Air Development Center (WADC)|Wright Air Development Center]] under the Air Research and Development Command; in 1961 it became the Aeronautical Systems Division, reunited with the [[Air Force Foreign Technology Division|Foreign Technology Division]] under Air Force Systems Command; in 1992 it became the Aeronautical Systems Center under Air Force Materiel Command; and in 2012 it became AFLCMC. Gerb believes the two sides have worked the legacy mission together since the "Manhattan Project 2.0", and concludes from the FOIA trail that the [[Blue Room]] is a NASIC–AFLCMC institution.
+
 ## Sources
 
 - [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
 - [[Videos/Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2/summary|Special Access Required - the Secrecy of UFO Crash Retrieval Programs Vol.2]]
+- [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]]

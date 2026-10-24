@@ -13,6 +13,11 @@ Gerb treats STL as the corporate bridge between 1950s crash retrieval and today'
 
 The same video likens the 1960 split of STL and the Aerospace Corporation to [[SAIC]]'s 2013 spin-off of [[Leidos]]: two organizations with shared personnel, practices and access to government special access programs, which Gerb alleges includes UFO legacy programs.
 
+## Project West Wing
+
+In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb says that STL staffed Project West Wing, an Air Force effort to analyse Soviet intelligence and technology, established with the help of General Bernard Schriever's Western Development Division and funded and administered through the [[Air Technical Intelligence Center (ATIC)|Air Technical Intelligence Center]] at Wright-Patterson; he cites a 1990 National Air and Space Museum interview with Schriever. STL's vice president at the time was [[Edward Bushnell Doll]], named as coordinator of the [[1953 Kingman, Arizona Crash Retrieval|1953 Kingman retrieval]]. Gerb says West Wing passed to the [[Aerospace Corporation]], spun off from STL in 1960, where it continues as the corporation's strategic and global awareness directorate, and asks whether West Wing had an off-books UFO element run by TRW, connected to the alleged [[Operation Zodiac|Zodiac]] program.
+
 ## Sources
 
 - [[Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/summary|Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
+- [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]]

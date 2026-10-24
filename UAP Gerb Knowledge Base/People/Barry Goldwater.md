@@ -209,6 +209,10 @@ The video "UFO Whistleblowers [Vol.2]" presents four documentary sources on Gold
 - In a 1975 public interview, Goldwater said on the record: "I think the government does know. I can't back that up, but I think that at Wright-Patterson field, if you could get into certain places, you'd find out what the Air Force and the government knows about UFOs." In the same interview he described the phone call in which LeMay told him, "Don't ever ask me that question again."
 - In a letter to Lee Graham dated October 19, 1981, Goldwater says he knows of no one with access to the Blue Room and is unaware of anything being relocated. He describes the subject as "impossible to get anything on" because of its classification level.
 
+## In the NASIC video
+
+In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb opens his [[Blue Room]] section with Goldwater's late-1970s statement that at Wright-Patterson "if you could get into certain places, you'd find out what the Air Force and the government knows about UFOs", and his account of [[Curtis LeMay]]'s furious refusal. Gerb follows the FOIA requests that came after: Moore's in 1980, Parks's in 1991 (the Blue Room film destroyed on 9 September 1965) and Anthony Bragalia's in 2012, which drew the reply that the Blue Room's office of record is the [[National Air and Space Intelligence Center (NASIC)|National Air and Space Intelligence Center]].
+
 ## Sources
 
 - [[Videos/MOON DUST - The Pentagon's Secret UFO Programs/summary|MOON DUST - The Pentagon's Secret UFO Programs]]
@@ -217,5 +221,6 @@ The video "UFO Whistleblowers [Vol.2]" presents four documentary sources on Gold
 - [[Videos/The Majestic-12 Documents With Ryan S. Wood/summary|The Majestic-12 Documents With Ryan S. Wood]]
 - [[Videos/US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction/summary|US Special Forces Confession - I Recovered Crashed UFOs - Fact or Fiction]]
 - [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
+- [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]]
 
 [^gerb-goldwater-lemay-date]: Gerb dates LeMay's rebuff to "the 28th of December 1973" in his Level 2 iceberg and says Goldwater "in 1975 was stonewalled" in his Special Forces video, but LeMay stopped being Air Force Chief of Staff in early 1965 (on 1 February 1965, per Gerb's own Kecksburg video), and Goldwater's March 1975 letter puts his attempt "ten or twelve years" earlier, so both later dates are probably slips: 1975 is the year of the interview in which Goldwater told the story, and no source for 28 December 1973 was found ([Curtis LeMay, Wikipedia](https://en.wikipedia.org/wiki/Curtis_LeMay); [Goldwater's 1974 and 1975 letters](https://mirror.cyberbits.eu/textfiles.com/ufo/UFOBBS/2000/2934.ufo)).

@@ -228,6 +228,10 @@ Gerb still treats the core of the Wilson-Davis notes as true, but by 2026 he des
 
 Davis has also pointed Gerb's research in several directions. He described an unnamed 1960 spin-off of [[TRW]], which Gerb identifies as the Aerospace Corporation, as involved in UFO programs, with TRW as "principal investigator" for about 29 years; he later said one of his main sources was a woman at TRW. Vallee's journals record him describing the rumored [[Operation Zodiac|Zodiac]] program and a ten-volume binder at Wright-Patterson. He has said that UFO legacy programs use sole-source contracts, and, according to Vallee, he heard George H. W. Bush say that [[Philip J. Corso]] could not have mistaken Nazi hardware for recovered technology.
 
+## In the NASIC video
+
+In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb cites Davis's statement, in a recent podcast episode, that his source Mary Elizabeth Elliott, whom Gerb calls a former TRW vice president, told him the TRW crash retrieval program she worked for housed six intact craft, all recovered overseas. In the clip, Davis describes her as the executive administrative assistant of a crash retrieval program that a legacy aerospace company, since absorbed by another, was contracted to run at an Air Force facility, in charge of its security officers and its SCIF. Gerb also cites [[Jacques Vallee]]'s *Forbidden Science* for Davis's account that Zodiac records and TRW's special studies of the Roswell wreckage were kept at [[Wright-Patterson Air Force Base]] in a ten-volume binder, and asks whether this was a record of an off-books Air Force UFO materiel program (see [[Operation Zodiac]]).
+
 ## Sources
 
 - [[Videos/The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs/summary|The Wilson Davis Memo and US Secret UFO Reverse Engineering Programs]]
@@ -243,3 +247,4 @@ Davis has also pointed Gerb's research in several directions. He described an un
 - [[Videos/Philip J. Corso - US Army UFO Technology Research & Development/summary|Philip J. Corso - US Army UFO Technology Research & Development]]
 - [[Videos/Dugway Proving Ground - UFO Legacy Programs/summary|Dugway Proving Ground - UFO Legacy Programs]]
 - [[Videos/The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies/summary|The Modern Day UFO Disinformation Agent - Dr. Sean Kirkpatrick's Lies]]
+- [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]]

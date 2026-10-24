@@ -90,6 +90,10 @@ In 2023 Sheehan alleged that the defense contractor [[Radiance Technologies]] wa
 
 Sheehan represents former AATIP director [[Luis Elizondo]]. In May 2021, with Sheehan as his attorney, Elizondo filed a complaint with the Department of Defense Inspector General alleging that Defense Department officials were trying to discredit him after he went public. Sheehan told reporters that those officials were "using the color of authority of their offices to disparage him and discredit him."
 
+## In the NASIC video
+
+In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb plays Sheehan's account of being given access, in the spring of 1977, to classified portions of [[Project Blue Book]] brought to the Madison Building in Washington, where he found photographs of an active crash retrieval: a 30 to 40 foot saucer with a large dome that had skidded across a snow-covered field and lodged in an embankment, with US Air Force personnel photographing it. Gerb uses it to ask whether recovery imagery reached classified annexes of the programs run by the forebears of the [[National Air and Space Intelligence Center (NASIC)|National Air and Space Intelligence Center]], and compares the symbols Sheehan described with the glyphs [[Randy Anderson]] said he saw at [[Naval Surface Warfare Center Crane|NSWC Crane]].
+
 ## Sources
 
 - [[Videos/Off-World Technologies Division – UAP Technology Reverse Engineering/summary|Off-World Technologies Division – UAP Technology Reverse Engineering]]
@@ -97,6 +101,7 @@ Sheehan represents former AATIP director [[Luis Elizondo]]. In May 2021, with Sh
 - [[Videos/The 1965 Kecksburg, Pennsylvania UFO Crash/summary|The 1965 Kecksburg, Pennsylvania UFO Crash]]
 - [[Videos/US Navy UFO Crash Retrieval & Reverse Engineering Programs/summary|US Navy UFO Crash Retrieval & Reverse Engineering Programs]]
 - Daniel Sheehan's remarks at UFO Megacon, 2021 (quoted in the Off-World Technologies Division video)
+- [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]]
 
 ## Related Pages
 

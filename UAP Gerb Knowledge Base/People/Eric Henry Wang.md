@@ -144,6 +144,10 @@ Gerb's *The Hidden Wing* (2026) returns to Wang as the link between early crash 
 - Gerb located the *Mechanical Engineering* obituary that [[William Steinman]] had cited. It gives Wang's birth in Austria on 6 May 1906 and places his department, both at Wright-Patterson and after its move to Kirtland, in the research directorate of the [[Air Force Special Weapons Center (AFSWC)]]. That command later fed into both [[Air Force Systems Command]] and the [[Air Force Research Laboratory]], and so into modern AFMC. Gerb adds that the obituary identifies Steinman's informant "MW" as Maria Wang, Eric Wang's wife. On that reading, it was Wang's wife who confirmed his role in the "flying saucer program" and told Steinman that a "Dr. H.A.K." was completely in charge of it while Wang was alive. Gerb suggests these initials could belong to Henry Kissinger.
 - In AFSWC's 1956 Kirtland Air Force Base yearbook, under the research directorates, Gerb found a photograph of Wang, which he presents as the first image of him ever shown publicly.
 
+## In the NASIC video
+
+In [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]], Gerb returns to Wang as the scientific and technical lead on the craft recovered at Kingman, and places him in the [[Wright Air Development Center (WADC)|Wright Air Development Center]], the engineering counterpart of the [[Air Technical Intelligence Center (ATIC)|Air Technical Intelligence Center]]. With the coordinator, [[Edward Bushnell Doll]], at or soon to join TRW's Space Technology Laboratories, which staffed ATIC's Project West Wing, Gerb reads Kingman as an instance of Air Force engineering and intelligence working the crash retrieval mission together.
+
 ## Sources
 
 - [[Videos/The 1948 Aztec, New Mexico UFO Crash Retrieval/summary|The 1948 Aztec, New Mexico UFO Crash Retrieval]]
@@ -152,3 +156,4 @@ Gerb's *The Hidden Wing* (2026) returns to Wang as the link between early crash 
 - [[Videos/The Hidden Wing - US Air Force UFO Reverse Engineering Programs/summary|The Hidden Wing - US Air Force UFO Reverse Engineering Programs]]
 - [[Videos/Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2/summary|Northrop Grumman & TRW - UFO Reverse Engineering, Material Exploitation, & Legacy Programs Vol.2]]
 - [[Videos/The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1/summary|The Manhattan Project 2.0 - the Secrecy of UFO Crash Retrieval Programs Vol.1]]
+- [[Videos/NASIC - Air Force UFO Crash Retrieval & Reverse Engineering/summary|NASIC - Air Force UFO Crash Retrieval & Reverse Engineering]]
